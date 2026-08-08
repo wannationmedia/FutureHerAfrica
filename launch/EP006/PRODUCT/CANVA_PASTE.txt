@@ -1,0 +1,90 @@
+FUTUREHER · CANVA PASTE · EP006
+Master: FH_PRODUCT_MASTER → duplicate as FH_PROD_EP006_forever-prompts-cheat-sheet_v1
+Size: A4 · Accent: #2F6F6A · Type: Cheat Sheet
+
+── PAGE 1: COVER ──
+Series pill: FutureHer · AI
+Eyebrow: FutureHer Cheat Sheet
+Title: Forever Prompts Cheat Sheet
+Subtitle: RTCCE on one glance — Role · Task · Context · Constraints · Example — reusable for years.
+Footer line: RTCCE · Role · Task · Context · Constraints · Example
+Price mark: R79
+Tagline: Ready for what's next.
+
+── PAGE 2: BRANDING ──
+Who: This cheat sheet is for South African women who are tired of fluffy AI answers — admin, teaching, freelancing, studies — and want a forever prompt structure that outlives logo changes.
+Promise:
+• One clearer idea: vague in → fluff out
+• One practical skill: RTCCE
+• One winning prompt saved in your Forever Prompts note
+Close: FutureHer teaches instructions, not magic words. Logos change. Clear prompts stay useful.
+
+── PAGE 3: CONTENTS ──
+01  Cover
+02  Who this is for
+03  Contents
+04  RTCCE at a glance
+05  Fill-in prompt builder
+06  Workplace examples
+07  Forever Prompts library
+08  Action sheets
+09  QR codes
+10  Next step
+11  Thank you
+
+── PAGE 4: RTCCE at a glance ──
+Teach: Role: who should AI act as. Task: the deliverable in one verb phrase. Context: facts it must know. Constraints: length, tone, format, what to avoid. Example: a tiny sample of the shape you want. That is a forever prompt.
+
+
+
+
+── PAGE 5: Fill-in prompt builder ──
+Teach: Write each line once. Paste into any assistant.
+Prompt 1: ROLE — Act as a…
+Prompt 2: TASK — Create / rewrite / summarise…
+Prompt 3: CONTEXT — Facts it must know…
+Prompt 4: CONSTRAINTS — Length, tone, avoid…
+Prompt 5: EXAMPLE — Start like this / shape like this…
+☐ My Task uses a clear verb (rewrite, summarise, draft, outline)
+☐ I added at least one constraint (words, no buzzwords, format)
+☐ I included a tiny example of the shape I want
+
+
+── PAGE 6: Workplace examples ──
+Teach: Steal the structure. Replace the facts with yours.
+
+
+[Email rewrite] ROLE: Clear workplace communicator. TASK: Rewrite this email. CONTEXT: [paste facts]. CONSTRAINTS: 120 words, warm SA professional tone, no buzzwords. EXAMPLE: Start with the decision, then the ask.
+[Meeting summary] ROLE: Reliable note-taker. TASK: Summarise these notes into decisions, owners, and next steps. CONTEXT: [paste]. CONSTRAINTS: bullets only, no invented names. EXAMPLE: Decision — Owner — Due.
+[Lesson / training outline] ROLE: Practical adult educator. TASK: Outline a 20-minute lesson. CONTEXT: audience and outcome. CONSTRAINTS: three sections max, plain English. EXAMPLE: Hook · Skill · Practice.
+
+── PAGE 7: Forever Prompts library ──
+Teach: One saved prompt is an asset. Ten is a system. Rate quality after each run.
+Prompt 1: Before prompt (weak version):
+Prompt 2: RTCCE after (winner):
+Prompt 3: Result quality 1–5:
+
+
+
+── ACTION SHEETS ──
+1. Rewrite your vaguest prompt with a clear Task verb (5 min) — Help with work becomes rewrite / summarise / draft.
+2. Add one hard constraint (3 min) — Example: 120 words max, no buzzwords.
+3. Add a one-line example of the shape you want (3 min) — Show the opening or bullet pattern.
+4. Run the full RTCCE on one real work task (12 min) — Compare against your old vague prompt.
+5. Save the winner in Forever Prompts (3 min) — Notes folder title: Forever Prompts.
+6. Rate the result 1–5 and note what to tighten (2 min) — Constraints usually fix fluff.
+
+── QR DESTINATIONS ──
+Forward Collective: https://www.youtube.com/@FutureHerAfrica/community
+AI lessons: https://www.youtube.com/@FutureHerAfrica/playlists
+FutureHer on YouTube: https://www.youtube.com/@FutureHerAfrica
+
+── UPSELL ──
+When you're ready for the next layer
+• Verify Before You Send Checklist — Source · Number · Name before fluent answers leave your hands.
+• The Forward Collective — Share one winning RTCCE prompt with the community.
+Save the winners. That is how prompts become assets.
+
+── THANK YOU ──
+You traded magic words for clear instructions. That skill will outlast the next app launch.
+Thank you for building Forever Prompts with FutureHer.

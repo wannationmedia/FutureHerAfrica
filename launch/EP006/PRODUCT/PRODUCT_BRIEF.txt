@@ -1,0 +1,9 @@
+Working title: Forever Prompts Cheat Sheet
+Type: Cheat Sheet
+Pillar / accent: AI / #2F6F6A
+Outcome: RTCCE on one glance — Role · Task · Context · Constraints · Example — reusable for years.
+Source episode: EP006 — Prompting basics that still work in 5 years
+Framework: RTCCE
+Price (ZAR): R79
+Soft launch: Forward Collective + YouTube Community
+Free companion: RTCCE Prompt Card

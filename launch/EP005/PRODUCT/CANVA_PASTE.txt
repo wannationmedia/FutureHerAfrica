@@ -1,0 +1,86 @@
+FUTUREHER · CANVA PASTE · EP005
+Master: FH_PRODUCT_MASTER → duplicate as FH_PROD_EP005_ai-boundaries-at-work-guide_v1
+Size: A4 · Accent: #2F6F6A · Type: Guide
+
+── PAGE 1: COVER ──
+Series pill: FutureHer · AI
+Eyebrow: FutureHer Guide
+Title: AI Boundaries at Work Guide
+Subtitle: Automate · Assist · Avoid — a boss-safe map for real South African workplaces.
+Footer line: THE WORK MAP · Automate · Assist · Avoid
+Price mark: R197
+Tagline: Ready for what's next.
+
+── PAGE 2: BRANDING ──
+Who: This guide is for South African women whose manager said “use AI more” with zero rules — office teams, schools, clinics admin, banks, and freelancers who need a calm duty map and conversation scripts.
+Promise:
+• One clearer idea: Assist is not replace
+• One practical skill: Automate · Assist · Avoid
+• One Assist task run and verified before share
+Close: FutureHer keeps judgment human. AI can prepare. You still carry accountability, privacy, and the final decision.
+
+── PAGE 3: CONTENTS ──
+01  Cover
+02  Who this is for
+03  Contents
+04  Work Map teach
+05  Duty mapping worksheet
+06  Manager conversation scripts
+07  Privacy red lines
+08  Action sheets
+09  QR codes
+10  Next step
+11  Thank you
+
+── PAGE 4: Work Map teach ──
+Teach: Automate: repetitive low-risk tasks where mistakes are easy to spot and fix. Assist: AI drafts, you verify, you own the send. Avoid: passwords, confidential data, invented facts, final judgments, and unsupervised commitments. Ambiguity feels like danger — a map restores movement.
+
+
+
+
+── PAGE 5: Duty mapping worksheet ──
+Teach: List eight real duties from your job. Label each lane. Note what you must check before share.
+
+
+
+
+── PAGE 6: Manager conversation scripts ──
+Teach: Use these when policy is vague. Warm. Clear. Short. No drama.
+
+
+[Clarify the lane] I want to use AI in a way that protects our work. For [duty], I plan to use it as Assist — AI drafts, I verify. Are there duties you want marked Avoid?
+[Privacy boundary] I will not paste passwords, OTPs, payroll, or private client/learner data into AI tools. If a task needs those details, I will keep it human-only.
+[Verification habit] Before I share AI-assisted work, I will verify sources, numbers, and names. If I cannot verify, I will cut the claim.
+
+── PAGE 7: Privacy red lines ──
+Teach: Don't paste secrets. Privacy is professional — not fear.
+Prompt 1: One Avoid duty I will protect this week:
+Prompt 2: One Assist task I will run today:
+☐ Passwords, OTPs, and banking secrets stay out of AI
+☐ Payroll, ID numbers, and private learner/client files stay Avoid
+☐ I strip names and sensitive details before prompting when possible
+☐ I never let AI invent facts, citations, or commitments I will own
+☐ Final judgments and unsupervised promises stay human
+
+
+── ACTION SHEETS ──
+1. List eight real duties from your job (10 min) — Concrete duties — not vague goals.
+2. Label each Automate, Assist, or Avoid (8 min) — When unsure, choose Avoid until clarified.
+3. Write one manager clarification message (7 min) — Use a script from this guide — edit in your voice.
+4. Run one Assist task with AI (12 min) — Draft, verify, then share only after checks.
+5. Remove one sensitive detail before prompting (3 min) — Names, IDs, or private numbers out.
+
+── QR DESTINATIONS ──
+Forward Collective: https://www.youtube.com/@FutureHerAfrica/community
+AI lessons: https://www.youtube.com/@FutureHerAfrica/playlists
+FutureHer on YouTube: https://www.youtube.com/@FutureHerAfrica
+
+── UPSELL ──
+When you're ready for the next layer
+• Forever Prompts Cheat Sheet — RTCCE prompts that still work when tools change.
+• The Forward Collective — Practise workplace AI boundaries with others doing the same.
+Clarity first. Then speed. Judgment stays yours.
+
+── THANK YOU ──
+You mapped what AI may touch. That is professional courage — quiet and useful.
+Thank you for leading with clarity alongside FutureHer.

@@ -1,0 +1,40 @@
+FUTUREHER · EP010 · DIGITAL PRODUCT PACK
+Name: Kind No Money Journal
+Type: Journal
+Slug: kind-no-money-journal
+Price: R149
+Framework: THE KIND NO
+Canva master: FH_PRODUCT_MASTER → FH_PROD_EP010_kind-no-money-journal_v1
+
+FILES
+01  pages/01_COVER.html
+02  pages/02_BRANDING.html
+03  pages/03_CONTENTS.html
+04  pages/04_KIND_NO_TEACH.html
+05  pages/05_VALUES_PAGES.html
+06  pages/06_SCRIPT_BANK.html
+07  pages/07_DECISION_JOURNAL.html
+08  pages/08_ACTION_SHEETS.html
+09  pages/09_QR.html
+10  pages/10_UPSELL.html
+11  pages/11_THANK_YOU.html
+12  SALES_COPY.txt
+13  EMAIL_SEQUENCE.txt
+14  CANVA_PASTE.txt
+15  PRODUCT_BRIEF.txt
+16  00_INDEX.txt
+
+ASSEMBLY
+1. Open HTML pages in Chrome → Print → Save as PDF (A4) for proof
+2. Duplicate Canva FH_PRODUCT_MASTER
+3. Paste from CANVA_PASTE.txt
+4. Rebuild QR in Canva from URLs on the QR HTML page
+5. Export FH_Product_Journal_kind-no-money-journal_v1.pdf
+6. Soft-launch with SALES_COPY.txt + EMAIL_SEQUENCE.txt
+
+QC
+[ ] No placeholders
+[ ] SA examples present
+[ ] QR tested
+[ ] Actions ≤ 7
+[ ] Soft upsell only

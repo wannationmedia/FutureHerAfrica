@@ -1,0 +1,43 @@
+FUTUREHER · EP001 · DIGITAL PRODUCT PACK
+Name: The Task Layer Workbook
+Type: Workbook
+Slug: task-layer-workbook
+Price: R197
+Framework: THE TASK LAYER
+Canva master: FH_PRODUCT_MASTER → FH_PROD_EP001_task-layer-workbook_v1
+
+FILES
+01  pages/01_COVER.html
+02  pages/02_BRANDING.html
+03  pages/03_CONTENTS.html
+04  pages/04_THE_IDEA_FEAR_IS_DATA.html
+05  pages/05_SKILL_MAP_LABEL_RUN.html
+06  pages/06_LABEL_GUIDE_ASSIST_OWN_HYBRID.html
+07  pages/07_FIVE_TASK_WORKSHEET.html
+08  pages/08_RUN_ONE_EDIT_IN_YOUR_VOICE.html
+09  pages/09_REFLECTION.html
+10  pages/10_ACTION_SHEETS.html
+11  pages/11_QR.html
+12  pages/12_UPSELL.html
+13  pages/13_THANK_YOU.html
+14  SALES_COPY.txt
+15  EMAIL_SEQUENCE.txt
+16  CANVA_PASTE.txt
+17  PRODUCT_BRIEF.txt
+18  00_INDEX.txt
+
+ASSEMBLY
+1. Open HTML pages in Chrome → Print → Save as PDF (A4) for proof
+2. Duplicate Canva FH_PRODUCT_MASTER
+3. Paste from CANVA_PASTE.txt
+4. Rebuild QR in Canva from URLs on the QR HTML page
+5. Export FH_Product_Workbook_task-layer-workbook_v1.pdf
+6. Soft-launch with SALES_COPY.txt + EMAIL_SEQUENCE.txt
+
+QC
+[x] No content placeholders (URLs use brand handle @FutureHerAfrica — create channel before Public)
+[x] SA examples present
+[x] QR codes encode Collective / playlists / channel (re-test after any URL change)
+[x] Actions ≤ 7
+[x] Soft upsell only
+[ ] PDF assembled in Canva + checkout live (optional soft-launch via Collective)

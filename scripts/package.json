@@ -1,0 +1,14 @@
+{
+  "name": "futureher-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FutureHer episode factory + digital product engine",
+  "scripts": {
+    "generate:episodes": "node generate-ep002-ep010.mjs",
+    "generate:products": "node generate-products.mjs"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8" />
+<title>Micro-Save 30-Day Challenge — Cover</title>
+<style>
+  @import url("https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Newsreader:wght@500;600&display=swap");
+  :root {
+    --ink:#121A21; --stone:#F3EFE8; --ivory:#FFFCF8; --brass:#B8893A;
+    --lagoon:#2F6F6A; --mist:#D8D2C8; --text2:#3D4A55; --accent:var(--lagoon);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  @page { size: A4; margin: 0; }
+  body {
+    font-family: "Satoshi", system-ui, sans-serif;
+    background: #1A232B; color: var(--ink);
+    min-height: 100vh; display: grid; place-items: center; padding: 20px; gap: 20px;
+  }
+  .sheet {
+    width: 210mm; min-height: 297mm; background: var(--stone);
+    padding: 16mm 15mm; display: flex; flex-direction: column; gap: 12px;
+    position: relative; page-break-after: always;
+  }
+  .sheet.cover {
+    background:
+      radial-gradient(ellipse at 20% 10%, rgba(47,111,106,.12), transparent 50%),
+      linear-gradient(165deg, #F3EFE8 0%, #E8E0D4 55%, #F3EFE8 100%);
+    justify-content: space-between; padding: 18mm 16mm;
+  }
+  .eyebrow {
+    font-size: 12px; font-weight: 500; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--accent);
+  }
+  .pill {
+    display: inline-block; background: var(--accent); color: #FFFCF8;
+    font-size: 12px; font-weight: 500; letter-spacing: .06em;
+    padding: 8px 14px; border-radius: 6px;
+  }
+  h1 {
+    font-family: "Newsreader", "Source Serif 4", Georgia, serif;
+    font-weight: 600; font-size: 36px; line-height: 1.12; max-width: 16ch;
+  }
+  h1.sm { font-size: 28px; max-width: 22ch; }
+  h2 {
+    font-size: 13px; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--accent); font-weight: 500;
+  }
+  h3 { font-size: 18px; font-weight: 700; line-height: 1.25; }
+  .rule { width: 72px; height: 3px; background: var(--brass); }
+  .sub { font-size: 16px; color: var(--text2); line-height: 1.45; max-width: 36ch; }
+  .body { font-size: 14px; color: var(--text2); line-height: 1.5; }
+  .logo { font-weight: 700; font-size: 20px; }
+  .logo span { color: var(--brass); }
+  .horizon {
+    width: 120px; height: 24px; border: 2.5px solid var(--brass);
+    border-top: none; border-radius: 0 0 120px 120px; opacity: .85;
+  }
+  .foot {
+    margin-top: auto; padding-top: 10px; border-top: 1px solid var(--mist);
+    display: flex; justify-content: space-between; font-size: 11px; color: var(--text2);
+  }
+  .callout {
+    background: var(--ivory); border-left: 4px solid var(--brass);
+    padding: 12px 14px; font-size: 14px; color: var(--text2); line-height: 1.45;
+  }
+  .callout.lagoon { border-left-color: var(--lagoon); }
+  .box {
+    background: var(--ivory); border: 1px solid var(--mist); border-radius: 8px;
+    padding: 12px 14px;
+  }
+  .lines { display: grid; gap: 10px; }
+  .line {
+    border-bottom: 0.5pt solid var(--mist); min-height: 8mm;
+  }
+  .checks { display: grid; gap: 8px; }
+  .check {
+    display: grid; grid-template-columns: 18px 1fr; gap: 10px; align-items: start;
+    font-size: 13px; color: var(--text2); line-height: 1.4;
+  }
+  .check i {
+    width: 16px; height: 16px; border: 1.5px solid var(--ink); border-radius: 3px;
+    display: block; margin-top: 2px;
+  }
+  .steps { display: grid; gap: 10px; }
+  .step {
+    background: var(--ivory); border: 1px solid var(--mist); padding: 12px 14px;
+    display: grid; grid-template-columns: 40px 1fr; gap: 10px;
+  }
+  .num {
+    width: 34px; height: 34px; border-radius: 8px; background: var(--ink); color: #FFFCF8;
+    display: grid; place-items: center; font-weight: 700; font-size: 13px;
+  }
+  table { width: 100%; border-collapse: collapse; background: var(--ivory); font-size: 12px; }
+  th, td { border: 1px solid var(--mist); padding: 9px 8px; text-align: left; }
+  th { background: var(--ink); color: #FFFCF8; font-weight: 500; }
+  .toc { display: grid; gap: 8px; }
+  .toc-row {
+    display: flex; justify-content: space-between; gap: 12px;
+    border-bottom: 1px dotted var(--mist); padding: 8px 0; font-size: 14px;
+  }
+  .toc-row span:last-child { color: var(--accent); font-weight: 500; }
+  .qr-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .qr-card {
+    background: var(--ivory); border: 1px solid var(--mist); border-radius: 10px;
+    padding: 14px; display: grid; gap: 8px; justify-items: center; text-align: center;
+  }
+  .qr-card svg { width: 150px; height: 150px; }
+  .qr-card b { font-size: 13px; }
+  .qr-card p { font-size: 11px; color: var(--text2); word-break: break-all; line-height: 1.35; }
+  .script {
+    background: var(--ivory); border-top: 3px solid var(--brass);
+    padding: 12px 14px; font-size: 13px; color: var(--text2); line-height: 1.45;
+  }
+  .script b { display: block; color: var(--ink); margin-bottom: 4px; font-size: 14px; }
+  .day-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .day {
+    background: var(--ivory); border: 1px solid var(--mist); padding: 10px;
+    font-size: 12px; color: var(--text2);
+  }
+  .day b { display: block; color: var(--ink); margin-bottom: 4px; font-size: 13px; }
+  ul.bullets { padding-left: 18px; color: var(--text2); font-size: 14px; line-height: 1.55; }
+  ul.bullets li { margin-bottom: 4px; }
+  .accent-bar { height: 8px; background: var(--accent); border-radius: 0 0 4px 4px; margin: -16mm -15mm 8px; }
+  @media print {
+    body { background: white; padding: 0; display: block; }
+    .sheet { box-shadow: none; margin: 0 auto; }
+  }
+</style>
+<style>:root { --accent: #B8893A; }</style>
+</head><body><article class="sheet cover">
+  <div>
+    <div class="horizon" aria-hidden="true"></div>
+    <div style="height:18px"></div>
+    <div class="pill">FutureHer · Money</div>
+    <div style="height:22px"></div>
+    <div class="eyebrow">FutureHer Challenge</div>
+    <div style="height:10px"></div>
+    <h1>Micro-Save 30-Day Challenge</h1>
+    <div style="height:14px"></div>
+    <div class="rule"></div>
+    <div style="height:14px"></div>
+    <p class="sub">Floor · Automate · Protect — keep a tiny save sacred for thirty days.</p>
+  </div>
+  <div>
+    <div class="logo">Future<span>Her</span></div>
+    <p class="body" style="margin-top:6px">Framework: THE MICRO-SAVE · Floor · Automate · Protect</p>
+    <p class="body" style="margin-top:4px">EP009 companion · R179</p>
+    <p class="body" style="margin-top:10px;color:var(--accent)">Ready for what's next.</p>
+  </div>
+</article></body></html>
