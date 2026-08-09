@@ -1,0 +1,207 @@
+FutureHerAfrica EP001 — isiZulu Voiceover Script
+Status: TRANSLATION DRAFT — NATIVE-LANGUAGE REVIEW REQUIRED
+Source: launch/EP001/SCRIPT_VO.txt
+Target voice: Azure zu-ZA-ThandoNeural
+Gender: Female
+Locale: zu-ZA
+Series: FutureHerAfrica · AI
+Topic: T001 — I'm scared AI will replace my job
+Framework: The Task Layer
+Target: ~8:00 | CapCut Template A
+Read calm. No hype. Pause where marked /
+
+---
+
+[0:00 HOOK — ~30s] [S1]
+
+Uma ubusuke uskidla izihloko ze-AI bese uzwa isisu sakho siyehla —
+awudlalisi.
+Ufunda indawo.
+
+Ukwesaba akusiyo into ethi "ngisalele ngemuva."
+Ukwesaba kuthi: "Ingabe kusazoba nendawo yami?"
+
+Namuhla ngizokunikeza umbono owodwa, ikhono elilodwa, kanye nesenzo esisodwa ongasiqeda ngaphambi kwesidlo sasemini.
+Akusona isikhuthazo. Ukulungela.
+
+/
+
+---
+
+[0:30 EVERYDAY SA STORY — ~90s]
+
+Ake ucabange lokhu.
+Usesema ofisini avulekile eGoli — noma usebenza egumbini lakho ePolokwane — bese othile efaka icebo le-ChatGPT eqenjini le-WhatsApp njengokuthi akulutho.
+
+Ingxenye yeqembu ithula.
+Othile uhlekisa.
+Omunye uthi "sonke sizothathelwa indawo ngokhisimusi."
+
+Uhleka nawo.
+Kodwa ngalobo busuku uhlole izikhala zomsebenzi ongazidingi —
+ukuze nje uzizwe uphephile.
+
+Lokhu ngikubonile kothisha, ezikhulu zokuphatha, abadayisi, abasebenzi bamabhange, abazimele —
+abesifazane abaqhakambile emisebenzini yabo —
+kodwa besazizwa sengathi umhlabathi uyanyakaza ngaphansi kwabo.
+
+Nali iqiniso okungathiwa ngobukhulu:
+abantu abethuka kakhulu ngokuvamile basabela ezinhlokweni zezindaba,
+hhayi emsebenzini wabo wangempela wosuku.
+
+Usuku lwakho lomsebenzi lukhiqizwa imisebenzi emincane.
+Akusiyo into eyodwa yokuthi ungubani i-AI engayisusa ngobusuku obubodwa.
+
+/
+
+---
+
+[2:00 THE PROBLEM — ~120s] [S2]
+
+ON-SCREEN: Fear ≠ forecast
+
+Inkinga akusiyo ukuthi i-AI ikhona.
+Inkinga ukuthi siphatha i-AI njengombiko wesimo sezulu ngemisebenzi yethu —
+bese siqina esikhundleni sokwenza.
+
+Ukwesaba ngaphandle kohlelo kuba ukugwema.
+Ukugwema kuba igebe lamakhono.
+Igebe lamakhono liba ingozi yangempela.
+
+Ngakho ake sihlukanise izinto ezintathu ezivame ukuxutshwa:
+
+Eyokuqala — Izihloko zezindaba zidayisa ukwesaba.
+Eyesibili — Umsebenzi wakho yiqoqo lemisebenzi.
+Eyesithathu — Eminye yaleyo misebenzi ingasizwa. Eminye ayikwazi.
+
+I-AI inobuchwepheshe ekubhaleni okusalungiswa, ekufingqeni, ekuhleleni, ekucwaningeni, nasekubhaleni kabusha.
+I-AI imbi kakhulu ekuthwaleni imiphumela, ekufundeni indawo, ekugcineni ithemba, ekwenzeni izinqumo ngaphansi kwengcindezi, nasekuthwaleni isibopho uma into yephuka.
+
+Uma inani lakho lingukuthi "ngingabhala lokho othile angitshele ukuthi ngikulobe" —
+yebo, lelo zinga lingaphansi kwengcindezi.
+
+Uma inani lakho lihlanganisa ukwahlulela, ubudlelwano, umongo, kanye nokuziphendulela —
+awusapheli.
+Uyamenywa ukuthi uthuthukise ingxenye yomsebenzi eyiseyingakwazi ukuthwalwa yimishini.
+
+ON-SCREEN: Tasks under pressure ≠ you under pressure
+
+/
+
+---
+
+[4:00 THE SKILL — ~120s] [S3]
+
+Framework name: THE TASK LAYER
+
+Nali ikhono.
+
+Isinyathelo 1 — Dweba imephu.
+Bhala phansi imisebenzi emihlanu oyenzile emsebenzini kuleli sonto.
+Hhayi isikhundla sakho. Imisebenzi.
+"Ngisaphendule ama-imeyili amakhasimende."
+"Ngakha ispreadsheet."
+"Ngahola umhlangano."
+"Ngalungisa isikhalazo."
+"Ngalungiselela umbiko."
+
+Isinyathelo 2 — Faka ilebula.
+Eceleni komsebenzi ngamunye, bhala igama elilodwa:
+ASSIST — i-AI ingasheshisa lokhu
+OWN — lokhu kudinga ukwahlulela kwami
+noma HYBRID — hlaka nge-AI, bese ngiyazinquma mina.
+
+Abesifazane abaningi bathola okuthile okuzolisa lapha:
+ingxenye enkulu yokwesaba kwabo inamathele emisebenzini ye-ASSIST —
+kanti inani labo langempela lihlezi ku-OWN naku-HYBRID.
+
+Isinyathelo 3 — Sebenzisa eyodwa.
+Khetha umsebenzi owodwa we-ASSIST noma we-HYBRID.
+Vula ucingo lwakho noma ilaptop.
+Cela i-AI ukuba ihlake inguqulo yokuqala —
+bese wena uhlela ngeqiniso, ngezwi, nangomongo.
+
+Lokho yi-Task Layer.
+Uyeka ukuphikisana nekusasa okungacacile —
+bese uqala ukuzijwayeza umsebenzi onawo ngempela.
+
+DEMO NOTES:
+Show phone screen: list of 5 tasks → labels → one prompt for an email draft → human edit.
+
+ON-SCREEN: Map · Label · Run one
+
+/
+
+---
+
+[6:00 PSYCHOLOGY — ~60s] [S4]
+
+Ipsychology esheshayo — hhayi njengokuxilonga, kodwa njengethuluzi.
+
+Ubuchopho bakho buphatha usongo olungacacile njengosongo oluhlala njalo.
+"I-AI izothatha imisebenzi" akucaci.
+Ukwesaba okungacacile kukugcina uskidla futhi unamathele.
+
+Isenzo esicacile sinciphisa usongo.
+Uma uqeda umsebenzi owodwa osizwe yi-AI,
+uhlelo lwakho lwezinzwa luthola ubufakazi:
+"Ngiyakwazi ukusebenza nalokhu."
+
+Lobo bufakazi bunamandla kunelinye ividiyo yesikhuthazo.
+Ukwesaba kuwudatha.
+Idatha icela isinyathelo esilandelayo — hhayi ukujikeleza.
+
+/
+
+---
+
+[7:00 ONE ACTION TODAY — ~40s] [S5]
+
+ON-SCREEN ACTION CARD:
+Today: Map 5 tasks. Run 1 with AI.
+
+Isenzo sakho namuhla — ngaphansi kwemizuzu engamashumi amathathu:
+
+1. Bhala imisebenzi emihlanu yomsebenzi yaleli sonto.
+2. Faka ilebula ngayinye: Assist, Own, noma Hybrid.
+3. Thatha umsebenzi owodwa we-Assist noma we-Hybrid uqede okusalungiswa kokuqala nge-AI — bese ukuhlela ngezwi lakho.
+
+Uma usuqedile, ngeke ube "uxazulule i-AI."
+Uzobe uqale ukulungela kwe-FutureHerAfrica:
+umbono owodwa, ikhono elilodwa, isenzo esisodwa.
+
+/
+
+---
+
+[7:40 COMMUNITY — ~20s]
+
+Uma lokhu kukusize, bhalisela i-FutureHerAfrica —
+bese ujoyina i-The Forward Collective.
+Inselele yalenyanga ilula:
+umsebenzi owodwa womsebenzi osizwe yi-AI, zonke izinsuku zokusebenza, izinsuku ezinhlanu.
+
+PINNED COMMENT:
+Which of your five tasks did you label ASSIST — and which one will you run today?
+
+/
+
+---
+
+[7:55 PREVIEW — ~10s]
+
+Ngesikhathi esizayo: indlela yokukhetha ithuluzi le-AI ongali themba ngempela —
+ngaphandle kokucwiliswa ecircus yezinhlelo zokusebenza.
+
+/
+
+---
+
+OUTRO SLOTS
+Idea: AI pressures tasks — not your whole worth
+Skill: The Task Layer — Map · Label · Run one
+Action: Five tasks. One AI draft. Your edit.
+CTA: Join The Forward Collective
+
+END CARD:
+FutureHerAfrica — Ready for what's next.
