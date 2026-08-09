@@ -1,0 +1,10 @@
+{
+  "name": "futureherafrica",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FutureHerAfrica production repository",
+  "scripts": {
+    "voice:ep001": "node scripts/voice/generate_voice.mjs --episode EP001",
+    "voice:episode": "node scripts/voice/generate_voice.mjs --episode"
+  }
+}

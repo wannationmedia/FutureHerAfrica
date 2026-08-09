@@ -1,0 +1,83 @@
+{
+  "brand": "FutureHerAfrica",
+  "voiceFamily": "FutureHerAfrica Female Voice Family",
+  "gender": "female",
+  "maleVoice": "PROHIBITED",
+  "optionB": "voice-direction-reference-only",
+  "sampleRateHz": 48000,
+  "format": "wav",
+  "bitDepth": 16,
+  "channels": 1,
+  "loudnessTargetLufs": -16,
+  "headPadMs": 120,
+  "tailPadMs": 250,
+  "silenceTrimThresholdDb": -42,
+  "languages": {
+    "EN": {
+      "code": "EN",
+      "name": "English",
+      "locale": "en-ZA",
+      "status": "VERIFIED",
+      "provider": "azure",
+      "model": "neural",
+      "defaultVoiceId": "en-ZA-LeahNeural",
+      "voiceIdEnv": "FHA_VOICE_EN_VOICE_ID",
+      "gender": "female",
+      "scriptFile": "SCRIPT_VO.txt",
+      "outputPattern": "{episode}_VO_EN_v1.wav",
+      "alsoWriteLegacyEn": "EP001_VO_v1.wav"
+    },
+    "NSO": {
+      "code": "NSO",
+      "name": "Sepedi",
+      "locale": "nso-ZA",
+      "status": "NOT-SUPPORTED",
+      "provider": "unsupported",
+      "model": null,
+      "defaultVoiceId": null,
+      "voiceIdEnv": "FHA_VOICE_NSO_VOICE_ID",
+      "gender": "female",
+      "scriptFile": "SCRIPT_VO_NSO.txt",
+      "outputPattern": "{episode}_VO_NSO_v1.wav"
+    },
+    "VE": {
+      "code": "VE",
+      "name": "Tshivenda",
+      "locale": "ve-ZA",
+      "status": "NOT-SUPPORTED",
+      "provider": "unsupported",
+      "model": null,
+      "defaultVoiceId": null,
+      "voiceIdEnv": "FHA_VOICE_VE_VOICE_ID",
+      "gender": "female",
+      "scriptFile": "SCRIPT_VO_VE.txt",
+      "outputPattern": "{episode}_VO_VE_v1.wav"
+    },
+    "TS": {
+      "code": "TS",
+      "name": "Xitsonga",
+      "locale": "ts-ZA",
+      "status": "NOT-SUPPORTED",
+      "provider": "unsupported",
+      "model": null,
+      "defaultVoiceId": null,
+      "voiceIdEnv": "FHA_VOICE_TS_VOICE_ID",
+      "gender": "female",
+      "scriptFile": "SCRIPT_VO_TS.txt",
+      "outputPattern": "{episode}_VO_TS_v1.wav"
+    },
+    "ZU": {
+      "code": "ZU",
+      "name": "isiZulu",
+      "locale": "zu-ZA",
+      "status": "VERIFIED",
+      "provider": "azure",
+      "model": "neural",
+      "defaultVoiceId": "zu-ZA-ThandoNeural",
+      "voiceIdEnv": "FHA_VOICE_ZU_VOICE_ID",
+      "gender": "female",
+      "scriptFile": "SCRIPT_VO_ZU.txt",
+      "outputPattern": "{episode}_VO_ZU_v1.wav"
+    }
+  }
+}

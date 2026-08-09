@@ -6,7 +6,9 @@
   "description": "FutureHer episode factory + digital product engine",
   "scripts": {
     "generate:episodes": "node generate-ep002-ep010.mjs",
-    "generate:products": "node generate-products.mjs"
+    "generate:products": "node generate-products.mjs",
+    "voice:ep001": "node voice/generate_voice.mjs --episode EP001",
+    "voice:episode": "node voice/generate_voice.mjs --episode"
   },
   "dependencies": {
     "qrcode": "^1.5.4"
