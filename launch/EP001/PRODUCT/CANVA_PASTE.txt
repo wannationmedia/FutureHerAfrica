@@ -1,10 +1,10 @@
-FUTUREHER · CANVA PASTE · EP001
+FUTUREHERAFRICA · CANVA PASTE · EP001
 Master: FH_PRODUCT_MASTER → duplicate as FH_PROD_EP001_task-layer-workbook_v1
 Size: A4 · Accent: #2F6F6A · Type: Workbook
 
 ── PAGE 1: COVER ──
-Series pill: FutureHer · AI
-Eyebrow: FutureHer Workbook
+Series pill: FutureHerAfrica · AI
+Eyebrow: FutureHerAfrica Workbook
 Title: The Task Layer Workbook
 Subtitle: Map five tasks. Label them. Run one with AI — then edit in your voice.
 Footer line: THE TASK LAYER · Map · Label · Run
@@ -17,7 +17,7 @@ Promise:
 • One clearer idea: AI pressures tasks, not your whole identity
 • One practical skill: Map · Label · Run with ASSIST / OWN / HYBRID
 • One action you can finish in a single sitting this week
-Close: FutureHer does not create noise. FutureHer creates readiness. Work the pages. Keep your dignity. Practise on real work — Johannesburg inbox, Limpopo staffroom, or a quiet evening at the kitchen table.
+Close: FutureHerAfrica does not create noise. FutureHerAfrica creates readiness. Work the pages. Keep your dignity. Practise on real work — Johannesburg inbox, Limpopo staffroom, or a quiet evening at the kitchen table.
 
 ── PAGE 3: CONTENTS ──
 01  Cover
@@ -87,7 +87,7 @@ Prompt 3: What will you practise again next week?
 ── QR DESTINATIONS ──
 Forward Collective: https://www.youtube.com/@FutureHerAfrica/community
 AI lessons: https://www.youtube.com/@FutureHerAfrica/playlists
-FutureHer on YouTube: https://www.youtube.com/@FutureHerAfrica
+FutureHerAfrica on YouTube: https://www.youtube.com/@FutureHerAfrica
 
 ── UPSELL ──
 When you're ready for the next layer
@@ -97,4 +97,4 @@ No pressure. Finish The Task Layer first. Readiness compounds.
 
 ── THANK YOU ──
 You mapped real work. You kept judgment human. That is readiness — not performance.
-Thank you for practising with FutureHer.
+Thank you for practising with FutureHerAfrica.
