@@ -1,0 +1,32 @@
+FUTUREHER · EP008 · PUBLISH PACK
+Title: My salary disappears before month-end — here's the map
+Slug: ep008-payday-map-salary
+Series: FutureHer · Money · T008 · THE PAYDAY MAP
+
+01  01_FINAL_SCRIPT.txt
+02  02_VOICEOVER_SCRIPT.txt
+03  03_STORYBOARD.txt
+04  04_AI_IMAGE_PROMPTS.txt
+05  05_BROLL_LIST.txt
+06  06_CAPCUT_PROJECT/
+      EDIT_BIBLE.txt
+      PROJECT.json
+      TEXT_OVERLAYS.txt
+07  07_SUBTITLES_EN.srt
+08  08_THUMBNAIL.png   ← export from ../thumbnail.html at 1280×720
+09  09_DESCRIPTION.txt
+10  10_CHAPTERS.txt
+11  11_SEO.txt
+12  12_HASHTAGS.txt
+13  13_COMMUNITY_POST.txt
+14  14_PINNED_COMMENT.txt
+15  15_SHORTS/
+      SHORTS_MASTER.txt
+      S1_Not_Character_Flaw.txt
+      S2_Fixed_Vs_Flexible.txt
+      S3_Payday_Map_60s.txt
+      S4_Airtime_Budget_Line.txt
+      S5_48_Hour_Payday_Plan.txt
+
+EXPORT TARGET
+FH_EP008_PaydayMap_v1.mp4

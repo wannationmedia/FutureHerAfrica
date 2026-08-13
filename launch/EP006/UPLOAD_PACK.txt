@@ -1,0 +1,55 @@
+FUTUREHER · EP006 · YOUTUBE UPLOAD PACK
+Copy-paste ready. Fill links before publish.
+
+CHANNEL HANDLE: @FutureHerAfrica
+TEMPLATE: A Educational
+SERIES: FutureHer · AI
+SLUG: ep006-rtcce-forever-prompts
+
+PRIMARY TITLE
+Prompting basics that still work in 5 years
+
+ALT TITLES
+1. Why your ChatGPT answers are fluff — and how to fix them
+2. The forever prompt framework (RTCCE)
+3. Stop writing bad prompts — use this structure
+
+THUMBNAIL TEXT (NOT the title)
+Role · Task · Context
+Series pill: FutureHer · AI
+Support: Constraints · Example
+File: launch/EP006/thumbnail.html → PUBLISH/08_THUMBNAIL.png
+
+DESCRIPTION
+(Use PUBLISH/09_DESCRIPTION.txt)
+
+TAGS
+how to write better AI prompts, ChatGPT prompt framework, RTCCE, prompt engineering beginners, better ChatGPT answers, FutureHer, AI for women, AI prompts for work South Africa
+
+CATEGORY: Education | Language: English | Captions: EN SRT
+Visibility: Public (or Unlisted 1h QC → Public)
+Comments: On | Made for kids: No | License: Standard YouTube
+
+PINNED COMMENT
+(Use PUBLISH/14_PINNED_COMMENT.txt)
+
+END SCREEN / CARDS
+Subscribe + next teaser + Forward Collective
+Cards: Subscribe @ 0:45 · Community @ 7:40
+
+CTA
+Download the RTCCE card + join the AI challenge
+
+DIGITAL PRODUCT
+Forever Prompts Practice Pack
+When you're ready to build a personal prompt library you can reuse for years, the Forever Prompts Practice Pack (entry practice workbook) gives you RTCCE drills, save templates, and workplace examples beyond this lesson.
+
+FREE WORKSHEET
+RTCCE Prompt Card (RTCCE_PROMPT_CARD_worksheet.html)
+
+SHORTS TITLES
+S1: Bad prompt vs good prompt
+S2: Constraints save your prompts
+S3: RTCCE in 60 seconds
+S4: Examples teach AI faster
+S5: Save your best prompts

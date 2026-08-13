@@ -1,0 +1,201 @@
+{
+  "project": "FH_EP002_AI_TrustStack",
+  "template": "FH_TMPL_A_Educational",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "duration_target_sec": 505,
+  "grade": "FH_Grade_Horizon",
+  "accent": "#2F6F6A",
+  "export": {
+    "filename": "FH_EP002_AI_TrustStack_v1.mp4",
+    "resolution": "1080p",
+    "codec": "H.264"
+  },
+  "markers": [
+    {
+      "id": "S1",
+      "timecode": "00:00:07:00",
+      "label": "Hook"
+    },
+    {
+      "id": "S2",
+      "timecode": "00:02:07:00",
+      "label": "Problem"
+    },
+    {
+      "id": "S3",
+      "timecode": "00:04:07:00",
+      "label": "Skill"
+    },
+    {
+      "id": "S4",
+      "timecode": "00:06:07:00",
+      "label": "Psychology"
+    },
+    {
+      "id": "S5",
+      "timecode": "00:07:07:00",
+      "label": "Action"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "INTRO",
+      "in": "00:00:00:00",
+      "out": "00:00:07:00",
+      "type": "compound",
+      "asset": "FH_TMPL_Intro_7s",
+      "text": [
+        "FutureHer · AI"
+      ]
+    },
+    {
+      "id": "HOOK",
+      "in": "00:00:07:00",
+      "out": "00:00:37:00",
+      "type": "a_roll_b_roll",
+      "assets": [
+        "BR01",
+        "A_ROLL_HOOK"
+      ],
+      "overlays": [
+        "One tool is enough."
+      ]
+    },
+    {
+      "id": "STORY",
+      "in": "00:00:37:00",
+      "out": "00:02:07:00",
+      "type": "a_roll_b_roll",
+      "assets": [
+        "BR03",
+        "BR04",
+        "BR05",
+        "A_ROLL_STORY"
+      ],
+      "overlays": [
+        "WhatsApp",
+        "eight apps",
+        "none used",
+        "more behind"
+      ]
+    },
+    {
+      "id": "PROBLEM",
+      "in": "00:02:07:00",
+      "out": "00:04:07:00",
+      "type": "a_roll_graphics",
+      "assets": [
+        "BR06",
+        "AI01_optional",
+        "A_ROLL_PROBLEM"
+      ],
+      "overlays": [
+        "Downloads ≠ progress",
+        "Need",
+        "Safety",
+        "Stick",
+        "Trust is a checklist"
+      ]
+    },
+    {
+      "id": "SKILL",
+      "in": "00:04:07:00",
+      "out": "00:06:07:00",
+      "type": "title_screen_demo",
+      "assets": [
+        "AI02_diagram",
+        "SR01_screen",
+        "BR07",
+        "A_ROLL_SKILL"
+      ],
+      "overlays": [
+        "THE TRUST STACK",
+        "01 Need",
+        "02 Safety",
+        "03 Stick",
+        "Need · Safety · Stick"
+      ]
+    },
+    {
+      "id": "PSYCHOLOGY",
+      "in": "00:06:07:00",
+      "out": "00:07:07:00",
+      "type": "a_roll",
+      "assets": [
+        "A_ROLL_PSYCH"
+      ],
+      "overlays": [
+        "Choice fatigue feels like failure."
+      ]
+    },
+    {
+      "id": "ACTION",
+      "in": "00:07:07:00",
+      "out": "00:07:47:00",
+      "type": "action_card",
+      "assets": [
+        "AC01_action_card",
+        "A_ROLL_ACTION"
+      ],
+      "overlays": [
+        "Pick one. Write three rules. Stick 30 days."
+      ],
+      "music_dip": true
+    },
+    {
+      "id": "CTA",
+      "in": "00:07:47:00",
+      "out": "00:08:07:00",
+      "type": "outro_slots",
+      "asset": "FH_TMPL_Outro_30s",
+      "text": {
+        "idea": "Trust is a checklist — not a download frenzy",
+        "skill": "The Trust Stack — Need · Safety · Stick",
+        "action": "Pick one tool. Write three safety rules. Stick for 30 days.",
+        "cta": "Subscribe for tool-refresh episodes"
+      }
+    },
+    {
+      "id": "PREVIEW_END",
+      "in": "00:08:07:00",
+      "out": "00:08:25:00",
+      "type": "preview_end",
+      "overlays": [
+        "Next — phone-only AI that still works"
+      ],
+      "end_card": "FutureHer — Ready for what's next."
+    }
+  ],
+  "audio": {
+    "vo": "audio/EP002_VO_v1.wav",
+    "bed": "Bed_A_calm_ambient",
+    "bed_level_db": -26,
+    "action_card_bed_db": -32
+  },
+  "shorts_source_ranges": {
+    "S1": [
+      "00:00:07:00",
+      "00:00:35:00"
+    ],
+    "S2": [
+      "00:02:07:00",
+      "00:02:52:00"
+    ],
+    "S3": [
+      "00:04:07:00",
+      "00:05:12:00"
+    ],
+    "S4": [
+      "00:06:07:00",
+      "00:06:55:00"
+    ],
+    "S5": [
+      "00:07:07:00",
+      "00:07:42:00"
+    ]
+  }
+}

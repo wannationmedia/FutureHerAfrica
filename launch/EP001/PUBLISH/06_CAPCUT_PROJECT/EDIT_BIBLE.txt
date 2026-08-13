@@ -1,0 +1,53 @@
+﻿UTUREHER · EP001 · CAPCUT PROJECT
+Project name: FH_EP001_AI_TaskLayer
+Duplicate from: FH_TMPL_A_Educational
+Canvas: 1920×1080 · 30fps · ~8:25
+Grade: FH_Grade_Horizon · Accent: Lagoon #2F6F6A
+Export: FH_EP001_AI_TaskLayer_v1.mp4 (1080p H.264)
+
+SETUP
+1. Duplicate Template A — never edit master
+2. Rename FH_EP001_AI_TaskLayer
+3. Import folder launch/EP001/footage/ + PUBLISH/08_THUMBNAIL.png + PUBLISH/AC01_ACTION_CARD.png (+ assets/ stills if used)
+4. Place VO on A1 · denoise · normalize
+5. Auto captions → apply FH caption style → fix SA place names
+6. Follow PROJECT.json slot order
+7. Markers: S1@0:07 · S2@2:07 · S3@4:07 · S4@6:07 · S5@7:07
+8. Export master → duplicate timeline → crop 9:16 for Shorts per 15_SHORTS
+
+TRACK MAP
+V1  A-roll / host
+V2  B-roll + AI stills
+V3  Screen record + graphics / action card
+V4  Intro / outro compounds (locked)
+A1  Voice-over
+A2  Music bed (12–18% under VO · dip on action card)
+A3  Soft ticks (steps only)
+
+LOCKED TEXT (outro)
+Idea: AI pressures tasks — not your whole worth
+Skill: The Task Layer — Map · Label · Run one
+Action: Five tasks. One AI draft. Your edit.
+CTA: Join The Forward Collective
+
+CAPTIONS
+Font: Satoshi Bold / Medium
+Colour: Ivory on Ink bar OR Ink on Stone
+Max 2 lines · never karaoke rainbow
+Keyword underline Lagoon rare (framework name only)
+
+TRANSITIONS
+Dissolve 280–400ms default
+Hard cut only on punch lines
+No bounce · no meme zooms · max +5% punch ×3
+
+QC BEFORE EXPORT
+[ ] Intro ≤ 8s to value
+[ ] Fear ≠ forecast lower-third readable
+[ ] Task Layer title holds ≥ 2.5s
+[ ] Screen demo readable on phone
+[ ] Action card holds 3s
+[ ] Idea/Skill/Action filled
+[ ] S1–S5 markers present
+[ ] Loudness comfortable on phone speaker
+[ ] No shock faces / neon / false promises

@@ -1,0 +1,15 @@
+﻿UTUREHER · EP001 · AI STILL ASSET MANIFEST
+Folder for generated stills referenced by PUBLISH/04_AI_IMAGE_PROMPTS.txt
+Max 3 stills in the CapCut edit. Prefer own B-roll first.
+
+EXPECTED FILENAMES (generate when needed — prompts are complete)
+AI01_calm_laptop.jpg              1920×1080   optional problem beat
+AI02_task_layer_diagram.png       1920×1080   skill title card
+AI03_thumb_face.jpg               1280×720    thumbnail face alt (thumb already shipped)
+AI04_desk_metaphor.jpg            1280×720    social / backup
+AI05_whatsapp_moment.jpg          1920×1080   story beat if no phone B-roll
+
+ALREADY SHIPPED (do not regenerate unless replacing)
+../PUBLISH/08_THUMBNAIL.png
+../FH_EP001_Thumbnail.png
+../PUBLISH/AC01_ACTION_CARD.png

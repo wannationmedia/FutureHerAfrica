@@ -1,0 +1,21 @@
+FUTUREHER · EP006 · CAPCUT EDIT SHEET
+Template: A Educational | Grade: FH_Grade_Horizon | Aspect: 16:9 master
+
+COLOURS
+Ink #121A21 | Stone #F3EFE8 | Brass #B8893A | Lagoon #2F6F6A | Ivory #FFFCF8
+
+INTRO (6–8s)
+Horizon arc + FutureHer wordmark + series pill "FutureHer · AI"
+
+TIMELINE
+00:00–00:30  HOOK [S1] — Stop asking for magic.
+00:30–02:00  STORY — help with work · fluff answer · I must be bad · framework fixes it
+02:00–04:00  PROBLEM [S2] — Vague in → fluff out · Role · Task · Context · Constraints · Example
+04:00–06:00  SKILL [S3] — RTCCE · Role · Task · Context · Constraints · Example
+             Screen: Bad prompt → RTCCE rewrite → meeting-notes-to-email demo in SA English
+06:00–07:00  PSYCHOLOGY [S4] — Clarity reduces shame.
+07:00–07:40  ACTION [S5] — Rewrite one prompt with RTCCE. (hold 3s)
+07:40–07:55  CTA — Download the RTCCE card + join the AI challenge
+07:55–08:05  PREVIEW — Next — fact-check AI before you send
+
+Follow PUBLISH/06_CAPCUT_PROJECT/EDIT_BIBLE.txt and PROJECT.json.

@@ -1,0 +1,32 @@
+FUTUREHER · EP002 · PUBLISH PACK
+Title: Stop downloading every AI app — pick one you can trust
+Slug: ep002-ai-tool-trust-stack
+Series: FutureHer · AI · T002 · THE TRUST STACK
+
+01  01_FINAL_SCRIPT.txt
+02  02_VOICEOVER_SCRIPT.txt
+03  03_STORYBOARD.txt
+04  04_AI_IMAGE_PROMPTS.txt
+05  05_BROLL_LIST.txt
+06  06_CAPCUT_PROJECT/
+      EDIT_BIBLE.txt
+      PROJECT.json
+      TEXT_OVERLAYS.txt
+07  07_SUBTITLES_EN.srt
+08  08_THUMBNAIL.png   ← export from ../thumbnail.html at 1280×720
+09  09_DESCRIPTION.txt
+10  10_CHAPTERS.txt
+11  11_SEO.txt
+12  12_HASHTAGS.txt
+13  13_COMMUNITY_POST.txt
+14  14_PINNED_COMMENT.txt
+15  15_SHORTS/
+      SHORTS_MASTER.txt
+      S1_One_Tool_Is_Enough.txt
+      S2_Free_Vs_Paid_Truth.txt
+      S3_Trust_Stack_60s.txt
+      S4_Never_Paste_Passwords.txt
+      S5_Good_Enough_Stack.txt
+
+EXPORT TARGET
+FH_EP002_AI_TrustStack_v1.mp4

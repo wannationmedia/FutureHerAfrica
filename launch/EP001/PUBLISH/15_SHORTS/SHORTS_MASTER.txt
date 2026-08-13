@@ -1,0 +1,23 @@
+FUTUREHERAFRICA · EP001 · FIVE SHORTS MASTER
+Aspect: 9:16 · Captions burned in · Brand arc BR 12–18% · Series pill top
+Engine: operations/SHORTS/SHORTS_ENGINE.md
+Formula: HOOK 0–3 · REFRAME 3–10 · VALUE 10–22 · ACTION 22–30
+Sign-off (locked): One step today. A different future tomorrow.
+
+#  | FILE                              | TITLE                                    | CUT        | PUBLISH
+---|-----------------------------------|------------------------------------------|------------|----------------
+S1 | S1_Youre_Not_Dramatic.txt         | You're not dramatic for fearing AI       | 0:07–0:35  | Day 0 +2h
+S2 | S2_Fear_Not_Forecast.txt          | Fear isn't a forecast                    | 2:07–2:52  | Day 1 evening
+S3 | S3_Task_Layer_60s.txt             | You don't need to master AI this week    | 4:07–5:12  | Day 0 +6h
+S4 | S4_Vague_Fear.txt                 | Vague fear keeps you stuck               | 6:07–6:55  | Day 2
+S5 | S5_Map_5_Run_1.txt                | Map 5 tasks. Run 1 with AI.              | 7:07–7:42  | Day 1
+
+EXPORT NAMES
+FH_EP001_S1_NotDramatic.mp4
+FH_EP001_S2_FearNotForecast.mp4
+FH_EP001_S3_TaskLayer.mp4
+FH_EP001_S4_VagueFear.mp4
+FH_EP001_S5_Map5Run1.mp4
+
+QC
+Every Short: formula beats · sister voice · one idea · one today-action · official sign-off · full-lesson CTA · phone caption check

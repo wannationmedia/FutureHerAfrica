@@ -1,0 +1,55 @@
+FUTUREHER · EP007 · YOUTUBE UPLOAD PACK
+Copy-paste ready. Fill links before publish.
+
+CHANNEL HANDLE: @FutureHerAfrica
+TEMPLATE: A Educational
+SERIES: FutureHer · AI
+SLUG: ep007-verify-before-you-send
+
+PRIMARY TITLE
+Fact-check AI before it embarrasses you
+
+ALT TITLES
+1. Don't trust fluent AI answers — verify first
+2. 3-step verify before you send AI work
+3. AI hallucinates — here's the calm fix
+
+THUMBNAIL TEXT (NOT the title)
+Don't trust fluency
+Series pill: FutureHer · AI
+Support: Source · Number · Name
+File: launch/EP007/thumbnail.html → PUBLISH/08_THUMBNAIL.png
+
+DESCRIPTION
+(Use PUBLISH/09_DESCRIPTION.txt)
+
+TAGS
+how to fact check AI, AI hallucinations, verify ChatGPT answers, AI fact checking, FutureHer, AI for students, AI at work South Africa, Verify Before You Send
+
+CATEGORY: Education | Language: English | Captions: EN SRT
+Visibility: Public (or Unlisted 1h QC → Public)
+Comments: On | Made for kids: No | License: Standard YouTube
+
+PINNED COMMENT
+(Use PUBLISH/14_PINNED_COMMENT.txt)
+
+END SCREEN / CARDS
+Subscribe + next teaser + Forward Collective
+Cards: Subscribe @ 0:45 · Community @ 7:40
+
+CTA
+Subscribe to Forward Notes + join The Forward Collective
+
+DIGITAL PRODUCT
+Verify Before You Send checklist pack
+Students and professionals who cite AI often need more than a reminder — the Verify Before You Send checklist pack includes printable cards, team teaching lines, and a pre-presentation gate you can reuse.
+
+FREE WORKSHEET
+3-Step Verify card (THREE_STEP_VERIFY_worksheet.html)
+
+SHORTS TITLES
+S1: AI hallucinates — calmly explained
+S2: Always check AI numbers
+S3: VERIFY in 60 seconds
+S4: When to distrust fluent AI
+S5: Teach your team to verify AI

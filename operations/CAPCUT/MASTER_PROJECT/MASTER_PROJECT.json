@@ -1,0 +1,232 @@
+{
+  "master": "FH_TMPL_Longform_8min",
+  "version": "1.0.0",
+  "sprint": 5,
+  "status": "production_ready_blueprint",
+  "authority": [
+    "FUTUREHER_BRAND_DESIGN_STUDIO.md §§9–10, 18–19",
+    "FUTUREHER_PRODUCTION_SYSTEM.md §3",
+    "operations/CAPCUT/TEMPLATE_LIBRARY.md"
+  ],
+  "capcut": {
+    "app": "CapCut Pro",
+    "project_name": "FH_TMPL_Longform_8min",
+    "drive_home": "FutureHer/01_Templates/CapCut/",
+    "rule": "Never edit master weekly. Duplicate → replace script / images / VO only."
+  },
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "duration_target_sec": 480,
+    "duration_tolerance_sec": 60,
+    "colour_space": "Rec.709 / sRGB"
+  },
+  "brand": {
+    "system": "Horizon",
+    "tagline": "Ready for what's next.",
+    "community": "The Forward Collective",
+    "community_line": "Welcome forward.",
+    "shorts_signoff": "One step today. A different future tomorrow.",
+    "colours": {
+      "ink": "#121A21",
+      "stone": "#F3EFE8",
+      "brass": "#B8893A",
+      "lagoon": "#2F6F6A",
+      "clay": "#C48B78",
+      "mist": "#D8D2C8",
+      "ivory": "#FFFCF8",
+      "night": "#0B1014"
+    },
+    "fonts": {
+      "primary": "Satoshi",
+      "primary_weights": ["400", "500", "600", "700"],
+      "display_rare": "Newsreader",
+      "fallback": ["IBM Plex Sans", "Plus Jakarta Sans"],
+      "banned": ["General Sans", "Montserrat", "Impact", "Comic Sans"]
+    },
+    "grade": "FH_Grade_Horizon"
+  },
+  "series_masters": [
+    { "id": "A", "name": "FH_TMPL_A_Educational", "accent": "#2F6F6A", "accent_name": "Lagoon", "spec": "A_EDUCATIONAL.md" },
+    { "id": "B", "name": "FH_TMPL_B_Money", "accent": "#B8893A", "accent_name": "Brass", "spec": "B_MONEY.md" },
+    { "id": "C", "name": "FH_TMPL_C_Career", "accent": "#121A21", "accent_name": "Ink", "spec": "C_CAREER.md" },
+    { "id": "D", "name": "FH_TMPL_D_Relationships", "accent": "#C48B78", "accent_name": "Clay", "spec": "D_RELATIONSHIPS.md" },
+    { "id": "E", "name": "FH_TMPL_E_Stories", "accent": "#D8D2C8", "accent_secondary": "#B8893A", "accent_name": "Mist+Brass", "spec": "E_STORIES.md" }
+  ],
+  "compounds": {
+    "intro": "FH_TMPL_Intro_7s",
+    "intro_shorts": "FH_TMPL_Intro_Shorts_2s",
+    "outro": "FH_TMPL_Outro_30s",
+    "endscreen": "FH_TMPL_Endscreen",
+    "captions": "FH_TMPL_Captions_Style",
+    "lower_thirds": "FH_TMPL_LowerThird",
+    "cta_pack": "FH_ASSET_CTA_Pack",
+    "shorts": "FH_TMPL_Shorts_9x16",
+    "reels": "FH_TMPL_Reels_9x16",
+    "thumbnail": "FH_TMPL_Thumbnail_1280x720"
+  },
+  "tracks": [
+    { "index": 1, "name": "V1_A_ROLL", "role": "Talking head / main camera — REPLACE weekly" },
+    { "index": 2, "name": "V2_B_ROLL", "role": "B-roll + diagrams + screen-record — REPLACE weekly" },
+    { "index": 3, "name": "V3_GRAPHICS", "role": "Lower thirds · series flash · action cards — text slots only" },
+    { "index": 4, "name": "V4_CAPTIONS", "role": "Auto-captions with FH_TMPL_Captions_Style applied" },
+    { "index": 5, "name": "V5_BRAND", "role": "Intro · Outro · Endscreen compounds — LOCKED" },
+    { "index": 6, "name": "A1_VO", "role": "Voice-over / sync A-roll audio — REPLACE weekly" },
+    { "index": 7, "name": "A2_MUSIC", "role": "Bed from FH_ASSET_MusicBeds @ −24 to −30 dB — LOCKED choice" },
+    { "index": 8, "name": "A3_SFX", "role": "≤8 favourites from FH_ASSET_SFX — LOCKED library" }
+  ],
+  "timeline": [
+    {
+      "id": "INTRO",
+      "in": "00:00:00:00",
+      "out": "00:00:07:00",
+      "duration_sec": 7,
+      "locked": true,
+      "type": "compound",
+      "asset": "FH_TMPL_Intro_7s",
+      "replace": ["optional_series_flash_text"],
+      "marker": "INTRO"
+    },
+    {
+      "id": "HOOK",
+      "in": "00:00:07:00",
+      "out": "00:00:37:00",
+      "duration_sec": 30,
+      "locked": false,
+      "type": "a_roll_slot",
+      "placeholder": "PLACEHOLDER_HOOK_30s",
+      "replace": ["script", "images", "voiceover"],
+      "marker": "HOOK",
+      "motion": "punch_5pct_on_key_line",
+      "overlays_slots": ["hook_text_max_6_words"]
+    },
+    {
+      "id": "STORY",
+      "in": "00:00:37:00",
+      "out": "00:02:07:00",
+      "duration_sec": 90,
+      "locked": false,
+      "type": "a_roll_b_roll_slot",
+      "placeholder": "PLACEHOLDER_STORY_90s",
+      "replace": ["script", "images", "voiceover"],
+      "marker": "STORY",
+      "music_default": "Bed_B"
+    },
+    {
+      "id": "PROBLEM",
+      "in": "00:02:07:00",
+      "out": "00:04:07:00",
+      "duration_sec": 120,
+      "locked": false,
+      "type": "a_roll_graphics_slot",
+      "placeholder": "PLACEHOLDER_PROBLEM_120s",
+      "replace": ["script", "images", "voiceover"],
+      "marker": "PROBLEM",
+      "lower_third": "LT_Framework"
+    },
+    {
+      "id": "SKILL",
+      "in": "00:04:07:00",
+      "out": "00:06:07:00",
+      "duration_sec": 120,
+      "locked": false,
+      "type": "skill_demo_slot",
+      "placeholder": "PLACEHOLDER_SKILL_120s",
+      "replace": ["script", "images", "voiceover", "screen_record"],
+      "marker": "SKILL",
+      "lower_thirds": ["LT_Framework", "LT_Step"],
+      "motion": "punch_5_8pct_on_each_step_max_3",
+      "music_default": "Bed_C_under_demo"
+    },
+    {
+      "id": "PSYCHOLOGY",
+      "in": "00:06:07:00",
+      "out": "00:07:07:00",
+      "duration_sec": 60,
+      "locked": false,
+      "type": "a_roll_slot",
+      "placeholder": "PLACEHOLDER_PSYCH_60s",
+      "replace": ["script", "images", "voiceover"],
+      "marker": "PSYCHOLOGY",
+      "music_default": "Bed_B_soft_lift"
+    },
+    {
+      "id": "ACTION",
+      "in": "00:07:07:00",
+      "out": "00:07:47:00",
+      "duration_sec": 40,
+      "locked": false,
+      "type": "action_card_slot",
+      "placeholder": "PLACEHOLDER_ACTION_40s",
+      "replace": ["script", "action_card_text", "images", "voiceover"],
+      "marker": "ACTION",
+      "music_dip_db": -32,
+      "sfx": "FH_SFX_Success_on_complete"
+    },
+    {
+      "id": "CTA",
+      "in": "00:07:47:00",
+      "out": "00:08:07:00",
+      "duration_sec": 20,
+      "locked": true,
+      "type": "compound",
+      "asset": "FH_ASSET_CTA_Pack",
+      "replace": ["handle_or_url_monthly"],
+      "marker": "CTA"
+    },
+    {
+      "id": "PREVIEW",
+      "in": "00:08:07:00",
+      "out": "00:08:17:00",
+      "duration_sec": 10,
+      "locked": false,
+      "type": "a_roll_slot",
+      "placeholder": "PLACEHOLDER_PREVIEW_10s",
+      "replace": ["script", "images", "voiceover"],
+      "marker": "PREVIEW"
+    },
+    {
+      "id": "OUTRO",
+      "in": "00:08:17:00",
+      "out": "00:08:47:00",
+      "duration_sec": 30,
+      "locked": true,
+      "type": "compound",
+      "asset": "FH_TMPL_Outro_30s",
+      "replace": ["idea_text", "skill_text", "action_text"],
+      "marker": "OUTRO",
+      "nested_markers": ["THUMB_FRAME", "ENDSCREEN"]
+    }
+  ],
+  "shorts_markers": [
+    { "id": "S1", "source_block": "HOOK", "label": "Short 1 — Hook spark" },
+    { "id": "S2", "source_block": "PROBLEM", "label": "Short 2 — Problem reframe" },
+    { "id": "S3", "source_block": "SKILL", "label": "Short 3 — Skill spark" },
+    { "id": "S4", "source_block": "PSYCHOLOGY", "label": "Short 4 — Psychology" },
+    { "id": "S5", "source_block": "ACTION", "label": "Short 5 — Action" }
+  ],
+  "replace_only_weekly": ["script", "images", "voiceover"],
+  "never_replace_weekly": [
+    "intro_compound",
+    "outro_structure",
+    "caption_style",
+    "fonts",
+    "brand_colours",
+    "motion_presets",
+    "camera_zoom_presets",
+    "transition_presets",
+    "sfx_library",
+    "music_library_slots",
+    "safe_areas",
+    "export_presets",
+    "auto_caption_settings",
+    "thumbnail_frame_marker_logic",
+    "endscreen_marker_zones",
+    "grade_preset"
+  ],
+  "presets_dir": "PRESETS/",
+  "libraries_dir": "LIBRARIES/",
+  "overlays_dir": "OVERLAYS/",
+  "markers_dir": "MARKERS/"
+}

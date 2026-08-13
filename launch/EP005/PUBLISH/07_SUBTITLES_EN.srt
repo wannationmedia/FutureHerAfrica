@@ -1,0 +1,339 @@
+1
+00:00:07,000 --> 00:00:11,950
+If your boss said "use AI more"
+
+2
+00:00:12,000 --> 00:00:16,950
+and your body heard "don't mess this up" —
+
+3
+00:00:17,000 --> 00:00:21,950
+you're not slow.
+
+4
+00:00:22,000 --> 00:00:26,950
+You're missing a map.
+
+5
+00:00:27,000 --> 00:00:31,950
+Today: one idea, one skill, one action.
+
+6
+00:00:32,000 --> 00:00:36,950
+Clarity on what AI may touch — and what stays human.
+
+7
+00:00:37,000 --> 00:00:42,575
+Picture this.
+
+8
+00:00:42,625 --> 00:00:48,200
+In a Johannesburg office — or a school staffroom in Limpopo —
+
+9
+00:00:48,250 --> 00:00:53,825
+someone in leadership drops a line in the group chat:
+
+10
+00:00:53,875 --> 00:00:59,450
+"Let's start using AI to work smarter.
+
+11
+00:00:59,500 --> 00:01:05,075
+"
+
+12
+00:01:05,125 --> 00:01:10,700
+No policy.
+
+13
+00:01:10,750 --> 00:01:16,325
+No examples.
+
+14
+00:01:16,375 --> 00:01:21,950
+No "never do this" list.
+
+15
+00:01:22,000 --> 00:01:27,575
+Half the room freezes.
+
+16
+00:01:27,625 --> 00:01:33,200
+Someone experiments wildly.
+
+17
+00:01:33,250 --> 00:01:38,825
+Someone pretends they already know.
+
+18
+00:01:38,875 --> 00:01:44,450
+I've watched excellent admins, teachers, supervisors, and analysts
+
+19
+00:01:44,500 --> 00:01:50,075
+get stuck between looking progressive and staying safe.
+
+20
+00:01:50,125 --> 00:01:55,700
+Here's the truth:
+
+21
+00:01:55,750 --> 00:02:01,325
+permission anxiety is not laziness.
+
+22
+00:02:01,375 --> 00:02:06,950
+It's what happens when expectations arrive without boundaries.
+
+23
+00:02:07,000 --> 00:02:14,009
+The problem isn't AI at work.
+
+24
+00:02:14,059 --> 00:02:21,068
+The problem is vague instruction without a use map.
+
+25
+00:02:21,118 --> 00:02:28,126
+Ambiguity feels like danger —
+
+26
+00:02:28,176 --> 00:02:35,185
+so people either avoid AI completely
+
+27
+00:02:35,235 --> 00:02:42,244
+or use it in the riskiest places because those tasks feel urgent.
+
+28
+00:02:42,294 --> 00:02:49,303
+So let's separate three lanes:
+
+29
+00:02:49,353 --> 00:02:56,362
+One — Automate: repeatable formatting, sorting, first-pass
+
+30
+00:02:56,412 --> 00:03:03,421
+cleanup where rules are clear.
+
+31
+00:03:03,471 --> 00:03:10,479
+Two — Assist: drafts, summaries, outlines you will verify and own.
+
+32
+00:03:10,529 --> 00:03:17,538
+Three — Avoid: passwords, confidential data, invented facts,
+
+33
+00:03:17,588 --> 00:03:24,597
+final decisions, anything your role is accountable for without
+
+34
+00:03:24,647 --> 00:03:31,656
+review.
+
+35
+00:03:31,706 --> 00:03:38,715
+AI can speed preparation.
+
+36
+00:03:38,765 --> 00:03:45,774
+AI cannot carry your accountability.
+
+37
+00:03:45,824 --> 00:03:52,832
+Your judgment stays.
+
+38
+00:03:52,882 --> 00:03:59,891
+That's not old-fashioned.
+
+39
+00:03:59,941 --> 00:04:06,950
+That's professional.
+
+40
+00:04:07,000 --> 00:04:12,167
+Here's the skill.
+
+41
+00:04:12,217 --> 00:04:17,385
+Framework name: THE WORK MAP
+
+42
+00:04:17,435 --> 00:04:22,602
+Step 1 — Automate.
+
+43
+00:04:22,652 --> 00:04:27,820
+List duties that are repetitive and low-risk:
+
+44
+00:04:27,870 --> 00:04:33,037
+rename files to a pattern, clean a table layout, turn bullet
+
+45
+00:04:33,087 --> 00:04:38,254
+notes into a first agenda.
+
+46
+00:04:38,304 --> 00:04:43,472
+If a mistake is easy to spot and easy to fix, it may belong here.
+
+47
+00:04:43,522 --> 00:04:48,689
+Step 2 — Assist.
+
+48
+00:04:48,739 --> 00:04:53,907
+List duties where AI can draft and you must decide:
+
+49
+00:04:53,957 --> 00:04:59,124
+emails, report outlines, lesson activity ideas, meeting summaries.
+
+50
+00:04:59,174 --> 00:05:04,341
+Rule: AI starts · you verify · you send.
+
+51
+00:05:04,391 --> 00:05:09,559
+Step 3 — Avoid.
+
+52
+00:05:09,609 --> 00:05:14,776
+List duties AI must not touch unsupervised:
+
+53
+00:05:14,826 --> 00:05:19,993
+passwords, payroll details, medical or learner private data,
+
+54
+00:05:20,043 --> 00:05:25,211
+legal commitments, performance judgments, anything you'd be
+
+55
+00:05:25,261 --> 00:05:30,428
+ashamed to say "the tool made up.
+
+56
+00:05:30,478 --> 00:05:35,646
+"
+
+57
+00:05:35,696 --> 00:05:40,863
+Then pick one Assist duty and run it today —
+
+58
+00:05:40,913 --> 00:05:46,080
+with a human check on facts before anyone else sees it.
+
+59
+00:05:46,130 --> 00:05:51,298
+That is the Work Map.
+
+60
+00:05:51,348 --> 00:05:56,515
+Automate. Assist. Avoid.
+
+61
+00:05:56,565 --> 00:06:01,733
+You stop guessing what's allowed —
+
+62
+00:06:01,783 --> 00:06:06,950
+and you practise boss-safe clarity.
+
+63
+00:06:07,000 --> 00:06:12,950
+Quick psychology — not as a diagnosis, as a tool.
+
+64
+00:06:13,000 --> 00:06:18,950
+Ambiguity activates threat systems.
+
+65
+00:06:19,000 --> 00:06:24,950
+When rules are unclear, your brain overestimates punishment.
+
+66
+00:06:25,000 --> 00:06:30,950
+A written map shrinks the threat.
+
+67
+00:06:31,000 --> 00:06:36,950
+You replace "What if I get in trouble?
+
+68
+00:06:37,000 --> 00:06:42,950
+"
+
+69
+00:06:43,000 --> 00:06:48,950
+with "This duty is Assist — here's my check.
+
+70
+00:06:49,000 --> 00:06:54,950
+"
+
+71
+00:06:55,000 --> 00:07:00,950
+Ambiguity feels like danger.
+
+72
+00:07:01,000 --> 00:07:06,950
+Labels make action possible.
+
+73
+00:07:07,000 --> 00:07:12,664
+Your action today — under thirty minutes:
+
+74
+00:07:12,714 --> 00:07:18,379
+1. Write eight duties you actually did this week.
+
+75
+00:07:18,429 --> 00:07:24,093
+2. Label each Automate, Assist, or Avoid.
+
+76
+00:07:24,143 --> 00:07:29,807
+3. Run one Assist task with AI — then verify names, numbers,
+
+77
+00:07:29,857 --> 00:07:35,521
+and tone before you share.
+
+78
+00:07:35,571 --> 00:07:41,236
+When you're done, you will not have a company policy.
+
+79
+00:07:41,286 --> 00:07:46,950
+You will have a personal Work Map you can defend calmly.
+
+80
+00:07:47,000 --> 00:07:51,950
+If this helped, subscribe to FutureHer —
+
+81
+00:07:52,000 --> 00:07:56,950
+and take this week's challenge:
+
+82
+00:07:57,000 --> 00:08:01,950
+one Assist task a day, verified before send.
+
+83
+00:08:02,000 --> 00:08:06,950
+Join The Forward Collective if you want peers practising the same map.
+
+84
+00:08:07,000 --> 00:08:15,950
+Next time: prompting basics that still work in five years —
+
+85
+00:08:16,000 --> 00:08:24,950
+so your asks stop producing fluff.

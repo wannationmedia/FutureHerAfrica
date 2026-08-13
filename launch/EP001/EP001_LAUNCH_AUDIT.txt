@@ -1,0 +1,77 @@
+﻿UTUREHER · EP001 · COMPLETE LAUNCH AUDIT
+Date: 2026-08-06
+Benchmark rule: Episode 1 is the production standard for the system.
+Verdict: PACK = 100% complete · PUBLIC LAUNCH = blocked only on founder media + CapCut export
+
+═══════════════════════════════════════
+1) REQUIRED PRODUCTION ASSETS — STATUS
+═══════════════════════════════════════
+
+CONTENT / PACK (text + design)
+[x] Title + alt titles
+[x] Hook (script S1)
+[x] Complete script (01_FINAL_SCRIPT.txt)
+[x] Voice-over script (02 + SCRIPT_VO.txt)
+[x] Scene list / storyboard (03)
+[x] AI image prompts (04)
+[x] B-roll list (05)
+[x] CapCut edit bible + PROJECT.json + overlays (06)
+[x] Subtitle file EN (07_SUBTITLES_EN.srt)
+[x] Thumbnail PNG 1280×720 (08 + FH_EP001_Thumbnail.png)
+[x] Description (09) — idea/skill/action + free DL + product + CTA
+[x] Chapters (10)
+[x] SEO pack (11)
+[x] Hashtags (12)
+[x] Community posts YT/WA/IG/LI (13)
+[x] Pinned comment (14)
+[x] Five Shorts scripts (15)
+[x] Downloadable worksheet (TASK_LAYER_worksheet.html)
+[x] Action card HTML + PNG insert (AC01_ACTION_CARD.png)
+[x] Primary CTA (Forward Collective)
+[x] Digital product recommendation (The Task Layer Workbook R197 + full PRODUCT/)
+[x] Upload pack + 24h run sheet + channel about
+[x] Live link sheet (PUBLISH/LINKS.txt)
+[x] Pre-publish gate filled (16_PRE_PUBLISH_GATE.txt)
+
+FOUNDER MEDIA / EDIT (cannot be fabricated)
+[ ] Voice-over audio → audio/EP001_VO_v1.wav
+[ ] Screen demo SR01 + minimum B-roll → footage/broll/
+[ ] CapCut assembly per Template A
+[ ] Master export → exports/FH_EP001_AI_TaskLayer_v1.mp4
+[ ] Shorts video exports S1–S5 (cut after master)
+
+OPTIONAL (do not block Public per RUN_SHEET)
+[ ] WhatsApp broadcast link
+[ ] Forward Notes email tool
+[ ] Hosted worksheet PDF URL
+[ ] Workbook Paystack/Yoco/PayFast checkout
+[ ] NSO/ZU captions
+[ ] Channel banner polish
+
+═══════════════════════════════════════
+2) GAPS FIXED IN THIS AUDIT
+═══════════════════════════════════════
+- Filled Collective / channel URLs into description, pinned comment, community posts, upload pack
+- Added free worksheet + Task Layer Workbook recommendation into description + pinned
+- Exported CapCut action-card PNG (1280×720)
+- Created audio/ · footage/ · exports/ folders + CAPTURE_MANIFEST.txt
+- Wrote LINKS.txt + 16_PRE_PUBLISH_GATE.txt + this audit
+- Updated PUBLISH/00_INDEX.txt to current inventory
+
+═══════════════════════════════════════
+3) REMAINING BEFORE EPISODE 1 CAN BE PUBLISHED
+═══════════════════════════════════════
+ONLY THESE (human / CapCut):
+
+1. Record VO → launch/EP001/audio/EP001_VO_v1.wav
+2. Capture SR01 + minimum B-roll (see footage/CAPTURE_MANIFEST.txt)
+3. Edit in CapCut (duplicate FH_TMPL_A_Educational) → export master MP4
+4. Upload with UPLOAD_PACK.txt · custom thumbnail · SRT · pin comment
+5. Unlisted QC watch → Public · post Community · cut Shorts
+
+═══════════════════════════════════════
+4) STOP RULE
+═══════════════════════════════════════
+No additional episode production until you approve.
+EP002–EP010 packs already on disk from prior sprint work remain untouched in this audit.
+EP001 pack is the benchmark: complete and ready for founder media → CapCut → publish.

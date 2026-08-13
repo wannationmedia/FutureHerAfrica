@@ -1,0 +1,34 @@
+FUTUREHER · EP004 · B-ROLL LIST
+Priority: Own phone footage → screen record → CapCut stock (YT-safe) → AI still (max 3)
+Folder: launch/EP004/footage/broll/
+
+ID     | SEC | DURATION | SHOT                                              | SOURCE        | USED IN
+-------|-----|----------|---------------------------------------------------|---------------|----------------
+BR01   | 01  | 6–8s     | Cursor blinking on email draft (UI blurred) | Own phone     | Hook
+BR02   | 01  | 8–12s    | MCU host / A-roll punch line                      | A-roll        | Hook
+BR03   | 02  | 5–7s     | Hands editing text — highlight then delete | Own phone     | Story
+BR04   | 02  | 6–8s     | Desk wide — soft SA daylight                      | Own phone     | Story
+BR05   | 02  | 5–6s     | Read-aloud moment — woman looking at phone/laptop calmly | Own phone     | Story
+BR06   | 03  | 6–8s     | Calm focused work — no shock face                 | Own / stock   | Problem
+BR07   | 05  | 10–15s   | Hands typing / writing — warm daylight            | Own / stock   | Skill
+SR01   | 05  | 60–90s   | SCREEN: AI email draft → strike buzzwords → stamp SA voice detail → final send-ready | Screen record | Skill
+AC01   | 09  | still    | Action card PNG from action_card.html             | HTML export   | Action
+AI01   | 03  | still    | Problem still (optional)                          | AI prompt 01  | Problem
+AI02   | 04  | still    | Framework pathway diagram                         | AI prompt 02  | Skill title
+
+SCREEN RECORD BEAT SHEET (SR01)
+1. AI draft email with buzzwords visible
+2. Strike: hope this finds you well / leverage / synergy
+3. Stamp: real meeting detail + natural SA phrasing
+4. Read-aloud pause
+5. Final clean paragraph
+
+STOCK SEARCH TERMS (CapCut / YT-safe only)
+- woman laptop editing natural light
+- hands typing office desk
+- pen paper notebook
+- calm professional african woman desk
+AVOID: neon hacker, crying at computer, glam influencer office, poverty tourism, shock faces
+
+MINIMUM SHOOT (20 min)
+1. BR01  2. BR03  3. BR04  4. SR01  5. A-roll hook + psychology

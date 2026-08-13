@@ -1,0 +1,41 @@
+{
+  "preset": "FH_SafeAreas_Horizon",
+  "overlays": {
+    "longform": "OVERLAYS/FH_SafeArea_Longform_1920x1080.svg",
+    "shorts": "OVERLAYS/FH_SafeArea_Shorts_1080x1920.svg",
+    "endscreen": "OVERLAYS/FH_Endscreen_Zones_1920x1080.svg",
+    "thumbnail": "OVERLAYS/FH_Thumbnail_Zones_1280x720.svg"
+  },
+  "longform_1920x1080": {
+    "margin_pct": 5,
+    "inset_px": { "x": 96, "y": 54 },
+    "caption_band": {
+      "y_from_bottom_pct_min": 12,
+      "y_from_bottom_pct_max": 22,
+      "note": "Above YouTube desktop/mobile controls + dual-caption"
+    },
+    "lower_third_band": {
+      "y_from_bottom_pct": 18,
+      "x_from_left_pct": 6
+    },
+    "logo_clear_space": "Do not park critical text in outer 5%"
+  },
+  "shorts_1080x1920": {
+    "margin_pct": 8,
+    "inset_px": { "x": 86, "y": 154 },
+    "ui_chrome_avoid": {
+      "top_pct": 12,
+      "bottom_pct": 22,
+      "right_pct": 18,
+      "note": "Keep clear of username, like/comment stack, captions toggle"
+    },
+    "face_zone": "Upper third centre",
+    "hook_text_zone": "Centre safe — max 6 words"
+  },
+  "capcut_howto": [
+    "Import overlay PNG/SVG to top track",
+    "Opacity 40% while placing text",
+    "Mute / disable overlay before export",
+    "Or keep as guide compound on locked guide track"
+  ]
+}

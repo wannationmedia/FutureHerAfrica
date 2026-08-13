@@ -1,0 +1,42 @@
+FUTUREHER · EP006 · CAPCUT TEXT OVERLAYS
+Paste into CapCut text slots. Style: Satoshi Bold/Medium.
+
+HOOK
+Stop asking for magic.
+
+PROBLEM
+Vague in → fluff out
+Role
+Task
+Context
+Constraints · Example
+
+SKILL
+RTCCE
+RTCCE
+01 Role
+02 Task
+03 Context
+04 Constraints
+05 Example
+
+PSYCHOLOGY
+Clarity reduces shame.
+
+ACTION CARD
+Rewrite one prompt with RTCCE.
+1. Find one prompt that gave you fluff
+2. Rewrite it with Role · Task · Context · Constraints · Example
+3. Run it once and save the winner in Notes
+
+OUTRO
+Idea: Good prompts are clear instructions — not magic words
+Skill: RTCCE — Role · Task · Context · Constraints · Example
+Action: Rewrite one failed prompt with RTCCE and save the winner.
+CTA: Download the RTCCE card + join the AI challenge
+
+PREVIEW
+Next — fact-check AI before you send
+
+END
+FutureHer — Ready for what's next.

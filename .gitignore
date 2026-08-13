@@ -1,0 +1,18 @@
+# Local secrets — never commit
+.env
+.env.local
+*.local
+
+# Dependencies
+node_modules/
+
+# Prisma
+prisma/*.db
+prisma/*.db-journal
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

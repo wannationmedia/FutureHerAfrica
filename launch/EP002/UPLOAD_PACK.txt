@@ -1,0 +1,55 @@
+FUTUREHER · EP002 · YOUTUBE UPLOAD PACK
+Copy-paste ready. Fill links before publish.
+
+CHANNEL HANDLE: @FutureHerAfrica
+TEMPLATE: A Educational
+SERIES: FutureHer · AI
+SLUG: ep002-ai-tool-trust-stack
+
+PRIMARY TITLE
+Stop downloading every AI app — pick one you can trust
+
+ALT TITLES
+1. I don't know which AI tool to trust — use this checklist
+2. One AI tool is enough (ignore the circus)
+3. The calm way to choose an AI assistant
+
+THUMBNAIL TEXT (NOT the title)
+One tool. Ignore the circus.
+Series pill: FutureHer · AI
+Support: Need · Safety · Stick
+File: launch/EP002/thumbnail.html → PUBLISH/08_THUMBNAIL.png
+
+DESCRIPTION
+(Use PUBLISH/09_DESCRIPTION.txt)
+
+TAGS
+which AI tool to trust, AI tools for beginners, ChatGPT vs Gemini, AI safety checklist, FutureHer, AI for women, AI at work South Africa, Trusted Tools, AI fluency, pick one AI tool
+
+CATEGORY: Education | Language: English | Captions: EN SRT
+Visibility: Public (or Unlisted 1h QC → Public)
+Comments: On | Made for kids: No | License: Standard YouTube
+
+PINNED COMMENT
+(Use PUBLISH/14_PINNED_COMMENT.txt)
+
+END SCREEN / CARDS
+Subscribe + next teaser + Forward Collective
+Cards: Subscribe @ 0:45 · Community @ 7:40
+
+CTA
+Subscribe for tool-refresh episodes
+
+DIGITAL PRODUCT
+Trusted Tools One-Sheet
+If you want a living list you can refresh each quarter — without chasing every new app — the Trusted Tools One-Sheet keeps your Need · Safety · Stick decisions in one calm place.
+
+FREE WORKSHEET
+AI Tool Trust Checklist (AI_TOOL_TRUST_CHECKLIST_worksheet.html)
+
+SHORTS TITLES
+S1: One AI tool is enough
+S2: Free vs paid AI — the calm truth
+S3: The Trust Stack in 60 seconds
+S4: Never paste passwords into AI
+S5: Your good-enough AI stack

@@ -1,0 +1,40 @@
+SHORT S2 · Low-data AI that still works
+Source: EP003 · 2:07–2:52 · ~30s · 9:16
+Publish: Day 1 evening
+Role: Problem
+
+TITLE
+Low-data AI that still works
+
+────────────────────────────────────
+0–3s · HOOK
+ON-SCREEN: Data is a budget line.
+VO: Data is a budget line.
+
+3–10s · REFRAME
+ON-SCREEN: Work in windows
+VO: Don't browse ten AI features on mobile data. Capture first. Prompt once.
+
+10–22s · VALUE
+ON-SCREEN: Capture → Prompt → Save
+VO: Offline capture. Short prompt window. Save immediately.
+
+22–30s · ACTION
+ON-SCREEN: Plan your Wi‑Fi window
+VO: Write when you'll prompt today — lunch Wi‑Fi, evening home, one window.
+
+SIGN-OFF
+ON-SCREEN / VO: One step today. A different future tomorrow.
+CTA CARD (2s): Full lesson on FutureHer
+────────────────────────────────────
+
+DESCRIPTION
+Low-data AI that still works. One step today. A different future tomorrow.
+Full lesson on FutureHer.
+#FutureHer #AIForWomen
+
+CAPCUT
+Crop 9:16 · eyes upper third · burned captions · large type
+Subtle zoom on hook + action line
+Brand arc BR 12–18% · series pill: FutureHer · AI
+End CTA compound · palette only · premium transitions

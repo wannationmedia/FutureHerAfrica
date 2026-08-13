@@ -1,0 +1,55 @@
+FUTUREHER · EP003 · YOUTUBE UPLOAD PACK
+Copy-paste ready. Fill links before publish.
+
+CHANNEL HANDLE: @FutureHerAfrica
+TEMPLATE: A Educational
+SERIES: FutureHer · AI
+SLUG: ep003-phone-first-ai-flow
+
+PRIMARY TITLE
+You only have a phone? You can still use AI
+
+ALT TITLES
+1. Phone-only AI that actually works
+2. No laptop? Start AI on your phone today
+3. Rural-ready AI without a laptop
+
+THUMBNAIL TEXT (NOT the title)
+Your phone is enough
+Series pill: FutureHer · AI
+Support: Capture · Prompt · Save
+File: launch/EP003/thumbnail.html → PUBLISH/08_THUMBNAIL.png
+
+DESCRIPTION
+(Use PUBLISH/09_DESCRIPTION.txt)
+
+TAGS
+use AI on phone only, AI without laptop, ChatGPT on phone, low data AI, phone first AI, FutureHer, AI for women South Africa, rural digital skills, mobile AI workflow
+
+CATEGORY: Education | Language: English | Captions: EN SRT
+Visibility: Public (or Unlisted 1h QC → Public)
+Comments: On | Made for kids: No | License: Standard YouTube
+
+PINNED COMMENT
+(Use PUBLISH/14_PINNED_COMMENT.txt)
+
+END SCREEN / CARDS
+Subscribe + next teaser + Forward Collective
+Cards: Subscribe @ 0:45 · Community @ 7:40
+
+CTA
+Join the Limpopo Circle phone-first challenge
+
+DIGITAL PRODUCT
+Phone-First AI Practice Pack
+When you're ready for a week of guided phone-only drills — voice notes, low-data windows, and save habits — the Phone-First AI Practice Pack is built for real SA data constraints, not laptop fantasy.
+
+FREE WORKSHEET
+Phone-Only AI Starter Card (PHONE_ONLY_AI_STARTER_worksheet.html)
+
+SHORTS TITLES
+S1: Your phone is enough for AI
+S2: Low-data AI that still works
+S3: The Phone Flow in 60 seconds
+S4: The voice-to-text AI trick
+S5: Capture offline — prompt later

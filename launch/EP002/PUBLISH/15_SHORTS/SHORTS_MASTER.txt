@@ -1,0 +1,23 @@
+FUTUREHER · EP002 · FIVE SHORTS MASTER
+Aspect: 9:16 · Captions burned in · Brand arc BR 12–18% · Series pill top
+Engine: operations/SHORTS/SHORTS_ENGINE.md
+Formula: HOOK 0–3 · REFRAME 3–10 · VALUE 10–22 · ACTION 22–30
+Sign-off (locked): One step today. A different future tomorrow.
+
+#  | FILE                              | TITLE                                    | CUT        | PUBLISH
+---|-----------------------------------|------------------------------------------|------------|----------------
+S1 | S1_One_Tool_Is_Enough.txt          | One AI tool is enough                      | 0:07–0:35    | Day 0 +2h
+S2 | S2_Free_Vs_Paid_Truth.txt          | Free vs paid AI — the calm truth           | 2:07–2:52    | Day 1 evening
+S3 | S3_Trust_Stack_60s.txt             | The Trust Stack in 60 seconds              | 4:07–5:12    | Day 0 +6h
+S4 | S4_Never_Paste_Passwords.txt       | Never paste passwords into AI              | 4:50–5:40    | Day 2
+S5 | S5_Good_Enough_Stack.txt           | Your good-enough AI stack                  | 7:07–7:42    | Day 1
+
+EXPORT NAMES
+FH_EP002_S1_OneTool.mp4
+FH_EP002_S2_FreeVsPaid.mp4
+FH_EP002_S3_TrustStack.mp4
+FH_EP002_S4_NoPasswords.mp4
+FH_EP002_S5_GoodEnough.mp4
+
+QC
+Every Short: formula beats · sister voice · one idea · one today-action · official sign-off · full-lesson CTA · phone caption check

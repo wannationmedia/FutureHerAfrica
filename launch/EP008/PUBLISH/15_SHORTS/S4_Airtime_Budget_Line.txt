@@ -1,0 +1,40 @@
+SHORT S4 · Airtime is a budget line
+Source: EP008 · 4:40–5:20 · ~30s · 9:16
+Publish: Day 2
+Role: Value
+
+TITLE
+Airtime is a budget line
+
+────────────────────────────────────
+0–3s · HOOK
+ON-SCREEN: Airtime counts.
+VO: Airtime counts.
+
+3–10s · REFRAME
+ON-SCREEN: Real SA costs
+VO: Transport and data are not 'extras' when they keep you working.
+
+10–22s · VALUE
+ON-SCREEN: Name them Fixed
+VO: If you need them to function, map them as Fixed.
+
+22–30s · ACTION
+ON-SCREEN: Add airtime line
+VO: Add airtime/data as a Fixed line with a rand amount.
+
+SIGN-OFF
+ON-SCREEN / VO: One step today. A different future tomorrow.
+CTA CARD (2s): Full lesson on FutureHer
+────────────────────────────────────
+
+DESCRIPTION
+Airtime is a budget line. One step today. A different future tomorrow.
+Full lesson on FutureHer.
+#FutureHer #MoneyClarity
+
+CAPCUT
+Crop 9:16 · eyes upper third · burned captions · large type
+Subtle zoom on hook + action line
+Brand arc BR 12–18% · series pill: FutureHer · Money
+End CTA compound · palette only · premium transitions

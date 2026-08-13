@@ -1,0 +1,97 @@
+FUTUREHERAFRICA · HOST CONSISTENCY PROMPT TEMPLATE
+================================================
+Authority: brand/FUTUREHERAFRICA_AI_HOST_BIBLE.md
+Canonical reference (attach whenever the platform supports reference / character / face lock):
+  1) launch/EP001/FH_EP001_Thumbnail.png
+  2) launch/EP001/PUBLISH/08_THUMBNAIL.png
+  3) launch/EP001/FH_EP001_Thumbnail_source_1536x1024.png
+
+LAW: Same woman as the approved EP001 thumbnail host. Do not redesign. Do not replace.
+Do not invent a new character or mascot. Preserve facial identity, proportions, skin tone,
+age band (late 20s–mid 30s), and natural realism.
+
+------------------------------------------------
+IDENTITY LOCK (always include)
+------------------------------------------------
+Exact same African woman as the FutureHerAfrica EP001 thumbnail host reference image:
+natural Black African woman, late 20s to mid-30s, soft oval face, dark brown almond eyes,
+natural arched brows, full natural lips, rich warm medium-dark brown skin with real texture,
+natural black textured hair (neat high puff/bun or closely related natural style that still
+reads as the same person), calm intelligent mentor presence, human-first educational host,
+premium editorial photography, contemporary African, no beauty-filter plastic skin.
+
+------------------------------------------------
+VARIABLE BLOCKS (fill every generation)
+------------------------------------------------
+[SCENE]
+<what she is doing / narrative beat — e.g. teaching a calm AI lesson at a desk>
+
+[POSE]
+<head-and-shoulders / three-quarter / seated at desk / standing — keep face readable>
+
+[EXPRESSION]
+<calm confidence / slight knowing smile / soft approachable smile / thoughtful focus —
+never shock-mouth, fake cry, or rage point>
+
+[WARDROBE]
+<clothing for this scene — professional but not corporate; Horizon-adjacent colours;
+optional small classic gold hoop earrings>
+
+[BACKGROUND]
+<quiet contemporary African / South African context — home office, desk, soft interior,
+calm outdoor SA light; blurred enough to keep her the subject>
+
+[CAMERA]
+<lens feel + framing — e.g. 50mm eye-level medium close-up, left-third thumbnail safe,
+shallow depth of field, 1280x720 or 1920x1080>
+
+[LIGHTING]
+<soft natural window light / warm-neutral editorial daylight; gentle catchlight;
+grade toward Horizon: Ink Stone Brass Lagoon; protect natural skin texture>
+
+------------------------------------------------
+FULL PROMPT ASSEMBLY
+------------------------------------------------
+Use this host identity with reference image attached:
+
+[SCENE]. [POSE]. [EXPRESSION].
+Same FutureHerAfrica EP001 AI host — natural African woman, late 20s to mid-30s,
+rich warm medium-dark brown skin with natural texture, dark brown almond eyes,
+soft oval face, natural brows, full natural lips, natural black textured hair,
+intelligent approachable composed confident mentor presence, human-first not technology-first.
+[WARDROBE]. [BACKGROUND]. [CAMERA]. [LIGHTING].
+Premium editorial media, contemporary African, clean composition, photographic realism,
+Horizon education brand mood. She represents FutureHerAfrica as the recurring digital host —
+not a mascot, not a generic influencer, not a different person.
+
+------------------------------------------------
+NEGATIVE PROMPT (append every time)
+------------------------------------------------
+generic influencer, different person, different facial identity, different woman,
+plastic skin, excessive makeup, beauty filter, airbrushed doll skin, AI-looking face,
+uncanny valley, robot, cyborg, cyberpunk, neon, pink glow, purple glow, futuristic helmet,
+circuit board face, HUD overlay, cartoon, anime, mascot, 3D Pixar character,
+tribal costume cliché, kente tourism costume, stereotypical African imagery,
+poverty stereotype, stock-photo aesthetic, shock mouth, fake cry, rage finger point,
+chrome, glitter, girlboss pink, celebrity likeness, watermark, readable fake UI text
+
+------------------------------------------------
+PLATFORM NOTES
+------------------------------------------------
+- Midjourney: attach EP001 thumbnail as --cref / image ref when available; keep face weight high
+- Flux / SD / Ideogram: use image prompt + reference; reject identity drift
+- ChatGPT / Gemini image: upload FH_EP001_Thumbnail.png and say "same woman only"
+- After generate: squint test against EP001 — if not clearly her, discard
+- Grade toward FH_Grade_Horizon before import
+- Log seed, platform, and reference filename in the episode asset note
+
+------------------------------------------------
+EXAMPLE FILL (EP001-style thumbnail — reference only; do not invent a new host)
+------------------------------------------------
+[SCENE] Calm educational YouTube thumbnail portrait for a FutureHer AI lesson
+[POSE] Head-and-shoulders, body slightly angled, face to lens, left-half framing
+[EXPRESSION] Calm confident slight knowing closed-lip smile, direct eye contact
+[WARDROBE] Cream off-white textured blouse with soft open collar; small gold hoop earrings
+[BACKGROUND] Soft-focus contemporary interior, muted walls, green houseplant, wooden surface hint
+[CAMERA] Eye-level medium close-up, shallow depth of field, 1280x720 thumbnail safe crop
+[LIGHTING] Soft natural side window light, warm-neutral, gentle facial highlights, Horizon grade

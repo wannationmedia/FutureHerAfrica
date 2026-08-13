@@ -1,0 +1,40 @@
+SHORT S3 · The Trust Stack in 60 seconds
+Source: EP002 · 4:07–5:12 · ~30s · 9:16
+Publish: Day 0 +6h
+Role: Skill cutdown
+
+TITLE
+The Trust Stack in 60 seconds
+
+────────────────────────────────────
+0–3s · HOOK
+ON-SCREEN: Stop collecting apps.
+VO: Stop collecting apps.
+
+3–10s · REFRAME
+ON-SCREEN: Pick a primary
+VO: You don't need eight assistants. You need one primary tool for thirty days.
+
+10–22s · VALUE
+ON-SCREEN: Need · Safety · Stick
+VO: Need: one job. Safety: three rules. Stick: mute the rest and practise.
+
+22–30s · ACTION
+ON-SCREEN: Choose your primary today
+VO: Circle ChatGPT, Gemini, or Copilot in Notes. Write Primary — 30 days.
+
+SIGN-OFF
+ON-SCREEN / VO: One step today. A different future tomorrow.
+CTA CARD (2s): Full lesson on FutureHer
+────────────────────────────────────
+
+DESCRIPTION
+The Trust Stack in 60 seconds. One step today. A different future tomorrow.
+Full lesson on FutureHer.
+#FutureHer #AIForWomen
+
+CAPCUT
+Crop 9:16 · eyes upper third · burned captions · large type
+Subtle zoom on hook + action line
+Brand arc BR 12–18% · series pill: FutureHer · AI
+End CTA compound · palette only · premium transitions

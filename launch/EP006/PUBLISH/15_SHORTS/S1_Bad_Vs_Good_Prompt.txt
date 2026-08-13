@@ -1,0 +1,40 @@
+SHORT S1 · Bad prompt vs good prompt
+Source: EP006 · 0:07–0:35 · ~30s · 9:16
+Publish: Day 0 +2h
+Role: Hook
+
+TITLE
+Bad prompt vs good prompt
+
+────────────────────────────────────
+0–3s · HOOK
+ON-SCREEN: Stop asking for magic.
+VO: Stop asking for magic.
+
+3–10s · REFRAME
+ON-SCREEN: Vague in → fluff out
+VO: Help with work is a wish. Instructions get results.
+
+10–22s · VALUE
+ON-SCREEN: RTCCE
+VO: Role, Task, Context, Constraints, Example.
+
+22–30s · ACTION
+ON-SCREEN: Rewrite one line
+VO: Rewrite your vaguest prompt with a clear Task verb.
+
+SIGN-OFF
+ON-SCREEN / VO: One step today. A different future tomorrow.
+CTA CARD (2s): Full lesson on FutureHer
+────────────────────────────────────
+
+DESCRIPTION
+Bad prompt vs good prompt. One step today. A different future tomorrow.
+Full lesson on FutureHer.
+#FutureHer #AIForWomen
+
+CAPCUT
+Crop 9:16 · eyes upper third · burned captions · large type
+Subtle zoom on hook + action line
+Brand arc BR 12–18% · series pill: FutureHer · AI
+End CTA compound · palette only · premium transitions

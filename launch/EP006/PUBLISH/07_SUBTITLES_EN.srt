@@ -1,0 +1,319 @@
+1
+00:00:07,000 --> 00:00:10,700
+If your prompts sound like
+
+2
+00:00:10,750 --> 00:00:14,450
+"help me with work"
+
+3
+00:00:14,500 --> 00:00:18,200
+and the answer comes back like a motivational poster —
+
+4
+00:00:18,250 --> 00:00:21,950
+you're not bad at AI.
+
+5
+00:00:22,000 --> 00:00:25,700
+You're asking for magic
+
+6
+00:00:25,750 --> 00:00:29,450
+instead of giving instructions.
+
+7
+00:00:29,500 --> 00:00:33,200
+Today: one idea, one skill, one action.
+
+8
+00:00:33,250 --> 00:00:36,950
+A prompt structure that still works when the logos change.
+
+9
+00:00:37,000 --> 00:00:42,950
+Picture this.
+
+10
+00:00:43,000 --> 00:00:48,950
+You finally open ChatGPT after work in Soweto, Polokwane,
+
+11
+00:00:49,000 --> 00:00:54,950
+Durban — wherever home is —
+
+12
+00:00:55,000 --> 00:01:00,950
+and you type: "Help me with my report.
+
+13
+00:01:01,000 --> 00:01:06,950
+"
+
+14
+00:01:07,000 --> 00:01:12,950
+It gives you a generic essay.
+
+15
+00:01:13,000 --> 00:01:18,950
+You think: "Maybe I'm not smart enough for this.
+
+16
+00:01:19,000 --> 00:01:24,950
+"
+
+17
+00:01:25,000 --> 00:01:30,950
+A cousin sends a "secret prompt" with twenty roles and a pirate voice.
+
+18
+00:01:31,000 --> 00:01:36,950
+You try it. Still fluff. Still shame.
+
+19
+00:01:37,000 --> 00:01:42,950
+I've watched brilliant women conclude they lack a talent
+
+20
+00:01:43,000 --> 00:01:48,950
+when what they lacked was a clear ask.
+
+21
+00:01:49,000 --> 00:01:54,950
+Here's the truth:
+
+22
+00:01:55,000 --> 00:02:00,950
+models follow instructions.
+
+23
+00:02:01,000 --> 00:02:06,950
+Vague instructions produce vague help.
+
+24
+00:02:07,000 --> 00:02:14,950
+The problem isn't that AI is useless.
+
+25
+00:02:15,000 --> 00:02:22,950
+The problem is we treat prompting like wishing.
+
+26
+00:02:23,000 --> 00:02:30,950
+Wishing sounds like: "make this better.
+
+27
+00:02:31,000 --> 00:02:38,950
+"
+
+28
+00:02:39,000 --> 00:02:46,950
+Instructing sounds like: who you are for this task, what to
+
+29
+00:02:47,000 --> 00:02:54,950
+produce, what context matters, what limits to respect, and
+
+30
+00:02:55,000 --> 00:03:02,950
+what good looks like.
+
+31
+00:03:03,000 --> 00:03:10,950
+So let's name the durable parts:
+
+32
+00:03:11,000 --> 00:03:18,950
+Role — who should the model act as for this job.
+
+33
+00:03:19,000 --> 00:03:26,950
+Task — the deliverable in one clean verb phrase.
+
+34
+00:03:27,000 --> 00:03:34,950
+Context — the facts it must know.
+
+35
+00:03:35,000 --> 00:03:42,950
+Constraints — length, tone, format, what to avoid.
+
+36
+00:03:43,000 --> 00:03:50,950
+Example — a tiny sample of the shape you want.
+
+37
+00:03:51,000 --> 00:03:58,950
+Tricks expire.
+
+38
+00:03:59,000 --> 00:04:06,950
+Clear instructions compound.
+
+39
+00:04:07,000 --> 00:04:12,950
+Here's the skill.
+
+40
+00:04:13,000 --> 00:04:18,950
+Framework name: RTCCE
+
+41
+00:04:19,000 --> 00:04:24,950
+Role — Task — Context — Constraints — Example.
+
+42
+00:04:25,000 --> 00:04:30,950
+Watch a rewrite.
+
+43
+00:04:31,000 --> 00:04:36,950
+Bad: "Help with work email."
+
+44
+00:04:37,000 --> 00:04:42,950
+Better:
+
+45
+00:04:43,000 --> 00:04:48,950
+Role: You are a concise workplace writing assistant for South
+
+46
+00:04:49,000 --> 00:04:54,950
+African professionals.
+
+47
+00:04:55,000 --> 00:05:00,950
+Task: Turn these notes into a follow-up email confirming next steps.
+
+48
+00:05:01,000 --> 00:05:06,950
+Context: Project Alpha meeting today; next check-in Thursday 10:
+
+49
+00:05:07,000 --> 00:05:12,950
+00; recipient is my manager Thandi.
+
+50
+00:05:13,000 --> 00:05:18,950
+Constraints: Maximum 120 words; warm professional tone; no
+
+51
+00:05:19,000 --> 00:05:24,950
+buzzwords; South African English.
+
+52
+00:05:25,000 --> 00:05:30,950
+Example: Open with the decision made, then one clear ask.
+
+53
+00:05:31,000 --> 00:05:36,950
+Run it.
+
+54
+00:05:37,000 --> 00:05:42,950
+Edit the facts.
+
+55
+00:05:43,000 --> 00:05:48,950
+Save the prompt that worked in a note titled Forever Prompts.
+
+56
+00:05:49,000 --> 00:05:54,950
+That is RTCCE.
+
+57
+00:05:55,000 --> 00:06:00,950
+You stop gambling on magic words —
+
+58
+00:06:01,000 --> 00:06:06,950
+and you start writing instructions your future self can reuse.
+
+59
+00:06:07,000 --> 00:06:13,617
+Quick psychology — not as a diagnosis, as a tool.
+
+60
+00:06:13,667 --> 00:06:20,283
+Shame grows in unclear tasks.
+
+61
+00:06:20,333 --> 00:06:26,950
+When the output is bad and the ask was vague,
+
+62
+00:06:27,000 --> 00:06:33,617
+people blame identity: "I'm bad at this.
+
+63
+00:06:33,667 --> 00:06:40,283
+"
+
+64
+00:06:40,333 --> 00:06:46,950
+Clarity relocates the problem to the instruction —
+
+65
+00:06:47,000 --> 00:06:53,617
+which you can improve.
+
+66
+00:06:53,667 --> 00:07:00,283
+Clarity reduces shame.
+
+67
+00:07:00,333 --> 00:07:06,950
+Shame shrinks when the next prompt is specific.
+
+68
+00:07:07,000 --> 00:07:12,664
+Your action today — under thirty minutes:
+
+69
+00:07:12,714 --> 00:07:18,379
+1. Find one prompt that gave you fluff.
+
+70
+00:07:18,429 --> 00:07:24,093
+2. Rewrite it with Role, Task, Context, Constraints, and Example.
+
+71
+00:07:24,143 --> 00:07:29,807
+3. Run it once, human-edit the result, and save the winning
+
+72
+00:07:29,857 --> 00:07:35,521
+prompt in Notes.
+
+73
+00:07:35,571 --> 00:07:41,236
+When you're done, you will not need a new tool.
+
+74
+00:07:41,286 --> 00:07:46,950
+You will own a FutureHer skill that outlasts the hype cycle.
+
+75
+00:07:47,000 --> 00:07:51,950
+Download the free RTCCE Prompt Card,
+
+76
+00:07:52,000 --> 00:07:56,950
+join this week's AI challenge,
+
+77
+00:07:57,000 --> 00:08:01,950
+and subscribe so we can keep building calm fluency together.
+
+78
+00:08:02,000 --> 00:08:06,950
+The Forward Collective is practising one saved prompt a day.
+
+79
+00:08:07,000 --> 00:08:15,950
+Next time: fact-check AI before it embarrasses you —
+
+80
+00:08:16,000 --> 00:08:24,950
+because fluency is not proof.

@@ -1,0 +1,34 @@
+FUTUREHER · EP007 · B-ROLL LIST
+Priority: Own phone footage → screen record → CapCut stock (YT-safe) → AI still (max 3)
+Folder: launch/EP007/footage/broll/
+
+ID     | SEC | DURATION | SHOT                                              | SOURCE        | USED IN
+-------|-----|----------|---------------------------------------------------|---------------|----------------
+BR01   | 01  | 6–8s     | Highlighting a statistic on screen (blur numbers) | Own phone     | Hook
+BR02   | 01  | 8–12s    | MCU host / A-roll punch line                      | A-roll        | Hook
+BR03   | 02  | 5–7s     | Browser search compare moment | Own phone     | Story
+BR04   | 02  | 6–8s     | Desk wide — soft SA daylight                      | Own phone     | Story
+BR05   | 02  | 5–6s     | Striking a line from a draft with pen or track changes vibe | Own phone     | Story
+BR06   | 03  | 6–8s     | Calm focused work — no shock face                 | Own / stock   | Problem
+BR07   | 05  | 10–15s   | Hands typing / writing — warm daylight            | Own / stock   | Skill
+SR01   | 05  | 60–90s   | SCREEN: AI paragraph with fake statistic → verify source/number/name → corrected send-ready note | Screen record | Skill
+AC01   | 09  | still    | Action card PNG from action_card.html             | HTML export   | Action
+AI01   | 03  | still    | Problem still (optional)                          | AI prompt 01  | Problem
+AI02   | 04  | still    | Framework pathway diagram                         | AI prompt 02  | Skill title
+
+SCREEN RECORD BEAT SHEET (SR01)
+1. AI paragraph containing a confident statistic
+2. Source check fails / is weak
+3. Number removed or replaced from real notes
+4. Name spelling check
+5. Final clean paragraph ready to send
+
+STOCK SEARCH TERMS (CapCut / YT-safe only)
+- woman researching laptop phone
+- highlighting document desk
+- calm student study african
+- professional reviewing report
+AVOID: neon hacker, crying at computer, glam influencer office, poverty tourism, shock faces
+
+MINIMUM SHOOT (20 min)
+1. BR01  2. BR03  3. BR04  4. SR01  5. A-roll hook + psychology

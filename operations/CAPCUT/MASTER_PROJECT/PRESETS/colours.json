@@ -1,0 +1,32 @@
+{
+  "preset": "FH_Colours_Horizon",
+  "ratio": "70% Ink/Stone · 20% series accent · 10% Brass",
+  "tokens": {
+    "ink": { "hex": "#121A21", "role": "Authority, dark fields, caption chips" },
+    "stone": { "hex": "#F3EFE8", "role": "Default light field, light chips" },
+    "brass": { "hex": "#B8893A", "role": "CTA, arc, money, keyword rare" },
+    "lagoon": { "hex": "#2F6F6A", "role": "Template A — AI / digital / systems" },
+    "clay": { "hex": "#C48B78", "role": "Template D — relationships / warmth" },
+    "mist": { "hex": "#D8D2C8", "role": "Borders, Stories, tagline" },
+    "ivory": { "hex": "#FFFCF8", "role": "Text on dark" },
+    "night": { "hex": "#0B1014", "role": "Letterbox / true black avoid crush" }
+  },
+  "series_accent_map": {
+    "A_Educational": "#2F6F6A",
+    "B_Money": "#B8893A",
+    "C_Career": "#121A21",
+    "D_Relationships": "#C48B78",
+    "E_Stories": "#D8D2C8"
+  },
+  "capcut_saved_colours": [
+    "#121A21",
+    "#F3EFE8",
+    "#B8893A",
+    "#2F6F6A",
+    "#C48B78",
+    "#D8D2C8",
+    "#FFFCF8",
+    "#0B1014"
+  ],
+  "grade_preset": "FH_Grade_Horizon"
+}

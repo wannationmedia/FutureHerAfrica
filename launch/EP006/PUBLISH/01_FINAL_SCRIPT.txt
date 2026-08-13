@@ -1,0 +1,177 @@
+FUTUREHER · EP006 · FINAL SCRIPT
+Title: Prompting basics that still work in 5 years
+Series: FutureHer · AI | Topic: T006 | Framework: RTCCE
+Template: A Educational | Target: 8:00 | Grade: FH_Grade_Horizon
+Slug: ep006-rtcce-forever-prompts
+
+IDEA: Good prompts are clear instructions — not magic words
+SKILL: RTCCE — Role · Task · Context · Constraints · Example
+ACTION: Rewrite one failed prompt with RTCCE and save the winner.
+CTA: Download the RTCCE card + join the AI challenge
+PRODUCT: Forever Prompts Practice Pack
+DOWNLOAD: RTCCE Prompt Card
+
+═══════════════════════════════════════
+COLD OPEN / INTRO (0:00–0:07)
+═══════════════════════════════════════
+VISUAL: FH_TMPL_Intro_7s + series pill FutureHer · AI
+VO: (none — bed only)
+
+═══════════════════════════════════════
+HOOK (0:07–0:37) [S1]
+═══════════════════════════════════════
+VISUAL: MCU A-roll or phone B-roll → face on punch
+ON-SCREEN: Stop asking for magic.
+
+If your prompts sound like
+"help me with work"
+and the answer comes back like a motivational poster —
+you're not bad at AI.
+
+You're asking for magic
+instead of giving instructions.
+
+Today: one idea, one skill, one action.
+A prompt structure that still works when the logos change.
+
+═══════════════════════════════════════
+EVERYDAY SA STORY (0:37–2:07)
+═══════════════════════════════════════
+VISUAL: Soft SA daylight · phone · desk · notebook
+CAPTIONS: help with work · fluff answer · I must be bad · framework fixes it
+
+Picture this.
+You finally open ChatGPT after work in Soweto, Polokwane, Durban — wherever home is —
+and you type: "Help me with my report."
+
+It gives you a generic essay.
+You think: "Maybe I'm not smart enough for this."
+
+A cousin sends a "secret prompt" with twenty roles and a pirate voice.
+You try it. Still fluff. Still shame.
+
+I've watched brilliant women conclude they lack a talent
+when what they lacked was a clear ask.
+
+Here's the truth:
+models follow instructions.
+Vague instructions produce vague help.
+
+═══════════════════════════════════════
+THE PROBLEM (2:07–4:07) [S2]
+═══════════════════════════════════════
+VISUAL: Calm B-roll · kinetic type · lower-thirds
+ON-SCREEN: Vague in → fluff out
+
+The problem isn't that AI is useless.
+The problem is we treat prompting like wishing.
+
+Wishing sounds like: "make this better."
+Instructing sounds like: who you are for this task, what to produce, what context matters, what limits to respect, and what good looks like.
+
+So let's name the durable parts:
+
+Role — who should the model act as for this job.
+Task — the deliverable in one clean verb phrase.
+Context — the facts it must know.
+Constraints — length, tone, format, what to avoid.
+Example — a tiny sample of the shape you want.
+
+Tricks expire.
+Clear instructions compound.
+
+═══════════════════════════════════════
+THE SKILL (4:07–6:07) [S3]
+═══════════════════════════════════════
+VISUAL: Title card RTCCE · Pathway 01/02/03 · screen demo
+ON-SCREEN: Role · Task · Context · Constraints · Example
+DEMO: Bad prompt → RTCCE rewrite → meeting-notes-to-email demo in SA English
+
+Here's the skill.
+Framework name: RTCCE
+
+Role — Task — Context — Constraints — Example.
+
+Watch a rewrite.
+
+Bad: "Help with work email."
+
+Better:
+Role: You are a concise workplace writing assistant for South African professionals.
+Task: Turn these notes into a follow-up email confirming next steps.
+Context: Project Alpha meeting today; next check-in Thursday 10:00; recipient is my manager Thandi.
+Constraints: Maximum 120 words; warm professional tone; no buzzwords; South African English.
+Example: Open with the decision made, then one clear ask.
+
+Run it.
+Edit the facts.
+Save the prompt that worked in a note titled Forever Prompts.
+
+That is RTCCE.
+You stop gambling on magic words —
+and you start writing instructions your future self can reuse.
+
+═══════════════════════════════════════
+PSYCHOLOGY (6:07–7:07) [S4]
+═══════════════════════════════════════
+VISUAL: Soft dissolve · minimal · A-roll
+ON-SCREEN: Clarity reduces shame.
+
+Quick psychology — not as a diagnosis, as a tool.
+
+Shame grows in unclear tasks.
+When the output is bad and the ask was vague,
+people blame identity: "I'm bad at this."
+
+Clarity relocates the problem to the instruction —
+which you can improve.
+
+Clarity reduces shame.
+Shame shrinks when the next prompt is specific.
+
+═══════════════════════════════════════
+ONE ACTION TODAY (7:07–7:47) [S5]
+═══════════════════════════════════════
+VISUAL: Full-screen ACTION CARD (hold 3s)
+ON-SCREEN: Rewrite one prompt with RTCCE.
+
+Your action today — under thirty minutes:
+
+1. Find one prompt that gave you fluff.
+2. Rewrite it with Role, Task, Context, Constraints, and Example.
+3. Run it once, human-edit the result, and save the winning prompt in Notes.
+
+When you're done, you will not need a new tool.
+You will own a FutureHer skill that outlasts the hype cycle.
+
+═══════════════════════════════════════
+COMMUNITY (7:47–8:07)
+═══════════════════════════════════════
+VISUAL: Outro slots Idea / Skill / Action / CTA
+
+Download the free RTCCE Prompt Card,
+join this week's AI challenge,
+and subscribe so we can keep building calm fluency together.
+
+The Forward Collective is practising one saved prompt a day.
+
+═══════════════════════════════════════
+PREVIEW + OUTRO (8:07–8:25)
+═══════════════════════════════════════
+VISUAL: Preview line → logo settle → end screen tiles
+
+Next time: fact-check AI before it embarrasses you —
+because fluency is not proof.
+
+OUTRO LOCKED COPY
+Idea: Good prompts are clear instructions — not magic words
+Skill: RTCCE — Role · Task · Context · Constraints · Example
+Action: Rewrite one failed prompt with RTCCE and save the winner.
+CTA: Download the RTCCE card + join the AI challenge
+END: FutureHer — Ready for what's next.
+
+PRODUCT RECOMMENDATION
+When you're ready to build a personal prompt library you can reuse for years, the Forever Prompts Practice Pack (entry practice workbook) gives you RTCCE drills, save templates, and workplace examples beyond this lesson.
+
+PINNED QUESTION
+Paste your before/after RTCCE prompt (blur anything private).

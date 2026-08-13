@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <title>FH Safe Area Shorts 8 percent</title>
+  <path fill="#A24B3A" fill-opacity="0.22" d="M0 0h1080v1920H0zM86 154h908v1612H86z" fill-rule="evenodd"/>
+  <rect x="86" y="154" width="908" height="1612" fill="none" stroke="#B8893A" stroke-width="2" stroke-dasharray="8 6"/>
+  <rect x="0" y="0" width="1080" height="230" fill="#121A21" fill-opacity="0.35"/>
+  <rect x="0" y="1498" width="1080" height="422" fill="#121A21" fill-opacity="0.35"/>
+  <rect x="900" y="700" width="180" height="520" fill="#121A21" fill-opacity="0.4"/>
+  <text x="540" y="48" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="20" fill="#B8893A">FH SAFE 8% - SHORTS 1080x1920 - DISABLE BEFORE EXPORT</text>
+  <text x="540" y="1700" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="18" fill="#F3EFE8">KEEP TEXT OUT OF CHROME</text>
+</svg>

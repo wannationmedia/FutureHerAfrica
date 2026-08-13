@@ -1,0 +1,40 @@
+SHORT S3 · RTCCE in 60 seconds
+Source: EP006 · 4:07–5:12 · ~30s · 9:16
+Publish: Day 0 +6h
+Role: Skill
+
+TITLE
+RTCCE in 60 seconds
+
+────────────────────────────────────
+0–3s · HOOK
+ON-SCREEN: Forever prompts.
+VO: Forever prompts.
+
+3–10s · REFRAME
+ON-SCREEN: Five parts
+VO: Role · Task · Context · Constraints · Example.
+
+10–22s · VALUE
+ON-SCREEN: Works in 5 years
+VO: Logos change. Clear instructions stay useful.
+
+22–30s · ACTION
+ON-SCREEN: Build one RTCCE
+VO: Write all five lines for one real work task.
+
+SIGN-OFF
+ON-SCREEN / VO: One step today. A different future tomorrow.
+CTA CARD (2s): Full lesson on FutureHer
+────────────────────────────────────
+
+DESCRIPTION
+RTCCE in 60 seconds. One step today. A different future tomorrow.
+Full lesson on FutureHer.
+#FutureHer #AIForWomen
+
+CAPCUT
+Crop 9:16 · eyes upper third · burned captions · large type
+Subtle zoom on hook + action line
+Brand arc BR 12–18% · series pill: FutureHer · AI
+End CTA compound · palette only · premium transitions

@@ -1,0 +1,52 @@
+FUTUREHER · EP008 · SCENE-BY-SCENE STORYBOARD
+Aspect: 16:9 master · 1920×1080 · 30fps · FH_Grade_Horizon
+
+SCENE 00 · INTRO · 0:00–0:07
+SHOT: Brand intro compound
+FRAME: Stone → Ink wash · brass horizon arc · FutureHer wordmark · pill “FutureHer · Money”
+NOTES: Duplicate FH_TMPL_Intro_7s — do not rebuild.
+
+SCENE 01 · HOOK · 0:07–0:37 [S1]
+ON-SCREEN: Not a character flaw.
+B-ROLL: BR01 · BR02
+CAPTION STYLE: Satoshi Bold · Ivory on Ink bar · max 2 lines
+
+SCENE 02 · SA STORY · 0:37–2:07
+ON-SCREEN KEYWORDS: payday WhatsApp · airtime · transport · week three confusion
+MOOD: Relatable, not anxious montage
+B-ROLL: BR03 · BR04 · BR05
+
+SCENE 03 · PROBLEM · 2:07–4:07 [S2]
+GRAPHICS: Month longer than money · Fixed · Flexible · Forward · Clarity before shame
+FORBIDDEN: Shock faces · red alert UI · glitch · neon
+B-ROLL: BR06 · AI01 optional
+
+SCENE 04 · SKILL TITLE · 4:07–4:20
+TEXT: THE PAYDAY MAP
+SUB: Fixed · Flexible · Forward
+HOLD: 2.5–3.5s
+ASSET: AI02 framework diagram
+
+SCENE 05–07 · SKILL STEPS · 4:20–6:07
+DEMO: Payday notes → Fixed list (rent, transport, data) → Flexible → Forward R amount
+ON-SCREEN: THE PAYDAY MAP · 01 Fixed · 02 Flexible · 03 Forward · Fixed · Flexible · Forward
+B-ROLL: BR07 · SR01
+
+SCENE 08 · PSYCHOLOGY · 6:07–7:07 [S4]
+ON-SCREEN: Shame blocks arithmetic.
+PACE: Slower · fewer cuts · academy calm
+
+SCENE 09 · ACTION · 7:07–7:47 [S5]
+TEXT: Map Fixed · Flexible · Forward.
+HOLD: Card 3s
+ASSET: action_card.html → PNG
+
+SCENE 10 · COMMUNITY · 7:47–8:07
+Idea: Disappearing salary is a map problem — not a character flaw
+Skill: The Payday Map — Fixed · Flexible · Forward
+Action: Give every rand a job before the month spends it for you.
+CTA: Join the Money challenge + The Forward Collective
+
+SCENE 11 · PREVIEW + END · 8:07–8:25
+TEXT: Next — micro-saving when it feels impossible
+END: FutureHer — Ready for what's next.

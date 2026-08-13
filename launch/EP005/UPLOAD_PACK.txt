@@ -1,0 +1,55 @@
+FUTUREHER · EP005 · YOUTUBE UPLOAD PACK
+Copy-paste ready. Fill links before publish.
+
+CHANNEL HANDLE: @FutureHerAfrica
+TEMPLATE: A Educational
+SERIES: FutureHer · AI
+SLUG: ep005-ai-work-map-boundaries
+
+PRIMARY TITLE
+What AI can and cannot do at your job
+
+ALT TITLES
+1. What you're actually allowed to use AI for at work
+2. Automate, Assist, Avoid — your AI work map
+3. Boss-safe AI uses that won't get you in trouble
+
+THUMBNAIL TEXT (NOT the title)
+Assist ≠ replace
+Series pill: FutureHer · AI
+Support: Automate · Assist · Avoid
+File: launch/EP005/thumbnail.html → PUBLISH/08_THUMBNAIL.png
+
+DESCRIPTION
+(Use PUBLISH/09_DESCRIPTION.txt)
+
+TAGS
+what can AI do at work, AI boundaries at work, safe AI uses office, ChatGPT work rules, FutureHer, AI for women, AI at work South Africa, Automate Assist Avoid, workplace AI
+
+CATEGORY: Education | Language: English | Captions: EN SRT
+Visibility: Public (or Unlisted 1h QC → Public)
+Comments: On | Made for kids: No | License: Standard YouTube
+
+PINNED COMMENT
+(Use PUBLISH/14_PINNED_COMMENT.txt)
+
+END SCREEN / CARDS
+Subscribe + next teaser + Forward Collective
+Cards: Subscribe @ 0:45 · Community @ 7:40
+
+CTA
+Subscribe + this week's Work Map challenge
+
+DIGITAL PRODUCT
+AI Boundaries at Work one-pager pack
+If your workplace is vague about AI rules, the AI Boundaries at Work pack expands the Automate · Assist · Avoid map with conversation scripts for managers and a reusable duty checklist.
+
+FREE WORKSHEET
+Automate / Assist / Avoid map (AI_WORK_MAP_worksheet.html)
+
+SHORTS TITLES
+S1: Assist is not replace
+S2: Never let AI invent facts at work
+S3: The Work Map in 60 seconds
+S4: The workplace AI privacy line
+S5: Your judgment stays at work

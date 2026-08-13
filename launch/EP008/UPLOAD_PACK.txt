@@ -1,0 +1,55 @@
+FUTUREHER · EP008 · YOUTUBE UPLOAD PACK
+Copy-paste ready. Fill links before publish.
+
+CHANNEL HANDLE: @FutureHerAfrica
+TEMPLATE: B Money
+SERIES: FutureHer · Money
+SLUG: ep008-payday-map-salary
+
+PRIMARY TITLE
+My salary disappears before month-end — here's the map
+
+ALT TITLES
+1. When the month is longer than the money
+2. Stop guessing where your salary goes
+3. The Payday Map for South African salaries
+
+THUMBNAIL TEXT (NOT the title)
+Map the money first
+Series pill: FutureHer · Money
+Support: Fixed · Flexible · Forward
+File: launch/EP008/thumbnail.html → PUBLISH/08_THUMBNAIL.png
+
+DESCRIPTION
+(Use PUBLISH/09_DESCRIPTION.txt)
+
+TAGS
+salary disappears before month end, payday budget South Africa, month longer than money, simple money map, FutureHer, money for women South Africa, Payday Map, financial clarity
+
+CATEGORY: Education | Language: English | Captions: EN SRT
+Visibility: Public (or Unlisted 1h QC → Public)
+Comments: On | Made for kids: No | License: Standard YouTube
+
+PINNED COMMENT
+(Use PUBLISH/14_PINNED_COMMENT.txt)
+
+END SCREEN / CARDS
+Subscribe + next teaser + Forward Collective
+Cards: Subscribe @ 0:45 · Community @ 7:40
+
+CTA
+Join the Money challenge + The Forward Collective
+
+DIGITAL PRODUCT
+Money Clarity in 14 Days
+If the free Payday Map worksheet helps and you want a guided two-week rebuild — Money Clarity in 14 Days walks you through fixed costs, flexible spend, and a forward line without shame scripts.
+
+FREE WORKSHEET
+Payday Map worksheet (PAYDAY_MAP_worksheet.html)
+
+SHORTS TITLES
+S1: Disappearing salary isn't a character flaw
+S2: Fixed vs flexible spending
+S3: The Payday Map in 60 seconds
+S4: Airtime is a budget line
+S5: Your 48-hour payday plan

@@ -1,0 +1,23 @@
+FUTUREHER · EP009 · FIVE SHORTS MASTER
+Aspect: 9:16 · Captions burned in · Brand arc BR 12–18% · Series pill top
+Engine: operations/SHORTS/SHORTS_ENGINE.md
+Formula: HOOK 0–3 · REFRAME 3–10 · VALUE 10–22 · ACTION 22–30
+Sign-off (locked): One step today. A different future tomorrow.
+
+#  | FILE                              | TITLE                                    | CUT        | PUBLISH
+---|-----------------------------------|------------------------------------------|------------|----------------
+S1 | S1_Floor_Not_Ideal.txt             | Save with a floor — not a fantasy          | 0:07–0:35    | Day 0 +2h
+S2 | S2_Automate_Tiny.txt               | Automate the tiny save                     | 2:07–2:52    | Day 1 evening
+S3 | S3_Micro_Save_60s.txt              | Micro-Save in 60 seconds                   | 4:07–5:12    | Day 0 +6h
+S4 | S4_Stokvel_Vs_Solo.txt             | Stokvel vs solo saving — both valid        | 5:00–5:40    | Day 2
+S5 | S5_Protect_From_Impulse.txt        | Protect savings from impulse               | 7:07–7:42    | Day 1
+
+EXPORT NAMES
+FH_EP009_S1_Floor.mp4
+FH_EP009_S2_Automate.mp4
+FH_EP009_S3_MicroSave.mp4
+FH_EP009_S4_Stokvel.mp4
+FH_EP009_S5_Protect.mp4
+
+QC
+Every Short: formula beats · sister voice · one idea · one today-action · official sign-off · full-lesson CTA · phone caption check

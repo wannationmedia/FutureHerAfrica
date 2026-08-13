@@ -1,0 +1,65 @@
+/**
+ * FutureHer Horizon — Colour Tokens
+ * Authority: FUTUREHER_BRAND_DESIGN_STUDIO.md §4
+ * Do not invent colours outside this file.
+ */
+
+:root {
+  /* Primary */
+  --fh-ink: #121A21;
+  --fh-stone: #F3EFE8;
+  --fh-brass: #B8893A;
+
+  /* Secondary */
+  --fh-lagoon: #2F6F6A;
+  --fh-clay: #C48B78;
+  --fh-mist: #D8D2C8;
+
+  /* Accents (sparingly) */
+  --fh-sunrise: #E2B15A;
+  --fh-ember: #A24B3A;
+  --fh-deep-lagoon: #1F4B48;
+
+  /* Surfaces */
+  --fh-ivory: #FFFCF8;
+  --fh-night: #0B1014;
+  --fh-surface-dark: #1A232B;
+  --fh-border-dark: #2C3740;
+
+  /* Text — light */
+  --fh-text-primary: #121A21;
+  --fh-text-secondary: #3D4A55;
+  --fh-text-tertiary: #6B7380;
+  --fh-text-link: #B8893A;
+  --fh-text-success: #2F6F6A;
+  --fh-text-danger: #A24B3A;
+
+  /* Dark lifts */
+  --fh-brass-dark: #C9A05A;
+  --fh-lagoon-dark: #3F8F88;
+  --fh-clay-dark: #D4A090;
+  --fh-text-primary-dark: #FFFCF8;
+  --fh-text-secondary-dark: #C9C2B8;
+  --fh-text-tertiary-dark: #8A929A;
+
+  /* Gradients */
+  --fh-gradient-horizon-wash: linear-gradient(135deg, #F3EFE8 0%, #E8E0D4 100%);
+  --fh-gradient-ink-depth: linear-gradient(180deg, #121A21 0%, #0B1014 100%);
+}
+
+/* Series accents */
+.fh-series-ai,
+.fh-series-digital,
+.fh-series-systems { --fh-series: var(--fh-lagoon); }
+
+.fh-series-money { --fh-series: var(--fh-brass); }
+
+.fh-series-career,
+.fh-series-business { --fh-series: var(--fh-ink); }
+
+.fh-series-speak,
+.fh-series-relate,
+.fh-series-presence,
+.fh-series-build { --fh-series: var(--fh-clay); }
+
+.fh-series-story { --fh-series: var(--fh-mist); }

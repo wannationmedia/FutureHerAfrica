@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <title>FH Safe Area Longform 5 percent</title>
+  <path fill="#A24B3A" fill-opacity="0.22" d="M0 0h1920v1080H0zM96 54h1728v972H96z" fill-rule="evenodd"/>
+  <rect x="96" y="54" width="1728" height="972" fill="none" stroke="#B8893A" stroke-width="2" stroke-dasharray="8 6"/>
+  <rect x="288" y="842" width="1344" height="108" fill="#2F6F6A" fill-opacity="0.18" stroke="#2F6F6A" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="960" y="40" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="22" fill="#B8893A">FH SAFE 5% - LONGFORM 1920x1080 - DISABLE BEFORE EXPORT</text>
+  <text x="960" y="905" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="18" fill="#2F6F6A">CAPTION BAND</text>
+</svg>

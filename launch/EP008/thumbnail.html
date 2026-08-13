@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8" /><title>FH EP008 Thumbnail 1280×720</title><style>
+  @import url("https://api.fontshare.com/v2/css?f[]=satoshi@500,700&display=swap");
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { min-height: 100vh; display: grid; place-items: center; background: #0B1014; font-family: "Satoshi", system-ui, sans-serif; }
+  .frame { width: 1280px; height: 720px; display: grid; grid-template-columns: 1fr 1fr; overflow: hidden; background: #121A21; }
+  .visual { position: relative; background: radial-gradient(ellipse at 30% 20%, #2C3740 0%, transparent 55%), linear-gradient(180deg, #121A21 0%, #0B1014 100%); }
+  .visual::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, transparent 60%, #F3EFE8 100%), linear-gradient(180deg, transparent 70%, rgba(11,16,20,.45) 100%); }
+  .horizon { position: absolute; left: 48px; bottom: 72px; width: 180px; height: 36px; border: 3px solid #B8893A; border-top: none; border-radius: 0 0 180px 180px; opacity: .85; z-index: 2; }
+  .monogram { position: absolute; top: 36px; left: 36px; width: 56px; height: 56px; border-radius: 14px; background: #1A232B; border: 1px solid #2C3740; color: #C9A05A; display: grid; place-items: center; font-weight: 700; font-size: 18px; z-index: 3; }
+  .panel { background: linear-gradient(135deg, #F3EFE8 0%, #E8E0D4 100%); padding: 72px 64px 64px 56px; display: flex; flex-direction: column; justify-content: center; gap: 22px; }
+  .pill { align-self: flex-start; background: #2F6F6A; color: #FFFCF8; font-size: 18px; font-weight: 500; letter-spacing: .04em; padding: 10px 18px; border-radius: 6px; }
+  h1 { color: #121A21; font-size: 58px; line-height: 1.05; font-weight: 700; max-width: 11ch; }
+  .rule { width: 96px; height: 3px; background: #B8893A; }
+  .support { color: #3D4A55; font-size: 22px; font-weight: 500; letter-spacing: .06em; }
+  .hint { margin-top: 24px; color: #8A929A; font: 500 14px/1.4 "Satoshi", system-ui, sans-serif; text-align: center; }
+</style></head>
+<body><div><div class="frame" id="thumb"><div class="visual"><div class="monogram">FH</div><div class="horizon" aria-hidden="true"></div></div>
+<div class="panel"><div class="pill">FutureHer · Money</div><h1>Map the money first</h1><div class="rule"></div><div class="support">Fixed · Flexible · Forward</div></div></div>
+<p class="hint">Open at 100% zoom → screenshot the 1280×720 frame · or replace left panel with face photo</p></div></body></html>

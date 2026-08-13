@@ -1,0 +1,58 @@
+{
+  "preset": "FH_TMPL_Captions_Style",
+  "capcut_save_as": "Favourite / Apply to all captions",
+  "settings": {
+    "font": "Satoshi Medium",
+    "fallback_font": "IBM Plex Sans Medium",
+    "case": "sentence",
+    "words_on_screen": { "min": 3, "max": 6 },
+    "size_longform_px": 42,
+    "size_shorts_px": 56,
+    "fill": "#FFFCF8",
+    "chip": {
+      "enabled": true,
+      "colour": "#121A21",
+      "opacity_pct": 80,
+      "radius_px": 10,
+      "padding_x_px": 16,
+      "padding_y_px": 8
+    },
+    "alternate_style": {
+      "fill": "#121A21",
+      "chip_colour": "#F3EFE8",
+      "chip_opacity_pct": 92,
+      "use_when": "Bright B-roll / outdoor daylight"
+    },
+    "keyword_accent": {
+      "mode": "one_series_accent_per_video",
+      "underline_or_colour": true,
+      "max_keywords_per_card": 1,
+      "map": {
+        "A_Educational": "#2F6F6A",
+        "B_Money": "#B8893A",
+        "C_Career": "#B8893A",
+        "D_Relationships": "#C48B78",
+        "E_Stories": "#B8893A"
+      }
+    },
+    "position": {
+      "anchor": "bottom_centre",
+      "y_from_bottom_pct": 14,
+      "x_safe": "inside_5pct_longform_8pct_shorts"
+    },
+    "animation": {
+      "in": "Fade",
+      "out": "Fade",
+      "duration_ms": 150,
+      "banned": ["Bounce", "Pop", "Karaoke rainbow", "Typewriter bounce", "Shake"]
+    },
+    "line_breaks": "Prefer phrase breaks from script — max 2 lines"
+  },
+  "apply_path": [
+    "Auto captions",
+    "Select all caption clips",
+    "Apply FH_TMPL_Captions_Style",
+    "Fix SA names / place names / framework titles",
+    "Cull to 3–6 words per card"
+  ]
+}

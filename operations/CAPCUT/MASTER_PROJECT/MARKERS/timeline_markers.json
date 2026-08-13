@@ -1,0 +1,23 @@
+{
+  "project": "FH_TMPL_Longform_8min",
+  "markers": [
+    { "id": "INTRO", "timecode": "00:00:00:00", "colour": "brass", "label": "INTRO · locked compound" },
+    { "id": "HOOK", "timecode": "00:00:07:00", "colour": "lagoon", "label": "HOOK · replace media" },
+    { "id": "STORY", "timecode": "00:00:37:00", "colour": "clay", "label": "STORY · replace media" },
+    { "id": "PROBLEM", "timecode": "00:02:07:00", "colour": "ink", "label": "PROBLEM · replace media" },
+    { "id": "SKILL", "timecode": "00:04:07:00", "colour": "lagoon", "label": "SKILL · replace + screen lane" },
+    { "id": "PSYCHOLOGY", "timecode": "00:06:07:00", "colour": "mist", "label": "PSYCHOLOGY · replace media" },
+    { "id": "ACTION", "timecode": "00:07:07:00", "colour": "brass", "label": "ACTION · replace text+media" },
+    { "id": "CTA", "timecode": "00:07:47:00", "colour": "brass", "label": "CTA · locked" },
+    { "id": "PREVIEW", "timecode": "00:08:07:00", "colour": "ink", "label": "PREVIEW · replace media" },
+    { "id": "OUTRO", "timecode": "00:08:17:00", "colour": "brass", "label": "OUTRO · Idea/Skill/Action text only" },
+    { "id": "THUMB_FRAME", "timecode": "00:00:22:00", "colour": "sunrise", "label": "THUMB · candidate face frame (adjust to best HOOK smile/eye-line)" },
+    { "id": "ENDSCREEN", "timecode": "00:08:45:00", "colour": "ivory", "label": "ENDSCREEN · YT elements zone clear" },
+    { "id": "S1", "timecode": "00:00:07:00", "colour": "lagoon", "label": "S1 Shorts source — Hook" },
+    { "id": "S2", "timecode": "00:02:07:00", "colour": "lagoon", "label": "S2 Shorts source — Problem" },
+    { "id": "S3", "timecode": "00:04:07:00", "colour": "lagoon", "label": "S3 Shorts source — Skill" },
+    { "id": "S4", "timecode": "00:06:07:00", "colour": "lagoon", "label": "S4 Shorts source — Psych" },
+    { "id": "S5", "timecode": "00:07:07:00", "colour": "lagoon", "label": "S5 Shorts source — Action" }
+  ],
+  "capcut_howto": "Right-click timeline → Add marker → name exactly as id · colour-code per table"
+}

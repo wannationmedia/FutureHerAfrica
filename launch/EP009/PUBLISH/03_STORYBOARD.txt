@@ -1,0 +1,52 @@
+FUTUREHER · EP009 · SCENE-BY-SCENE STORYBOARD
+Aspect: 16:9 master · 1920×1080 · 30fps · FH_Grade_Horizon
+
+SCENE 00 · INTRO · 0:00–0:07
+SHOT: Brand intro compound
+FRAME: Stone → Ink wash · brass horizon arc · FutureHer wordmark · pill “FutureHer · Money”
+NOTES: Duplicate FH_TMPL_Intro_7s — do not rebuild.
+
+SCENE 01 · HOOK · 0:07–0:37 [S1]
+ON-SCREEN: Floor — not fantasy.
+B-ROLL: BR01 · BR02
+CAPTION STYLE: Satoshi Bold · Ivory on Ink bar · max 2 lines
+
+SCENE 02 · SA STORY · 0:37–2:07
+ON-SCREEN KEYWORDS: saving is for others · tiny floor · stokvel or solo · streak
+MOOD: Relatable, not anxious montage
+B-ROLL: BR03 · BR04 · BR05
+
+SCENE 03 · PROBLEM · 2:07–4:07 [S2]
+GRAPHICS: Ideal budgets fail · Floor · Automate · Protect · Small and sacred
+FORBIDDEN: Shock faces · red alert UI · glitch · neon
+B-ROLL: BR06 · AI01 optional
+
+SCENE 04 · SKILL TITLE · 4:07–4:20
+TEXT: THE MICRO-SAVE
+SUB: Floor · Automate · Protect
+HOLD: 2.5–3.5s
+ASSET: AI02 framework diagram
+
+SCENE 05–07 · SKILL STEPS · 4:20–6:07
+DEMO: Choose floor R50 → move to savings pocket → write Protect rule in Notes
+ON-SCREEN: THE MICRO-SAVE · 01 Floor · 02 Automate · 03 Protect · Floor · Automate · Protect
+B-ROLL: BR07 · SR01
+
+SCENE 08 · PSYCHOLOGY · 6:07–7:07 [S4]
+ON-SCREEN: Identity follows kept promises.
+PACE: Slower · fewer cuts · academy calm
+
+SCENE 09 · ACTION · 7:07–7:47 [S5]
+TEXT: Set floor. Move it. Protect 30 days.
+HOLD: Card 3s
+ASSET: action_card.html → PNG
+
+SCENE 10 · COMMUNITY · 7:47–8:07
+Idea: Saving starts at a floor you can keep — not an ideal you abandon
+Skill: The Micro-Save — Floor · Automate · Protect
+Action: Set a tiny floor. Move it. Protect it for 30 days.
+CTA: Join the 30 Days of Saving challenge
+
+SCENE 11 · PREVIEW + END · 8:07–8:25
+TEXT: Next — pressure purchases and the Kind No
+END: FutureHer — Ready for what's next.

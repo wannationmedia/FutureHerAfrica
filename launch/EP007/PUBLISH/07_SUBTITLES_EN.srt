@@ -1,0 +1,303 @@
+1
+00:00:07,000 --> 00:00:11,950
+If AI ever answered you with perfect confidence
+
+2
+00:00:12,000 --> 00:00:16,950
+and you almost pasted it into a slide, email, or assignment —
+
+3
+00:00:17,000 --> 00:00:21,950
+this lesson is your seatbelt.
+
+4
+00:00:22,000 --> 00:00:26,950
+Don't trust fluency.
+
+5
+00:00:27,000 --> 00:00:31,950
+Today: one idea, one skill, one action.
+
+6
+00:00:32,000 --> 00:00:36,950
+Confidence without gullibility.
+
+7
+00:00:37,000 --> 00:00:41,950
+Picture this.
+
+8
+00:00:42,000 --> 00:00:46,950
+You're finishing a presentation for class or a Monday update
+
+9
+00:00:47,000 --> 00:00:51,950
+for your manager.
+
+10
+00:00:52,000 --> 00:00:56,950
+AI gives you a clean line:
+
+11
+00:00:57,000 --> 00:01:01,950
+"Studies show 73% of teams improved productivity in two weeks.
+
+12
+00:01:02,000 --> 00:01:06,950
+"
+
+13
+00:01:07,000 --> 00:01:11,950
+It sounds research-ish.
+
+14
+00:01:12,000 --> 00:01:16,950
+It sounds sendable.
+
+15
+00:01:17,000 --> 00:01:21,950
+You almost drop it into the deck.
+
+16
+00:01:22,000 --> 00:01:26,950
+Then something nags —
+
+17
+00:01:27,000 --> 00:01:31,950
+and you search.
+
+18
+00:01:32,000 --> 00:01:36,950
+No study. Wrong number. Or a name that doesn't exist.
+
+19
+00:01:37,000 --> 00:01:41,950
+I've seen students and professionals catch this one minute
+
+20
+00:01:42,000 --> 00:01:46,950
+before send —
+
+21
+00:01:47,000 --> 00:01:51,950
+and I've seen the version where they didn't.
+
+22
+00:01:52,000 --> 00:01:56,950
+Here's the truth:
+
+23
+00:01:57,000 --> 00:02:01,950
+embarrassment rarely comes from using AI.
+
+24
+00:02:02,000 --> 00:02:06,950
+It comes from outsourcing verification.
+
+25
+00:02:07,000 --> 00:02:16,950
+The problem isn't that AI makes mistakes.
+
+26
+00:02:17,000 --> 00:02:26,950
+The problem is that mistakes arrive wearing fluent clothing.
+
+27
+00:02:27,000 --> 00:02:36,950
+Your brain treats smooth language as credible language.
+
+28
+00:02:37,000 --> 00:02:46,950
+That's normal.
+
+29
+00:02:47,000 --> 00:02:56,950
+It's also dangerous.
+
+30
+00:02:57,000 --> 00:03:06,950
+So separate three checks before anything leaves your hands:
+
+31
+00:03:07,000 --> 00:03:16,950
+Source — Where did this claim live outside the chat?
+
+32
+00:03:17,000 --> 00:03:26,950
+Number — Can I confirm the figure in a reliable place?
+
+33
+00:03:27,000 --> 00:03:36,950
+Name — Are people, companies, laws, and book titles real and
+
+34
+00:03:37,000 --> 00:03:46,950
+correctly spelled?
+
+35
+00:03:47,000 --> 00:03:56,950
+If any check fails, cut or correct.
+
+36
+00:03:57,000 --> 00:04:06,950
+Fluency is not proof.
+
+37
+00:04:07,000 --> 00:04:12,664
+Here's the skill.
+
+38
+00:04:12,714 --> 00:04:18,379
+Framework name: VERIFY
+
+39
+00:04:18,429 --> 00:04:24,093
+Step 1 — Source.
+
+40
+00:04:24,143 --> 00:04:29,807
+Highlight every claim that isn't from your own files.
+
+41
+00:04:29,857 --> 00:04:35,521
+Ask: can I open a source that isn't this chat?
+
+42
+00:04:35,571 --> 00:04:41,236
+If the model won't show a real link you can open — treat it as
+
+43
+00:04:41,286 --> 00:04:46,950
+unverified.
+
+44
+00:04:47,000 --> 00:04:52,664
+Step 2 — Number.
+
+45
+00:04:52,714 --> 00:04:58,379
+Circle every percentage, date, price, and statistic.
+
+46
+00:04:58,429 --> 00:05:04,093
+Confirm against a primary page, your spreadsheet, or a trusted report.
+
+47
+00:05:04,143 --> 00:05:09,807
+No confirmation — no number.
+
+48
+00:05:09,857 --> 00:05:15,521
+Step 3 — Name.
+
+49
+00:05:15,571 --> 00:05:21,236
+Check people, organisations, laws, place names, and titles.
+
+50
+00:05:21,286 --> 00:05:26,950
+One wrong name can sink a good email.
+
+51
+00:05:27,000 --> 00:05:32,664
+Demo: take an AI paragraph, strike the fancy statistic,
+
+52
+00:05:32,714 --> 00:05:38,379
+replace with a fact from your own notes, keep the useful
+
+53
+00:05:38,429 --> 00:05:44,093
+structure.
+
+54
+00:05:44,143 --> 00:05:49,807
+That is VERIFY.
+
+55
+00:05:49,857 --> 00:05:55,521
+Source. Number. Name.
+
+56
+00:05:55,571 --> 00:06:01,236
+You stop fearing AI —
+
+57
+00:06:01,286 --> 00:06:06,950
+and you stop being fooled by it.
+
+58
+00:06:07,000 --> 00:06:15,521
+Quick psychology — not as a diagnosis, as a tool.
+
+59
+00:06:15,571 --> 00:06:24,093
+Confidence can be borrowed.
+
+60
+00:06:24,143 --> 00:06:32,664
+When text sounds assured, we borrow that assurance into our body.
+
+61
+00:06:32,714 --> 00:06:41,236
+Verification returns ownership to you.
+
+62
+00:06:41,286 --> 00:06:49,807
+You become the adult in the room again.
+
+63
+00:06:49,857 --> 00:06:58,379
+Borrowed confidence is risky.
+
+64
+00:06:58,429 --> 00:07:06,950
+Earned confidence is checked.
+
+65
+00:07:07,000 --> 00:07:13,617
+Your action today — under thirty minutes:
+
+66
+00:07:13,667 --> 00:07:20,283
+1. Take one AI answer you planned to use.
+
+67
+00:07:20,333 --> 00:07:26,950
+2. Run Source · Number · Name.
+
+68
+00:07:27,000 --> 00:07:33,617
+3. Correct or cut anything unverified, then save the clean version.
+
+69
+00:07:33,667 --> 00:07:40,283
+When you're done, you will not be cynical.
+
+70
+00:07:40,333 --> 00:07:46,950
+You will be FutureHer-ready: calm, sharp, and hard to embarrass.
+
+71
+00:07:47,000 --> 00:07:53,617
+Subscribe to Forward Notes for calm weekly readiness,
+
+72
+00:07:53,667 --> 00:08:00,283
+and join The Forward Collective if you want a place to
+
+73
+00:08:00,333 --> 00:08:06,950
+practise verification together.
+
+74
+00:08:07,000 --> 00:08:12,950
+Next time we shift into Money —
+
+75
+00:08:13,000 --> 00:08:18,950
+what to do when your salary disappears before month-end.
+
+76
+00:08:19,000 --> 00:08:24,950
+Dignity first. A map second.

@@ -1,0 +1,63 @@
+FUTUREHERAFRICA · EP001 · CAPCUT EDIT SHEET
+Template: A Educational | Grade: FH_Grade_Horizon | Aspect: 16:9 master
+
+COLOURS
+Ink #121A21 | Stone #F3EFE8 | Brass #B8893A | Lagoon #2F6F6A | Ivory #FFFCF8
+
+INTRO (6–8s)
+Horizon arc draw + FutureHerAfrica wordmark + series pill "FutureHerAfrica · AI"
+SFX: soft whoosh only if already in master — otherwise silence OK
+
+TIMELINE
+00:00–00:30  HOOK [S1]
+  A-roll MCU or B-roll phone scroll → cut to face on punch line "you're not dramatic"
+  Caption: You're not dramatic.
+  Punch zoom 5% on "Will there still be a place for me?"
+
+00:30–02:00  STORY
+  B-roll: WhatsApp blur (no real contacts) · desk · notebook · SA soft daylight
+  Caption keywords only: Johannesburg · Polokwane · WhatsApp · freeze
+
+02:00–04:00  PROBLEM [S2]
+  Lower-third: Fear ≠ forecast
+  Three-beat kinetic type: Headlines / Tasks / Assist vs Own
+  Lower-third mid: Tasks under pressure ≠ you under pressure
+  Stock: calm woman at laptop — NO shock face
+
+04:00–06:00  SKILL [S3]
+  Title card: THE TASK LAYER
+  Steps as Pathway graphic: 01 Map · 02 Label · 03 Run one
+  Screen record: 5 tasks list → ASSIST/OWN/HYBRID → one email prompt → human edit
+  Caption: Map · Label · Run one
+  Hold idea 2.5–3.5s on framework name
+
+06:00–07:00  PSYCHOLOGY [S4]
+  Soft dissolve. Minimal visuals. Caption: Fear is data.
+  No therapy aesthetics. Keep academy calm.
+
+07:00–07:40  ACTION [S5]
+  Full-screen ACTION CARD (Stone panel, Ink text, Brass underline):
+  Today: Map 5 tasks. Run 1 with AI.
+  Hold 3s.
+
+07:40–07:55  CTA
+  End card slots: Idea / Skill / Action / Join The Forward Collective
+  Subscribe animation (master)
+
+07:55–08:05  PREVIEW + OUTRO
+  Text: Next — which AI tools to trust
+  Logo settle. End.
+
+CAPTIONS STYLE
+Satoshi Bold / Medium · Ivory on Ink bar OR Ink on Stone · max 2 lines · never karaoke rainbow
+
+TRANSITIONS
+Dissolve 280–400ms default. Hard cut on punch lines only. No bounce. No meme zooms.
+
+MUSIC
+Bed under 12–18% during VO. Dip for action card. Outro lift slight.
+
+EXPORT
+Master: 1080p or 4K 16:9 H.264
+Shorts: crop 9:16 from same timeline using S markers
+File name: FH_EP001_AI_TaskLayer_v1.mp4

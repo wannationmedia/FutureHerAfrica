@@ -1,0 +1,102 @@
+﻿UTUREHER · EP001 · SCENE-BY-SCENE STORYBOARD
+Aspect: 16:9 master · 1920×1080 · 30fps · FH_Grade_Horizon
+
+SCENE 00 · INTRO · 0:00–0:07
+SHOT: Brand intro compound
+FRAME: Stone → Ink wash · brass horizon arc draws · FutureHerAfrica wordmark · Lagoon pill “FutureHerAfrica · AI”
+MOTION: Arc ease-out · wordmark fade · hold · dissolve
+AUDIO: Bed A under 12% · soft whoosh optional
+TEXT: (locked intro)
+NOTES: Do not rebuild. Duplicate FH_TMPL_Intro_7s.
+
+SCENE 01 · HOOK · 0:07–0:37 [S1]
+SHOT A: ECU phone screen scrolling AI headlines (blur real content)
+SHOT B: MCU host, soft window light, eye contact
+CUT: Hard cut to face on “you're not dramatic”
+ZOOM: +5% punch on “Will there still be a place for me?”
+ON-SCREEN: You're not dramatic.
+CAPTION STYLE: Satoshi Bold · Ivory on Ink bar · max 2 lines
+B-ROLL: BR01 phone scroll · BR02 calm face / A-roll
+
+SCENE 02 · SA STORY · 0:37–2:07
+SHOT A: Wide desk, Johannesburg soft daylight (or home desk Polokwane energy)
+SHOT B: Hands holding phone — WhatsApp UI blurred / mock
+SHOT C: Notebook + pen · night desk lamp (safety-check moment)
+CUTS: Dissolve 300ms between inserts; return to A-roll for truth lines
+ON-SCREEN KEYWORDS: Johannesburg · Polokwane · WhatsApp · freeze
+MOOD: Relatable, not anxious montage
+B-ROLL: BR03 WhatsApp blur · BR04 desk daylight · BR05 night job-listings scroll (gentle)
+
+SCENE 03 · PROBLEM · 2:07–4:07 [S2]
+SHOT A: A-roll MCU
+SHOT B: Calm woman at laptop — focused, not shocked
+GRAPHIC 1: Lower-third “Fear ≠ forecast” (Lagoon accent)
+GRAPHIC 2: Kinetic type three beats — Headlines / Tasks / Assist vs Own
+GRAPHIC 3: Lower-third “Tasks under pressure ≠ you under pressure”
+HOLD: 2.5s on each graphic beat
+FORBIDDEN: Shock faces · red alert UI · glitch effects
+B-ROLL: BR06 laptop calm · AI01 desk still (optional)
+
+SCENE 04 · SKILL TITLE · 4:07–4:20
+SHOT: Full title card
+TEXT: THE TASK LAYER
+SUB: Map · Label · Run one
+MOTION: Fade in · hold 2.5–3.5s · dissolve to steps
+ASSET: AI02 framework diagram OR CapCut Pathway graphic
+
+SCENE 05 · SKILL STEP 1 MAP · 4:20–4:50
+SHOT: Screen record / phone Notes
+VISUAL: List of 5 plain tasks appearing one by one
+SFX: Soft tick per item (max)
+ON-SCREEN: 01 Map
+DEMO TEXT EXAMPLES:
+1 Answered client emails
+2 Built a spreadsheet
+3 Ran a meeting
+4 Fixed a complaint
+5 Prepared a report
+
+SCENE 06 · SKILL STEP 2 LABEL · 4:50–5:25
+SHOT: Same list — labels appear: ASSIST / OWN / HYBRID
+COLOUR: ASSIST=Lagoon · OWN=Brass · HYBRID=Mist/Ink
+ON-SCREEN: 02 Label
+A-ROLL: Cutaway for “half their panic is attached to ASSIST tasks”
+
+SCENE 07 · SKILL STEP 3 RUN · 5:25–6:07
+SHOT: Screen record — AI chat draft email → human edit in notes
+ON-SCREEN: 03 Run one
+SHOW: Prompt → draft → edit highlights (truth / tone / context)
+END LINE HOLD: “practicing the job you actually have”
+B-ROLL: BR07 hands typing · screen lane primary
+
+SCENE 08 · PSYCHOLOGY · 6:07–7:07 [S4]
+SHOT: A-roll only · soft dissolve in
+ON-SCREEN: Fear is data. (late beat)
+PACE: Slower · fewer cuts · no stock panic imagery
+MOOD: Academy calm
+
+SCENE 09 · ACTION · 7:07–7:47 [S5]
+SHOT: Full-screen action card (Stone panel)
+TEXT:
+  Today: Map 5 tasks. Run 1 with AI.
+  1 Write five work tasks
+  2 Label Assist · Own · Hybrid
+  3 Draft one with AI — edit in your voice
+HOLD: Card 3s cold · then VO over card / A-roll
+ASSET: PUBLISH/AC01_ACTION_CARD.png (from action_card.html)
+MUSIC: Dip to ~8% under card
+
+SCENE 10 · COMMUNITY · 7:47–8:07
+SHOT: Outro compound slots
+TEXT LOCKED:
+  Idea: AI pressures tasks — not your whole worth
+  Skill: The Task Layer — Map · Label · Run one
+  Action: Five tasks. One AI draft. Your edit.
+  CTA: Join The Forward Collective
+MOTION: FH_TMPL_Outro_30s frames
+
+SCENE 11 · PREVIEW + END · 8:07–8:25
+SHOT: Preview line on Ink field
+TEXT: Next — which AI tools to trust
+END: Logo settle · empty lower third for YT end-screen tiles
+EXPORT MARKERS: S1 S2 S3 S4 S5 placed for Shorts crop

@@ -1,0 +1,37 @@
+FUTUREHER · EP004 · AI IMAGE PROMPTS
+Max 3 stills in edit. Prefer own B-roll + screen record first.
+Palette: Ink #121A21 · Stone #F3EFE8 · Brass #B8893A · Lagoon #2F6F6A · Ivory #FFFCF8
+
+GLOBAL NEGATIVE (append to every prompt):
+neon, cyberpunk, purple pink gradient, chrome, influencer aesthetic, girlboss pink, glitter, crown, butterfly, Venus symbol, kente costume tourism, crowded collage, watermark text, readable fake UI text, cartoon mascot, drop shadow glow, busy sticker pack, shock face, open mouth panic, poverty stereotype, sexualized imagery, celebrity likeness
+
+────────────────────────────────────
+AI01 · PROBLEM BEAT STILL
+File: assets/AI01_ep004_scene.jpg · 1920×1080
+────────────────────────────────────
+Editorial still, South African professional woman at desk editing a document on laptop, calm focused expression, soft window light, ink stone brass lagoon grade, no readable text on screen, no neon, Horizon academy mood, 16:9
+
+────────────────────────────────────
+AI02 · FRAMEWORK DIAGRAM
+File: assets/AI02_ep004_diagram.png · 1920×1080
+────────────────────────────────────
+Flat editorial diagram three nodes DRAFT STRIP STAMP horizontal pathway, Ink on Stone, Lagoon accent nodes, brass micro horizon arc, teaching framework, no characters, no 3D, SVG-ready, 16:9
+
+────────────────────────────────────
+AI03 · THUMBNAIL FACE
+File: assets/AI03_ep004_thumb.jpg · 1280×720
+────────────────────────────────────
+South African woman mid-20s to mid-30s, calm confident expression, slight knowing smile, natural window light, lens eye contact, soft Stone/Ink grade, plain muted background, head-and-shoulders left third framing for YouTube thumbnail, no beauty filter plastic, no shock mouth, educational mentor presence, 1280x720 composition
+
+────────────────────────────────────
+AI04 · OBJECT / METAPHOR STILL
+File: assets/AI04_ep004_object.jpg · 1280×720
+────────────────────────────────────
+Printed email draft with a few neat pen strike-throughs and one handwritten margin note (illegible), brass pen, Stone desk, shallow DOF, educational still, no logos
+
+GENERATION NOTES
+- Midjourney / Flux / Ideogram OK
+- Generate 4 variants each · pick calmest
+- Remove any accidental text in post
+- Grade toward Horizon before CapCut import
+- License: keep prompts + seed in episode log

@@ -1,0 +1,59 @@
+{
+  "presets": [
+    {
+      "id": "FH_YT_1080p",
+      "use": "Long-form YouTube master",
+      "resolution": "1920×1080",
+      "fps": 30,
+      "codec": "H.264",
+      "bitrate": "Recommended / High",
+      "audio": "AAC · 48kHz",
+      "format": "mp4",
+      "filename_pattern": "FH_{YYYYMMDD}_{Slug}_v{n}.mp4"
+    },
+    {
+      "id": "FH_Shorts_1080x1920",
+      "use": "YouTube Shorts",
+      "resolution": "1080×1920",
+      "fps": 30,
+      "codec": "H.264",
+      "captions": "Burned in",
+      "format": "mp4",
+      "filename_pattern": "FH_SHORT_{n}_{Slug}.mp4"
+    },
+    {
+      "id": "FH_REEL_01_03",
+      "use": "Instagram / Facebook Reels (best 3 of 5 Shorts)",
+      "resolution": "1080×1920",
+      "fps": 30,
+      "codec": "H.264",
+      "filename_pattern": "FH_REEL_{01|02|03}_{Slug}.mp4",
+      "note": "Same file OK for IG + FB — Meta Business Suite batch"
+    },
+    {
+      "id": "FH_MOT_Intro_Horizon_7s",
+      "use": "Intro compound export",
+      "resolution": "1920×1080",
+      "fps": 30,
+      "codec": "H.264",
+      "audio": "AAC",
+      "filename": "FH_MOT_Intro_Horizon_7s.mp4"
+    },
+    {
+      "id": "FH_MOT_Outro_30s",
+      "use": "Outro compound export",
+      "resolution": "1920×1080",
+      "fps": 30,
+      "codec": "H.264",
+      "filename": "FH_MOT_Outro_30s.mp4"
+    },
+    {
+      "id": "FH_THUMB_Still",
+      "use": "Thumbnail frame export",
+      "resolution": "1280×720",
+      "format": "PNG or JPG",
+      "filename_pattern": "FH_THUMB_{YYYYMMDD}_{Slug}.png"
+    }
+  ],
+  "capcut_howto": "Export → Custom → save each row as named preset FH_*"
+}

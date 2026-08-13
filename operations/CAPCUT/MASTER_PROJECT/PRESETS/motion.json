@@ -1,0 +1,56 @@
+{
+  "preset": "FH_Motion_Horizon",
+  "laws": {
+    "duration_ms": { "min": 240, "max": 400, "default": 300 },
+    "easing": "Ease In/Out or Ease Out",
+    "banned": ["Bounce", "Elastic", "Shake", "Spin logo", "Whoosh-synced whip pans", "Meme zoom"]
+  },
+  "presets": [
+    {
+      "id": "FH_MOT_Fade_150",
+      "type": "opacity",
+      "in_ms": 150,
+      "out_ms": 150,
+      "use": "Captions, soft text reveals"
+    },
+    {
+      "id": "FH_MOT_Fade_300",
+      "type": "opacity",
+      "in_ms": 300,
+      "out_ms": 300,
+      "use": "Lower thirds, graphics"
+    },
+    {
+      "id": "FH_MOT_SlideUp_12px",
+      "type": "position_y",
+      "from_px": 12,
+      "to_px": 0,
+      "duration_ms": 320,
+      "easing": "Ease Out",
+      "use": "Wordmark / framework titles"
+    },
+    {
+      "id": "FH_MOT_HorizonArc",
+      "type": "mask_reveal",
+      "duration_ms": 1200,
+      "easing": "Ease Out",
+      "use": "Intro arc only — locked in FH_TMPL_Intro_7s"
+    },
+    {
+      "id": "FH_MOT_SoftDip_Ink",
+      "type": "colour_overlay",
+      "colour": "#121A21",
+      "duration_ms": 320,
+      "use": "Enter outro / section breath"
+    },
+    {
+      "id": "FH_MOT_CardSlide_280",
+      "type": "position_x",
+      "distance_px": 24,
+      "duration_ms": 280,
+      "easing": "Ease Out",
+      "use": "Template C career cards"
+    }
+  ],
+  "capcut_keyframes": "Save keyframe favourites named FH_MOT_* — reuse, never redesign"
+}

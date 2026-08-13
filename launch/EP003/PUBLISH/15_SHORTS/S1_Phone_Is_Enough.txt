@@ -1,0 +1,40 @@
+SHORT S1 · Your phone is enough for AI
+Source: EP003 · 0:07–0:35 · ~30s · 9:16
+Publish: Day 0 +2h
+Role: Hook
+
+TITLE
+Your phone is enough for AI
+
+────────────────────────────────────
+0–3s · HOOK
+ON-SCREEN: Your phone is enough.
+VO: Your phone is enough.
+
+3–10s · REFRAME
+ON-SCREEN: Stop waiting for a laptop
+VO: Waiting for a laptop before you start AI is how later becomes never.
+
+10–22s · VALUE
+ON-SCREEN: System beats device envy
+VO: A finished phone task is progress. Device envy is expensive.
+
+22–30s · ACTION
+ON-SCREEN: Capture one task now
+VO: Open voice notes. Capture one real task in one sentence.
+
+SIGN-OFF
+ON-SCREEN / VO: One step today. A different future tomorrow.
+CTA CARD (2s): Full lesson on FutureHer
+────────────────────────────────────
+
+DESCRIPTION
+Your phone is enough for AI. One step today. A different future tomorrow.
+Full lesson on FutureHer.
+#FutureHer #AIForWomen
+
+CAPCUT
+Crop 9:16 · eyes upper third · burned captions · large type
+Subtle zoom on hook + action line
+Brand arc BR 12–18% · series pill: FutureHer · AI
+End CTA compound · palette only · premium transitions

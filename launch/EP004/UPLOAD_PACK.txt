@@ -1,0 +1,55 @@
+FUTUREHER · EP004 · YOUTUBE UPLOAD PACK
+Copy-paste ready. Fill links before publish.
+
+CHANNEL HANDLE: @FutureHerAfrica
+TEMPLATE: A Educational
+SERIES: FutureHer · AI
+SLUG: ep004-human-edit-loop
+
+PRIMARY TITLE
+How to use AI without sounding fake
+
+ALT TITLES
+1. Stop sending AI emails that sound robotic
+2. The Human Edit Loop for authentic AI writing
+3. Sound like yourself — even with ChatGPT
+
+THUMBNAIL TEXT (NOT the title)
+Sound like you
+Series pill: FutureHer · AI
+Support: Draft · Strip · Stamp
+File: launch/EP004/thumbnail.html → PUBLISH/08_THUMBNAIL.png
+
+DESCRIPTION
+(Use PUBLISH/09_DESCRIPTION.txt)
+
+TAGS
+use AI without sounding fake, ChatGPT email robotic, human edit AI, AI writing tips, authentic AI emails, FutureHer, AI for women, professional writing South Africa, Human Edit Loop
+
+CATEGORY: Education | Language: English | Captions: EN SRT
+Visibility: Public (or Unlisted 1h QC → Public)
+Comments: On | Made for kids: No | License: Standard YouTube
+
+PINNED COMMENT
+(Use PUBLISH/14_PINNED_COMMENT.txt)
+
+END SCREEN / CARDS
+Subscribe + next teaser + Forward Collective
+Cards: Subscribe @ 0:45 · Community @ 7:40
+
+CTA
+Follow Career Armor next — and join The Forward Collective
+
+DIGITAL PRODUCT
+Human Edit Loop Practice Pack
+If you write emails, reports, or CV lines with AI every week, the Human Edit Loop Practice Pack gives you reusable strip lists, stamp prompts, and before/after drills so your voice stays yours.
+
+FREE WORKSHEET
+Human Edit Loop card (HUMAN_EDIT_LOOP_worksheet.html)
+
+SHORTS TITLES
+S1: AI draft ≠ your voice
+S2: Three human edits that fix AI
+S3: The Human Edit Loop in 60s
+S4: Kill these AI buzzwords
+S5: Keep your story in the edit

@@ -1,0 +1,32 @@
+FUTUREHER · EP010 · PUBLISH PACK
+Title: Needs, wants, and the purchases that pressure you
+Slug: ep010-kind-no-money-boundaries
+Series: FutureHer · Money · T010 · THE KIND NO
+
+01  01_FINAL_SCRIPT.txt
+02  02_VOICEOVER_SCRIPT.txt
+03  03_STORYBOARD.txt
+04  04_AI_IMAGE_PROMPTS.txt
+05  05_BROLL_LIST.txt
+06  06_CAPCUT_PROJECT/
+      EDIT_BIBLE.txt
+      PROJECT.json
+      TEXT_OVERLAYS.txt
+07  07_SUBTITLES_EN.srt
+08  08_THUMBNAIL.png   ← export from ../thumbnail.html at 1280×720
+09  09_DESCRIPTION.txt
+10  10_CHAPTERS.txt
+11  11_SEO.txt
+12  12_HASHTAGS.txt
+13  13_COMMUNITY_POST.txt
+14  14_PINNED_COMMENT.txt
+15  15_SHORTS/
+      SHORTS_MASTER.txt
+      S1_Pressure_Not_Bill.txt
+      S2_Pause_Rule.txt
+      S3_Kind_No_60s.txt
+      S4_Status_Spending_Trap.txt
+      S5_Values_Spend.txt
+
+EXPORT TARGET
+FH_EP010_KindNo_v1.mp4

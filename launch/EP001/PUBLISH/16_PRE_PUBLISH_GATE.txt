@@ -1,0 +1,63 @@
+﻿UTUREHER · EP001 · PRE-PUBLISH QUALITY GATE
+Slug: ep001-ai-wont-replace-you-task-layer
+Source: operations/QC/PRE_PUBLISH_QUALITY_GATE.md
+Status: PACK READY · MEDIA / EXPORT PENDING HUMAN
+
+ACCURACY
+[x] Hard claims softened / no fake stats (fear→tasks reframe; no guaranteed outcomes)
+[x] Tool capabilities honest (any assistant; ignore circus)
+[ ] Final watch-through after CapCut export (human)
+
+CLARITY
+[x] One idea · one skill · one action obvious in script + description
+[x] Action under 30 minutes clear (Map 5 · Run 1)
+[x] No unexplained jargon
+
+SOUTH AFRICAN RELEVANCE
+[x] Johannesburg / Polokwane / WhatsApp workday context
+[x] Not US hustle copy-paste
+
+ACCESSIBILITY
+[x] EN SRT complete (07_SUBTITLES_EN.srt)
+[ ] Audio clear on phone speaker (after VO record)
+[x] Thumbnail readable at stamp size (08_THUMBNAIL.png 1280×720)
+
+PROFESSIONAL LANGUAGE
+[x] Calm mentor tone · SA English · no shame hooks
+
+ETHICAL RECOMMENDATIONS
+[x] Psychology supports (Fear is data) — not diagnosis
+[x] Affiliate disclosure line present
+[x] Product soft-sell (Workbook R197) · free worksheet first
+
+BRAND CONSISTENCY
+[x] Template A Educational · Horizon grade · Lagoon accent
+[x] Series pill FutureHerAfrica · AI
+[x] CTA = Forward Collective / subscribe
+
+COPYRIGHT
+[ ] CapCut/own media only confirmed at edit time
+[ ] Music bed from CapCut-safe library only
+
+PLATFORM POLICY
+[x] No medical/financial forbidden claims
+[x] Thumbnail matches content (tasks not you)
+[x] Disclosure present for affiliates/products
+
+PACK CHECKLIST
+[x] Script · VO text · storyboard · AI prompts · B-roll list
+[x] CapCut PROJECT.json · EDIT_BIBLE · TEXT_OVERLAYS
+[x] Description · chapters · SEO · hashtags · community · pinned
+[x] Five Shorts scripts · worksheet · action card PNG · thumbnail PNG
+[x] Digital product pack (The Task Layer Workbook)
+[ ] VO WAV recorded
+[ ] Footage + screen demo captured
+[ ] Master MP4 exported: FH_EP001_AI_TaskLayer_v1.mp4
+[ ] Unlisted QC watch → Public
+
+FINAL
+[ ] PASS — schedule/publish (human after export)
+[x] PACK PASS — all text/design assets complete; awaiting founder media + CapCut export
+
+FAIL NOTES
+None for pack. Blockers are founder VO, footage, CapCut master export only.

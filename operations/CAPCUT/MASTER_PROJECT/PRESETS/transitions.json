@@ -1,0 +1,50 @@
+{
+  "preset": "FH_Transitions_Horizon",
+  "laws": {
+    "duration_ms": { "min": 240, "max": 400, "default": 300 },
+    "allowed": ["Dissolve", "Fade", "Soft dip to Ink"],
+    "banned": ["Whip", "Glitch", "Zoom transition packs", "Film burn", "Spin", "Flash"]
+  },
+  "presets": [
+    {
+      "id": "FH_TR_Dissolve_300",
+      "type": "Dissolve",
+      "duration_ms": 300,
+      "use": "Default cut between A-roll / B-roll"
+    },
+    {
+      "id": "FH_TR_Dissolve_240",
+      "type": "Dissolve",
+      "duration_ms": 240,
+      "use": "Tight teaching cuts inside Skill"
+    },
+    {
+      "id": "FH_TR_FadeBlack_320",
+      "type": "Fade to colour",
+      "colour": "#121A21",
+      "duration_ms": 320,
+      "use": "Enter Outro · section breath before Action"
+    },
+    {
+      "id": "FH_TR_SoftDip_Stone",
+      "type": "Fade to colour",
+      "colour": "#F3EFE8",
+      "duration_ms": 280,
+      "use": "Rare light-field chapter open (Stories)"
+    },
+    {
+      "id": "FH_TR_Stories_Hold",
+      "type": "Dissolve",
+      "duration_ms": 400,
+      "use": "Template E only — slower narrative dissolves"
+    }
+  ],
+  "default_for_masters": {
+    "A_Educational": "FH_TR_Dissolve_300",
+    "B_Money": "FH_TR_Dissolve_300",
+    "C_Career": "FH_TR_Dissolve_300",
+    "D_Relationships": "FH_TR_Dissolve_300",
+    "E_Stories": "FH_TR_Stories_Hold"
+  },
+  "capcut_howto": "Effects → Transition → favourite Dissolves at 0.3s named FH_TR_*"
+}

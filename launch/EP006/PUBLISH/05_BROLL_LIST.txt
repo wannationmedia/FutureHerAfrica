@@ -1,0 +1,34 @@
+FUTUREHER · EP006 · B-ROLL LIST
+Priority: Own phone footage → screen record → CapCut stock (YT-safe) → AI still (max 3)
+Folder: launch/EP006/footage/broll/
+
+ID     | SEC | DURATION | SHOT                                              | SOURCE        | USED IN
+-------|-----|----------|---------------------------------------------------|---------------|----------------
+BR01   | 01  | 6–8s     | Phone keyboard typing a short prompt | Own phone     | Hook
+BR02   | 01  | 8–12s    | MCU host / A-roll punch line                      | A-roll        | Hook
+BR03   | 02  | 5–7s     | Split moment: vague prompt vs structured prompt on notes (blur) | Own phone     | Story
+BR04   | 02  | 6–8s     | Desk wide — soft SA daylight                      | Own phone     | Story
+BR05   | 02  | 5–6s     | Saving a note titled Forever Prompts | Own phone     | Story
+BR06   | 03  | 6–8s     | Calm focused work — no shock face                 | Own / stock   | Problem
+BR07   | 05  | 10–15s   | Hands typing / writing — warm daylight            | Own / stock   | Skill
+SR01   | 05  | 60–90s   | SCREEN: Bad prompt → RTCCE rewrite → meeting-notes-to-email demo in SA English | Screen record | Skill
+AC01   | 09  | still    | Action card PNG from action_card.html             | HTML export   | Action
+AI01   | 03  | still    | Problem still (optional)                          | AI prompt 01  | Problem
+AI02   | 04  | still    | Framework pathway diagram                         | AI prompt 02  | Skill title
+
+SCREEN RECORD BEAT SHEET (SR01)
+1. Show bad prompt: Help with work email
+2. Build RTCCE lines one by one
+3. Run meeting-notes → email prompt
+4. Human edit two lines
+5. Save winning prompt in Notes
+
+STOCK SEARCH TERMS (CapCut / YT-safe only)
+- woman laptop writing natural light
+- hands phone typing
+- notebook index cards desk
+- calm study desk african woman
+AVOID: neon hacker, crying at computer, glam influencer office, poverty tourism, shock faces
+
+MINIMUM SHOOT (20 min)
+1. BR01  2. BR03  3. BR04  4. SR01  5. A-roll hook + psychology

@@ -1,0 +1,26 @@
+{
+  "preset": "FH_Fonts_Horizon",
+  "install_before_capcut": true,
+  "sources": {
+    "Satoshi": "https://www.fontshare.com/fonts/satoshi",
+    "Newsreader": "https://fonts.google.com/specimen/Newsreader",
+    "IBM_Plex_Sans": "https://fonts.google.com/specimen/IBM+Plex+Sans"
+  },
+  "roles": {
+    "captions": { "family": "Satoshi", "weight": 500 },
+    "lower_thirds": { "family": "Satoshi", "weight": 500 },
+    "wordmark_fallback_text": { "family": "Satoshi", "weight": 600, "size_px": 72 },
+    "tagline": { "family": "Satoshi", "weight": 500, "size_px": 28, "colour": "#D8D2C8" },
+    "framework_title": { "family": "Satoshi", "weight": 600, "size_px": 48, "colour": "#FFFCF8" },
+    "action_steps": { "family": "Satoshi", "weight": 500, "size_px": 36 },
+    "display_hold_rare": { "family": "Newsreader", "weight": 500, "use": "Max 1 title card per episode if needed" },
+    "thumbnail_title": { "family": "Satoshi", "weight": 700, "words_max": 6 }
+  },
+  "capcut_text_defaults": {
+    "tracking": "-1% to 0%",
+    "line_height": "1.2–1.25",
+    "shadow": "None or soft Ink @ 15% max",
+    "stroke": "Off by default"
+  },
+  "banned": ["General Sans", "Montserrat", "Impact", "Comic Sans", "default CapCut meme fonts"]
+}

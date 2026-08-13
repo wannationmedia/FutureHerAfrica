@@ -1,0 +1,11 @@
+{
+  "generated": "2026-08-06T02:21:04.386Z",
+  "master": "FH_TMPL_Longform_8min",
+  "import_into_capcut": "c:\\Projects\\FutureHer\\operations\\CAPCUT\\MASTER_PROJECT\\IMPORT",
+  "steps": [
+    "Install Satoshi font",
+    "CapCut → New project 1920x1080 30fps → rename FH_TMPL_Longform_8min",
+    "Import this IMPORT folder",
+    "Follow ASSEMBLE_IN_CAPCUT.md"
+  ]
+}

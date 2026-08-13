@@ -1,0 +1,26 @@
+﻿UTUREHER · EP001 · LINKS
+Brand handle: @FutureHerAfrica
+Rule: Do NOT link to youtube.com/@FutureHer — that handle is a third-party channel (Candace McCoy).
+
+CHANNEL STATUS (manual before Public)
+@FutureHerAfrica currently returns 404 until the FutureHerAfrica channel is created.
+Create/claim @FutureHerAfrica in YouTube Studio, then these destinations go live:
+
+Channel:            https://www.youtube.com/@FutureHerAfrica
+Forward Collective: https://www.youtube.com/@FutureHerAfrica/community
+AI playlist:        https://www.youtube.com/@FutureHerAfrica/playlists
+Challenge home:     https://www.youtube.com/@FutureHerAfrica/community
+
+AFTER THIS EPISODE UPLOADS
+Paste the watch URL into community posts where needed:
+Watch URL: (paste YouTube Studio link after upload)
+
+OPTIONAL (not required to hit Public — per RUN_SHEET_24H)
+WhatsApp group / broadcast: not set
+Forward Notes email tool: not set — use Community tab interim
+Worksheet PDF host: not set — ship TASK_LAYER_worksheet.html / Collective request
+Workbook checkout: not set — soft-launch via Collective + Drive until Paystack/Yoco/PayFast live
+
+PRODUCT PATHS (local — verified)
+Free worksheet: launch/EP001/TASK_LAYER_worksheet.html
+Workbook pack:  launch/EP001/PRODUCT/

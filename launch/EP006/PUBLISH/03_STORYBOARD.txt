@@ -1,0 +1,52 @@
+FUTUREHER · EP006 · SCENE-BY-SCENE STORYBOARD
+Aspect: 16:9 master · 1920×1080 · 30fps · FH_Grade_Horizon
+
+SCENE 00 · INTRO · 0:00–0:07
+SHOT: Brand intro compound
+FRAME: Stone → Ink wash · brass horizon arc · FutureHer wordmark · pill “FutureHer · AI”
+NOTES: Duplicate FH_TMPL_Intro_7s — do not rebuild.
+
+SCENE 01 · HOOK · 0:07–0:37 [S1]
+ON-SCREEN: Stop asking for magic.
+B-ROLL: BR01 · BR02
+CAPTION STYLE: Satoshi Bold · Ivory on Ink bar · max 2 lines
+
+SCENE 02 · SA STORY · 0:37–2:07
+ON-SCREEN KEYWORDS: help with work · fluff answer · I must be bad · framework fixes it
+MOOD: Relatable, not anxious montage
+B-ROLL: BR03 · BR04 · BR05
+
+SCENE 03 · PROBLEM · 2:07–4:07 [S2]
+GRAPHICS: Vague in → fluff out · Role · Task · Context · Constraints · Example
+FORBIDDEN: Shock faces · red alert UI · glitch · neon
+B-ROLL: BR06 · AI01 optional
+
+SCENE 04 · SKILL TITLE · 4:07–4:20
+TEXT: RTCCE
+SUB: Role · Task · Context · Constraints · Example
+HOLD: 2.5–3.5s
+ASSET: AI02 framework diagram
+
+SCENE 05–07 · SKILL STEPS · 4:20–6:07
+DEMO: Bad prompt → RTCCE rewrite → meeting-notes-to-email demo in SA English
+ON-SCREEN: RTCCE · 01 Role · 02 Task · 03 Context · 04 Constraints · 05 Example
+B-ROLL: BR07 · SR01
+
+SCENE 08 · PSYCHOLOGY · 6:07–7:07 [S4]
+ON-SCREEN: Clarity reduces shame.
+PACE: Slower · fewer cuts · academy calm
+
+SCENE 09 · ACTION · 7:07–7:47 [S5]
+TEXT: Rewrite one prompt with RTCCE.
+HOLD: Card 3s
+ASSET: action_card.html → PNG
+
+SCENE 10 · COMMUNITY · 7:47–8:07
+Idea: Good prompts are clear instructions — not magic words
+Skill: RTCCE — Role · Task · Context · Constraints · Example
+Action: Rewrite one failed prompt with RTCCE and save the winner.
+CTA: Download the RTCCE card + join the AI challenge
+
+SCENE 11 · PREVIEW + END · 8:07–8:25
+TEXT: Next — fact-check AI before you send
+END: FutureHer — Ready for what's next.

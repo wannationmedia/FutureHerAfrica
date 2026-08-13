@@ -1,0 +1,21 @@
+FUTUREHER · EP007 · CAPCUT EDIT SHEET
+Template: A Educational | Grade: FH_Grade_Horizon | Aspect: 16:9 master
+
+COLOURS
+Ink #121A21 | Stone #F3EFE8 | Brass #B8893A | Lagoon #2F6F6A | Ivory #FFFCF8
+
+INTRO (6–8s)
+Horizon arc + FutureHer wordmark + series pill "FutureHer · AI"
+
+TIMELINE
+00:00–00:30  HOOK [S1] — Don't trust fluency.
+00:30–02:00  STORY — almost sent · invented statistic · boss email · caught in time
+02:00–04:00  PROBLEM [S2] — Fluency ≠ truth · Source · Number · Name · Confidence without gullibility
+04:00–06:00  SKILL [S3] — VERIFY · Source · Number · Name
+             Screen: AI paragraph with fake statistic → verify source/number/name → corrected send-ready note
+06:00–07:00  PSYCHOLOGY [S4] — Confidence can be borrowed.
+07:00–07:40  ACTION [S5] — Source. Number. Name — then send. (hold 3s)
+07:40–07:55  CTA — Subscribe to Forward Notes + join The Forward Collective
+07:55–08:05  PREVIEW — Next — Money series: when salary disappears
+
+Follow PUBLISH/06_CAPCUT_PROJECT/EDIT_BIBLE.txt and PROJECT.json.

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>FH_TMPL_Intro_7s Preview</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;600&display=swap');
+  :root{--ink:#121A21;--stone:#F3EFE8;--brass:#B8893A;--ivory:#FFFCF8;--mist:#D8D2C8;--night:#0B1014}
+  *{box-sizing:border-box;margin:0}
+  body{background:#0B1014;color:var(--mist);font-family:'IBM Plex Sans',sans-serif;display:grid;place-items:center;min-height:100vh;gap:24px;padding:32px}
+  .stage{width:960px;height:540px;background:var(--ink);position:relative;overflow:hidden;border-radius:4px}
+  .wash{position:absolute;inset:0;background:var(--stone);animation:wash 7s ease forwards}
+  .arc{position:absolute;left:50%;top:42%;width:220px;height:80px;transform:translate(-50%,-50%);stroke:var(--brass);fill:none}
+  .arc path{stroke-width:8;stroke-linecap:round;stroke-dasharray:320;stroke-dashoffset:320;animation:draw 7s ease forwards}
+  .dot{position:absolute;width:8px;height:8px;border-radius:50%;background:var(--brass);left:calc(50% + 100px);top:calc(42% - 28px);opacity:0;animation:dot 7s ease forwards}
+  .mark{position:absolute;left:50%;top:52%;transform:translate(-50%,12px);opacity:0;color:var(--ivory);font-size:48px;font-weight:600;letter-spacing:-0.48px;animation:mark 7s ease forwards}
+  .tag{position:absolute;left:50%;top:62%;transform:translateX(-50%);opacity:0;color:var(--mist);font-size:18px;font-weight:500;animation:tag 7s ease forwards}
+  @keyframes wash{0%{opacity:1}5.7%{opacity:1}8%{opacity:0}100%{opacity:0}}
+  @keyframes draw{0%,5.7%{stroke-dashoffset:320}22.8%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}
+  @keyframes dot{0%,22.8%{opacity:0}28%{opacity:1}100%{opacity:1}}
+  @keyframes mark{0%,34%{opacity:0;transform:translate(-50%,12px)}48%{opacity:1;transform:translate(-50%,0)}100%{opacity:1;transform:translate(-50%,0)}}
+  @keyframes tag{0%,60%{opacity:0}68%{opacity:1}100%{opacity:1}}
+  button{background:var(--brass);color:var(--ivory);border:0;padding:12px 24px;border-radius:8px;font:600 14px 'IBM Plex Sans',sans-serif;cursor:pointer}
+  .meta{font-size:13px;letter-spacing:.04em}
+</style>
+</head>
+<body>
+  <p class="meta">FH_TMPL_INTRO_7S · SCREEN RECORD → IMPORT TO CAPCUT</p>
+  <div class="stage" id="stage">
+    <div class="wash"></div>
+    <svg class="arc" viewBox="0 0 220 80"><path d="M10 55 Q110 -10 210 25"/></svg>
+    <div class="dot"></div>
+    <div class="mark">FutureHer</div>
+    <div class="tag">Ready for what’s next.</div>
+  </div>
+  <button onclick="location.reload()">Replay 7s</button>
+</body>
+</html>

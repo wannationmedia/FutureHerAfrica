@@ -1,0 +1,37 @@
+FUTUREHER · EP010 · AI IMAGE PROMPTS
+Max 3 stills in edit. Prefer own B-roll + screen record first.
+Palette: Ink #121A21 · Stone #F3EFE8 · Brass #B8893A · Lagoon #2F6F6A · Ivory #FFFCF8
+
+GLOBAL NEGATIVE (append to every prompt):
+neon, cyberpunk, purple pink gradient, chrome, influencer aesthetic, girlboss pink, glitter, crown, butterfly, Venus symbol, kente costume tourism, crowded collage, watermark text, readable fake UI text, cartoon mascot, drop shadow glow, busy sticker pack, shock face, open mouth panic, poverty stereotype, sexualized imagery, celebrity likeness
+
+────────────────────────────────────
+AI01 · PROBLEM BEAT STILL
+File: assets/AI01_ep010_scene.jpg · 1920×1080
+────────────────────────────────────
+Editorial still, South African woman holding phone with calm composed expression after a message, soft home light, dignified emotional intelligence, ink stone brass, no tears stereotype, no neon, 16:9
+
+────────────────────────────────────
+AI02 · FRAMEWORK DIAGRAM
+File: assets/AI02_ep010_diagram.png · 1920×1080
+────────────────────────────────────
+Flat editorial diagram three nodes PAUSE VALUES SCRIPT, Ink on Stone, Brass accent nodes, teaching framework, no characters, SVG-ready, 16:9
+
+────────────────────────────────────
+AI03 · THUMBNAIL FACE
+File: assets/AI03_ep010_thumb.jpg · 1280×720
+────────────────────────────────────
+South African woman mid-20s to mid-30s, calm confident expression, slight knowing smile, natural window light, lens eye contact, soft Stone/Ink grade, plain muted background, head-and-shoulders left third framing for YouTube thumbnail, no beauty filter plastic, no shock mouth, educational mentor presence, 1280x720 composition
+
+────────────────────────────────────
+AI04 · OBJECT / METAPHOR STILL
+File: assets/AI04_ep010_object.jpg · 1280×720
+────────────────────────────────────
+Phone face-down beside notebook with a short handwritten script (illegible), brass pen, Stone desk, shallow DOF, education still
+
+GENERATION NOTES
+- Midjourney / Flux / Ideogram OK
+- Generate 4 variants each · pick calmest
+- Remove any accidental text in post
+- Grade toward Horizon before CapCut import
+- License: keep prompts + seed in episode log

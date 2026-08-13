@@ -1,0 +1,29 @@
+FUTUREHER · 24-HOUR LAUNCH RUN SHEET
+Episode: EP004 — How to use AI without sounding fake
+
+HOUR 0–1 · SETUP
+[ ] CapCut + FH_TMPL_A_Educational
+[ ] Quiet room + mic/phone for VO
+
+HOUR 1–2 · RECORD VO
+[ ] Open launch/EP004/SCRIPT_VO.txt
+[ ] Export → launch/EP004/audio/EP004_VO_v1.wav
+
+HOUR 2–4 · VISUALS
+[ ] thumbnail.html → PUBLISH/08_THUMBNAIL.png (1280×720)
+[ ] Screen demo: AI email draft → strike buzzwords → stamp SA voice detail → final send-ready
+[ ] B-roll from 05_BROLL_LIST.txt
+[ ] action_card.html → PNG
+
+HOUR 4–7 · EDIT
+[ ] CapCut per CAPCUT_EDIT_SHEET + PUBLISH/06_CAPCUT_PROJECT
+[ ] Export FH_EP004_HumanEditLoop_v1.mp4
+
+HOUR 7–8 · QC
+[ ] Audio · captions · thumbnail · UPLOAD_PACK · no shock/neon/false promises
+
+HOUR 8–9 · UPLOAD
+[ ] UPLOAD_PACK fields · 07_SUBTITLES_EN.srt · pin comment · community post · schedule Shorts
+
+HOUR 9–24 · DISTRIBUTE
+[ ] WhatsApp · IG/FB S1 · LinkedIn · free worksheet Human Edit Loop card · soft Human Edit Loop Practice Pack

@@ -1,0 +1,335 @@
+1
+00:00:07,000 --> 00:00:10,700
+If you've ever pasted an AI email,
+
+2
+00:00:10,750 --> 00:00:14,450
+hit send,
+
+3
+00:00:14,500 --> 00:00:18,200
+and felt your stomach drop —
+
+4
+00:00:18,250 --> 00:00:21,950
+because it didn't sound like you —
+
+5
+00:00:22,000 --> 00:00:25,700
+you're not bad at AI.
+
+6
+00:00:25,750 --> 00:00:29,450
+You skipped the human step.
+
+7
+00:00:29,500 --> 00:00:33,200
+Today: one idea, one skill, one action.
+
+8
+00:00:33,250 --> 00:00:36,950
+Keep the draft. Recover your voice.
+
+9
+00:00:37,000 --> 00:00:41,687
+Picture this.
+
+10
+00:00:41,737 --> 00:00:46,424
+You asked AI for a "professional follow-up email.
+
+11
+00:00:46,474 --> 00:00:51,161
+"
+
+12
+00:00:51,211 --> 00:00:55,897
+It arrived polished, smiling, and strangely empty —
+
+13
+00:00:55,947 --> 00:01:00,634
+"I hope this email finds you well"
+
+14
+00:01:00,684 --> 00:01:05,371
+"leverage synergies"
+
+15
+00:01:05,421 --> 00:01:10,108
+"circle back at your earliest convenience.
+
+16
+00:01:10,158 --> 00:01:14,845
+"
+
+17
+00:01:14,895 --> 00:01:19,582
+You sent it anyway.
+
+18
+00:01:19,632 --> 00:01:24,318
+Your colleague replied: "This doesn't sound like you.
+
+19
+00:01:24,368 --> 00:01:29,055
+"
+
+20
+00:01:29,105 --> 00:01:33,792
+Or worse — nobody said anything, and you felt the cringe alone.
+
+21
+00:01:33,842 --> 00:01:38,529
+I've seen this with marketers, teachers writing parent notes,
+
+22
+00:01:38,579 --> 00:01:43,266
+admins writing client replies, graduates polishing CV bullets —
+
+23
+00:01:43,316 --> 00:01:48,003
+women who are warm in person and plastic on the page
+
+24
+00:01:48,053 --> 00:01:52,739
+the moment AI drafts for them.
+
+25
+00:01:52,789 --> 00:01:57,476
+Here's the truth:
+
+26
+00:01:57,526 --> 00:02:02,213
+AI can start the sentence.
+
+27
+00:02:02,263 --> 00:02:06,950
+Only you can sound like you.
+
+28
+00:02:07,000 --> 00:02:16,181
+The problem isn't that AI writes.
+
+29
+00:02:16,231 --> 00:02:25,412
+The problem is we treat the first draft as the final voice.
+
+30
+00:02:25,462 --> 00:02:34,642
+Fluency tricks us.
+
+31
+00:02:34,692 --> 00:02:43,873
+If it sounds smooth, we assume it's ready.
+
+32
+00:02:43,923 --> 00:02:53,104
+Smooth is not the same as true.
+
+33
+00:02:53,154 --> 00:03:02,335
+So let's separate three things:
+
+34
+00:03:02,385 --> 00:03:11,565
+One — Drafting is labour AI can share.
+
+35
+00:03:11,615 --> 00:03:20,796
+Two — Buzzwords are camouflage, not professionalism.
+
+36
+00:03:20,846 --> 00:03:30,027
+Three — Your specific details are the trust signal.
+
+37
+00:03:30,077 --> 00:03:39,258
+If your value is only "I can generate text,"
+
+38
+00:03:39,308 --> 00:03:48,488
+yes, that layer is crowded.
+
+39
+00:03:48,538 --> 00:03:57,719
+If your value includes judgment, relationship, and lived context —
+
+40
+00:03:57,769 --> 00:04:06,950
+your edit is the product.
+
+41
+00:04:07,000 --> 00:04:11,950
+Here's the skill.
+
+42
+00:04:12,000 --> 00:04:16,950
+Framework name: THE HUMAN EDIT LOOP
+
+43
+00:04:17,000 --> 00:04:21,950
+Step 1 — Draft.
+
+44
+00:04:22,000 --> 00:04:26,950
+Let AI give you a first version.
+
+45
+00:04:27,000 --> 00:04:31,950
+Ask for structure, not personality.
+
+46
+00:04:32,000 --> 00:04:36,950
+Example: "Draft a short email confirming Thursday 10:
+
+47
+00:04:37,000 --> 00:04:41,950
+00, warm professional South African English, no buzzwords.
+
+48
+00:04:42,000 --> 00:04:46,950
+"
+
+49
+00:04:47,000 --> 00:04:51,950
+Step 2 — Strip.
+
+50
+00:04:52,000 --> 00:04:56,950
+Delete empty phrases.
+
+51
+00:04:57,000 --> 00:05:01,950
+Kill: leverage, synergy, delve, tapestry, "I hope this finds
+
+52
+00:05:02,000 --> 00:05:06,950
+you well" if you never say that.
+
+53
+00:05:07,000 --> 00:05:11,950
+Cut anything you wouldn't say out loud to a colleague in
+
+54
+00:05:12,000 --> 00:05:16,950
+Braamfontein or Polokwane.
+
+55
+00:05:17,000 --> 00:05:21,950
+Step 3 — Stamp.
+
+56
+00:05:22,000 --> 00:05:26,950
+Add one true detail only you would know:
+
+57
+00:05:27,000 --> 00:05:31,950
+the project name, the child's class, the exact invoice number,
+
+58
+00:05:32,000 --> 00:05:36,950
+the joke you share, the real reason for the delay.
+
+59
+00:05:37,000 --> 00:05:41,950
+Then read it aloud.
+
+60
+00:05:42,000 --> 00:05:46,950
+If your mouth trips, your reader will too.
+
+61
+00:05:47,000 --> 00:05:51,950
+That is the Human Edit Loop.
+
+62
+00:05:52,000 --> 00:05:56,950
+Draft. Strip. Stamp.
+
+63
+00:05:57,000 --> 00:06:01,950
+You stop sounding like a template —
+
+64
+00:06:02,000 --> 00:06:06,950
+and you start sending work that carries your name honestly.
+
+65
+00:06:07,000 --> 00:06:15,521
+Quick psychology — not as a diagnosis, as a tool.
+
+66
+00:06:15,571 --> 00:06:24,093
+Embarrassment after a fake-sounding message is feedback.
+
+67
+00:06:24,143 --> 00:06:32,664
+Your nervous system noticed a mismatch between identity and output.
+
+68
+00:06:32,714 --> 00:06:41,236
+Don't spiral.
+
+69
+00:06:41,286 --> 00:06:49,807
+Edit.
+
+70
+00:06:49,857 --> 00:06:58,379
+Embarrassment is data.
+
+71
+00:06:58,429 --> 00:07:06,950
+Data asks for a stamp of truth — not a vow to never use AI again.
+
+72
+00:07:07,000 --> 00:07:12,664
+Your action today — under thirty minutes:
+
+73
+00:07:12,714 --> 00:07:18,379
+1. Generate one AI draft for a real email, WhatsApp, or CV line.
+
+74
+00:07:18,429 --> 00:07:24,093
+2. Strip every buzzword and empty opener.
+
+75
+00:07:24,143 --> 00:07:29,807
+3. Stamp one true detail, read it aloud, and save the final version.
+
+76
+00:07:29,857 --> 00:07:35,521
+When you're done, you will not have quit AI.
+
+77
+00:07:35,571 --> 00:07:41,236
+You will have practised FutureHer communication:
+
+78
+00:07:41,286 --> 00:07:46,950
+one idea, one skill, one action.
+
+79
+00:07:47,000 --> 00:07:51,950
+If this helped, subscribe to FutureHer —
+
+80
+00:07:52,000 --> 00:07:56,950
+next we go deeper into Career Armor skills.
+
+81
+00:07:57,000 --> 00:08:01,950
+Join The Forward Collective and practise one human edit a day
+
+82
+00:08:02,000 --> 00:08:06,950
+this week.
+
+83
+00:08:07,000 --> 00:08:15,950
+Next time: what AI can and cannot do at your job —
+
+84
+00:08:16,000 --> 00:08:24,950
+so you stop guessing what's safe.

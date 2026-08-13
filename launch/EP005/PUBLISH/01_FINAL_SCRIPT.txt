@@ -1,0 +1,181 @@
+FUTUREHER · EP005 · FINAL SCRIPT
+Title: What AI can and cannot do at your job
+Series: FutureHer · AI | Topic: T005 | Framework: THE WORK MAP
+Template: A Educational | Target: 8:00 | Grade: FH_Grade_Horizon
+Slug: ep005-ai-work-map-boundaries
+
+IDEA: Clarity beats permission anxiety — map what AI may touch
+SKILL: The Work Map — Automate · Assist · Avoid
+ACTION: Map eight duties. Run one Assist task today.
+CTA: Subscribe + this week's Work Map challenge
+PRODUCT: AI Boundaries at Work one-pager pack
+DOWNLOAD: Automate / Assist / Avoid map
+
+═══════════════════════════════════════
+COLD OPEN / INTRO (0:00–0:07)
+═══════════════════════════════════════
+VISUAL: FH_TMPL_Intro_7s + series pill FutureHer · AI
+VO: (none — bed only)
+
+═══════════════════════════════════════
+HOOK (0:07–0:37) [S1]
+═══════════════════════════════════════
+VISUAL: MCU A-roll or phone B-roll → face on punch
+ON-SCREEN: Assist ≠ replace.
+
+If your boss said "use AI more"
+and your body heard "don't mess this up" —
+you're not slow.
+
+You're missing a map.
+
+Today: one idea, one skill, one action.
+Clarity on what AI may touch — and what stays human.
+
+═══════════════════════════════════════
+EVERYDAY SA STORY (0:37–2:07)
+═══════════════════════════════════════
+VISUAL: Soft SA daylight · phone · desk · notebook
+CAPTIONS: manager said use AI · no rules · freeze · what's safe
+
+Picture this.
+In a Johannesburg office — or a school staffroom in Limpopo —
+someone in leadership drops a line in the group chat:
+"Let's start using AI to work smarter."
+
+No policy.
+No examples.
+No "never do this" list.
+
+Half the room freezes.
+Someone experiments wildly.
+Someone pretends they already know.
+
+I've watched excellent admins, teachers, supervisors, and analysts
+get stuck between looking progressive and staying safe.
+
+Here's the truth:
+permission anxiety is not laziness.
+It's what happens when expectations arrive without boundaries.
+
+═══════════════════════════════════════
+THE PROBLEM (2:07–4:07) [S2]
+═══════════════════════════════════════
+VISUAL: Calm B-roll · kinetic type · lower-thirds
+ON-SCREEN: Permission anxiety
+
+The problem isn't AI at work.
+The problem is vague instruction without a use map.
+
+Ambiguity feels like danger —
+so people either avoid AI completely
+or use it in the riskiest places because those tasks feel urgent.
+
+So let's separate three lanes:
+
+One — Automate: repeatable formatting, sorting, first-pass cleanup where rules are clear.
+Two — Assist: drafts, summaries, outlines you will verify and own.
+Three — Avoid: passwords, confidential data, invented facts, final decisions, anything your role is accountable for without review.
+
+AI can speed preparation.
+AI cannot carry your accountability.
+
+Your judgment stays.
+That's not old-fashioned.
+That's professional.
+
+═══════════════════════════════════════
+THE SKILL (4:07–6:07) [S3]
+═══════════════════════════════════════
+VISUAL: Title card THE WORK MAP · Pathway 01/02/03 · screen demo
+ON-SCREEN: Automate · Assist · Avoid
+DEMO: Eight duties list → AAA labels → one Assist email/summary demo
+
+Here's the skill.
+Framework name: THE WORK MAP
+
+Step 1 — Automate.
+List duties that are repetitive and low-risk:
+rename files to a pattern, clean a table layout, turn bullet notes into a first agenda.
+If a mistake is easy to spot and easy to fix, it may belong here.
+
+Step 2 — Assist.
+List duties where AI can draft and you must decide:
+emails, report outlines, lesson activity ideas, meeting summaries.
+Rule: AI starts · you verify · you send.
+
+Step 3 — Avoid.
+List duties AI must not touch unsupervised:
+passwords, payroll details, medical or learner private data, legal commitments, performance judgments, anything you'd be ashamed to say "the tool made up."
+
+Then pick one Assist duty and run it today —
+with a human check on facts before anyone else sees it.
+
+That is the Work Map.
+Automate. Assist. Avoid.
+You stop guessing what's allowed —
+and you practise boss-safe clarity.
+
+═══════════════════════════════════════
+PSYCHOLOGY (6:07–7:07) [S4]
+═══════════════════════════════════════
+VISUAL: Soft dissolve · minimal · A-roll
+ON-SCREEN: Ambiguity feels like danger.
+
+Quick psychology — not as a diagnosis, as a tool.
+
+Ambiguity activates threat systems.
+When rules are unclear, your brain overestimates punishment.
+
+A written map shrinks the threat.
+You replace "What if I get in trouble?"
+with "This duty is Assist — here's my check."
+
+Ambiguity feels like danger.
+Labels make action possible.
+
+═══════════════════════════════════════
+ONE ACTION TODAY (7:07–7:47) [S5]
+═══════════════════════════════════════
+VISUAL: Full-screen ACTION CARD (hold 3s)
+ON-SCREEN: Map 8 duties. Run 1 Assist.
+
+Your action today — under thirty minutes:
+
+1. Write eight duties you actually did this week.
+2. Label each Automate, Assist, or Avoid.
+3. Run one Assist task with AI — then verify names, numbers, and tone before you share.
+
+When you're done, you will not have a company policy.
+You will have a personal Work Map you can defend calmly.
+
+═══════════════════════════════════════
+COMMUNITY (7:47–8:07)
+═══════════════════════════════════════
+VISUAL: Outro slots Idea / Skill / Action / CTA
+
+If this helped, subscribe to FutureHer —
+and take this week's challenge: one Assist task a day, verified before send.
+
+Join The Forward Collective if you want peers practising the same map.
+
+═══════════════════════════════════════
+PREVIEW + OUTRO (8:07–8:25)
+═══════════════════════════════════════
+VISUAL: Preview line → logo settle → end screen tiles
+
+Next time: prompting basics that still work in five years —
+so your asks stop producing fluff.
+
+OUTRO LOCKED COPY
+Idea: Clarity beats permission anxiety — map what AI may touch
+Skill: The Work Map — Automate · Assist · Avoid
+Action: Map eight duties. Run one Assist task today.
+CTA: Subscribe + this week's Work Map challenge
+END: FutureHer — Ready for what's next.
+
+PRODUCT RECOMMENDATION
+If your workplace is vague about AI rules, the AI Boundaries at Work pack expands the Automate · Assist · Avoid map with conversation scripts for managers and a reusable duty checklist.
+
+PINNED QUESTION
+Which duty did you put in AVOID — and which ASSIST will you run today?

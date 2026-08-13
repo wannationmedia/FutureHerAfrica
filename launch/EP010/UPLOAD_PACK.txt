@@ -1,0 +1,55 @@
+FUTUREHER · EP010 · YOUTUBE UPLOAD PACK
+Copy-paste ready. Fill links before publish.
+
+CHANNEL HANDLE: @FutureHerAfrica
+TEMPLATE: B Money
+SERIES: FutureHer · Money
+SLUG: ep010-kind-no-money-boundaries
+
+PRIMARY TITLE
+Needs, wants, and the purchases that pressure you
+
+ALT TITLES
+1. How to say no to money pressure kindly
+2. Pressure is not a bill — use the Kind No
+3. Money boundary scripts that keep dignity
+
+THUMBNAIL TEXT (NOT the title)
+Pressure isn't a bill
+Series pill: FutureHer · Money
+Support: Pause · Values · Script
+File: launch/EP010/thumbnail.html → PUBLISH/08_THUMBNAIL.png
+
+DESCRIPTION
+(Use PUBLISH/09_DESCRIPTION.txt)
+
+TAGS
+how to say no to money requests, money boundaries family, pressure purchases, needs vs wants, Kind No scripts, FutureHer, money for women South Africa, financial boundaries
+
+CATEGORY: Education | Language: English | Captions: EN SRT
+Visibility: Public (or Unlisted 1h QC → Public)
+Comments: On | Made for kids: No | License: Standard YouTube
+
+PINNED COMMENT
+(Use PUBLISH/14_PINNED_COMMENT.txt)
+
+END SCREEN / CARDS
+Subscribe + next teaser + Forward Collective
+Cards: Subscribe @ 0:45 · Community @ 7:40
+
+CTA
+Join The Forward Collective — Money + Soft Power practice
+
+DIGITAL PRODUCT
+Money Boundary Scripts pack
+When family and friend money pressure is recurring, the Money Boundary Scripts pack gives you more Kind No language for different relationships — still warm, still clear, still South African in tone.
+
+FREE WORKSHEET
+Kind No money scripts worksheet (KIND_NO_SCRIPTS_worksheet.html)
+
+SHORTS TITLES
+S1: Pressure is not a bill
+S2: The 24-hour money pause
+S3: The Kind No in 60 seconds
+S4: The status spending trap
+S5: Spend on values — not pressure

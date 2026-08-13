@@ -1,0 +1,150 @@
+FUTUREHER · EP006 · VOICE-OVER SCRIPT
+Read calm. No hype. Pause where marked /
+Teleprompter mode · ~8:00 · Template A
+
+---
+
+[HOOK]
+
+If your prompts sound like
+"help me with work"
+and the answer comes back like a motivational poster —
+you're not bad at AI.
+
+You're asking for magic
+instead of giving instructions.
+
+Today: one idea, one skill, one action.
+A prompt structure that still works when the logos change.
+
+/
+
+---
+
+[STORY]
+
+Picture this.
+You finally open ChatGPT after work in Soweto, Polokwane, Durban — wherever home is —
+and you type: "Help me with my report."
+
+It gives you a generic essay.
+You think: "Maybe I'm not smart enough for this."
+
+A cousin sends a "secret prompt" with twenty roles and a pirate voice.
+You try it. Still fluff. Still shame.
+
+I've watched brilliant women conclude they lack a talent
+when what they lacked was a clear ask.
+
+Here's the truth:
+models follow instructions.
+Vague instructions produce vague help.
+
+/
+
+---
+
+[PROBLEM]
+
+The problem isn't that AI is useless.
+The problem is we treat prompting like wishing.
+
+Wishing sounds like: "make this better."
+Instructing sounds like: who you are for this task, what to produce, what context matters, what limits to respect, and what good looks like.
+
+So let's name the durable parts:
+
+Role — who should the model act as for this job.
+Task — the deliverable in one clean verb phrase.
+Context — the facts it must know.
+Constraints — length, tone, format, what to avoid.
+Example — a tiny sample of the shape you want.
+
+Tricks expire.
+Clear instructions compound.
+
+/
+
+---
+
+[SKILL]
+
+Here's the skill.
+Framework name: RTCCE
+
+Role — Task — Context — Constraints — Example.
+
+Watch a rewrite.
+
+Bad: "Help with work email."
+
+Better:
+Role: You are a concise workplace writing assistant for South African professionals.
+Task: Turn these notes into a follow-up email confirming next steps.
+Context: Project Alpha meeting today; next check-in Thursday 10:00; recipient is my manager Thandi.
+Constraints: Maximum 120 words; warm professional tone; no buzzwords; South African English.
+Example: Open with the decision made, then one clear ask.
+
+Run it.
+Edit the facts.
+Save the prompt that worked in a note titled Forever Prompts.
+
+That is RTCCE.
+You stop gambling on magic words —
+and you start writing instructions your future self can reuse.
+
+/
+
+---
+
+[PSYCHOLOGY]
+
+Quick psychology — not as a diagnosis, as a tool.
+
+Shame grows in unclear tasks.
+When the output is bad and the ask was vague,
+people blame identity: "I'm bad at this."
+
+Clarity relocates the problem to the instruction —
+which you can improve.
+
+Clarity reduces shame.
+Shame shrinks when the next prompt is specific.
+
+/
+
+---
+
+[ACTION]
+
+Your action today — under thirty minutes:
+
+1. Find one prompt that gave you fluff.
+2. Rewrite it with Role, Task, Context, Constraints, and Example.
+3. Run it once, human-edit the result, and save the winning prompt in Notes.
+
+When you're done, you will not need a new tool.
+You will own a FutureHer skill that outlasts the hype cycle.
+
+/
+
+---
+
+[COMMUNITY]
+
+Download the free RTCCE Prompt Card,
+join this week's AI challenge,
+and subscribe so we can keep building calm fluency together.
+
+The Forward Collective is practising one saved prompt a day.
+
+/
+
+---
+
+[PREVIEW]
+
+Next time: fact-check AI before it embarrasses you —
+because fluency is not proof.
+
+/

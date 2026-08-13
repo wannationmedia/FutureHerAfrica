@@ -1,0 +1,55 @@
+FUTUREHER · EP009 · YOUTUBE UPLOAD PACK
+Copy-paste ready. Fill links before publish.
+
+CHANNEL HANDLE: @FutureHerAfrica
+TEMPLATE: B Money
+SERIES: FutureHer · Money
+SLUG: ep009-micro-save-system
+
+PRIMARY TITLE
+How to start saving when it feels impossible
+
+ALT TITLES
+1. Save R20–R50 without a fantasy budget
+2. Micro-saving for real South African life
+3. Small and sacred savings that stick
+
+THUMBNAIL TEXT (NOT the title)
+Small and sacred
+Series pill: FutureHer · Money
+Support: Floor · Automate · Protect
+File: launch/EP009/thumbnail.html → PUBLISH/08_THUMBNAIL.png
+
+DESCRIPTION
+(Use PUBLISH/09_DESCRIPTION.txt)
+
+TAGS
+how to start saving with little money, micro saving South Africa, save R50, saving when money is tight, FutureHer, Money Clarity, Micro-Save, stokvel, women finance SA
+
+CATEGORY: Education | Language: English | Captions: EN SRT
+Visibility: Public (or Unlisted 1h QC → Public)
+Comments: On | Made for kids: No | License: Standard YouTube
+
+PINNED COMMENT
+(Use PUBLISH/14_PINNED_COMMENT.txt)
+
+END SCREEN / CARDS
+Subscribe + next teaser + Forward Collective
+Cards: Subscribe @ 0:45 · Community @ 7:40
+
+CTA
+Join the 30 Days of Saving challenge
+
+DIGITAL PRODUCT
+Micro-Save System card pack
+If you want a fuller entry money pack beyond the free rules sheet — the Micro-Save System card pack includes streak trackers, automation checklists, and stokvel-vs-solo decision prompts with dignity.
+
+FREE WORKSHEET
+Micro-Save rules worksheet (MICRO_SAVE_RULES_worksheet.html)
+
+SHORTS TITLES
+S1: Save with a floor — not a fantasy
+S2: Automate the tiny save
+S3: Micro-Save in 60 seconds
+S4: Stokvel vs solo saving — both valid
+S5: Protect savings from impulse

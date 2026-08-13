@@ -1,0 +1,58 @@
+﻿UTUREHER · EP001 · SHORTS CUT LIST
+Source: EP001 long-form | Aspect: 9:16 | Captions burned in
+Engine: operations/SHORTS/SHORTS_ENGINE.md
+Sign-off (locked): One step today. A different future tomorrow.
+
+RULES
+Rewrite to formula — do not ship raw long-form paste.
+HOOK ≤ 3s. One idea. One today-action. Brand arc bottom-right 12–18%. Series pill top.
+End every Short: official sign-off → Full lesson on FutureHerAfrica.
+
+────────────────────────────────────
+S1 · HOOK · 0:07–0:35 · ~29s
+Title: You're not dramatic for fearing AI
+Hook on screen: You're not dramatic.
+Action: Write one work task that scared you this week.
+End: One step today. A different future tomorrow.
+CTA: Full lesson on FutureHerAfrica
+
+────────────────────────────────────
+S2 · PROBLEM · 2:07–2:52 · ~29s
+Title: Fear isn't a forecast
+Hook on screen: It's not AI freezing you.
+Beat: fear → avoidance → skill gap → real risk
+Action: “At work, my real value is ___.”
+End: One step today. A different future tomorrow.
+
+────────────────────────────────────
+S3 · SKILL · 4:07–5:12 · ~30s
+Title: You don't need to master AI this week
+Hook on screen: You don't need to master AI.
+Value: Map · Label · Run one (Task Layer)
+Action: Write three tasks. Label just one.
+End: One step today. A different future tomorrow.
+
+────────────────────────────────────
+S4 · PSYCHOLOGY · 6:07–6:55 · ~29s
+Title: Vague fear keeps you stuck
+Hook on screen: Vague fear keeps you scrolling.
+Value: Fear is data. Specific action shrinks threat.
+Action: Draft one task with AI. Edit two lines. Stop.
+End: One step today. A different future tomorrow.
+
+────────────────────────────────────
+S5 · ACTION · 7:07–7:42 · ~30s
+Title: Map 5 tasks. Run 1 with AI.
+Hook on screen: You don't need a whole AI plan.
+Value: Five tasks · label · draft one · edit in your voice
+Action: Start the five-task list before closing the app.
+End: One step today. A different future tomorrow.
+Pin comment CTA: Join The Forward Collective
+
+PUBLISH ORDER (same day as long-form + cascade)
+Day 0: Long-form live
+Day 0 +2h: S1
+Day 0 +6h: S3
+Day 1: S5
+Day 1 evening: S2
+Day 2: S4

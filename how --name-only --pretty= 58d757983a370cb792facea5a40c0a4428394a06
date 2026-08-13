@@ -1,0 +1,184 @@
+[33mcommit 58d757983a370cb792facea5a40c0a4428394a06[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Tshifhiwa Thizwilondi Masutha <wannationmedia@gmail.com>
+Date:   Sun Aug 9 16:43:03 2026 +0200
+
+    feat(FutureHerAfrica): add EP001 isiZulu voiceover script
+    
+    Co-authored-by: Cursor <cursoragent@cursor.com>
+
+[1mdiff --git a/launch/EP001/SCRIPT_VO_ZU.txt b/launch/EP001/SCRIPT_VO_ZU.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..bdfe207[m
+[1m--- /dev/null[m
+[1m+++ b/launch/EP001/SCRIPT_VO_ZU.txt[m
+[36m@@ -0,0 +1,207 @@[m
+[32m+[m[32mFutureHerAfrica EP001 — isiZulu Voiceover Script[m
+[32m+[m[32mStatus: TRANSLATION DRAFT — NATIVE-LANGUAGE REVIEW REQUIRED[m
+[32m+[m[32mSource: launch/EP001/SCRIPT_VO.txt[m
+[32m+[m[32mTarget voice: Azure zu-ZA-ThandoNeural[m
+[32m+[m[32mGender: Female[m
+[32m+[m[32mLocale: zu-ZA[m
+[32m+[m[32mSeries: FutureHerAfrica · AI[m
+[32m+[m[32mTopic: T001 — I'm scared AI will replace my job[m
+[32m+[m[32mFramework: The Task Layer[m
+[32m+[m[32mTarget: ~8:00 | CapCut Template A[m
+[32m+[m[32mRead calm. No hype. Pause where marked /[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m[0:00 HOOK — ~30s] [S1][m
+[32m+[m
+[32m+[m[32mUma ubusuke uskidla izihloko ze-AI bese uzwa isisu sakho siyehla —[m
+[32m+[m[32mawudlalisi.[m
+[32m+[m[32mUfunda indawo.[m
+[32m+[m
+[32m+[m[32mUkwesaba akusiyo into ethi "ngisalele ngemuva."[m
+[32m+[m[32mUkwesaba kuthi: "Ingabe kusazoba nendawo yami?"[m
+[32m+[m
+[32m+[m[32mNamuhla ngizokunikeza umbono owodwa, ikhono elilodwa, kanye nesenzo esisodwa ongasiqeda ngaphambi kwesidlo sasemini.[m
+[32m+[m[32mAkusona isikhuthazo. Ukulungela.[m
+[32m+[m
+[32m+[m[32m/[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m[0:30 EVERYDAY SA STORY — ~90s][m
+[32m+[m
+[32m+[m[32mAke ucabange lokhu.[m
+[32m+[m[32mUsesema ofisini avulekile eGoli — noma usebenza egumbini lakho ePolokwane — bese othile efaka icebo le-ChatGPT eqenjini le-WhatsApp njengokuthi akulutho.[m
+[32m+[m
+[32m+[m[32mIngxenye yeqembu ithula.[m
+[32m+[m[32mOthile uhlekisa.[m
+[32m+[m[32mOmunye uthi "sonke sizothathelwa indawo ngokhisimusi."[m
+[32m+[m
+[32m+[m[32mUhleka nawo.[m
+[32m+[m[32mKodwa ngalobo busuku uhlole izikhala zomsebenzi ongazidingi —[m
+[32m+[m[32mukuze nje uzizwe uphephile.[m
+[32m+[m
+[32m+[m[32mLokhu ngikubonile kothisha, ezikhulu zokuphatha, abadayisi, abasebenzi bamabhange, abazimele —[m
+[32m+[m[32mabesifazane abaqhakambile emisebenzini yabo —[m
+[32m+[m[32mkodwa besazizwa sengathi umhlabathi uyanyakaza ngaphansi kwabo.[m
+[32m+[m
+[32m+[m[32mNali iqiniso okungathiwa ngobukhulu:[m
+[32m+[m[32mabantu abethuka kakhulu ngokuvamile basabela ezinhlokweni zezindaba,[m
+[32m+[m[32mhhayi emsebenzini wabo wangempela wosuku.[m
+[32m+[m
+[32m+[m[32mUsuku lwakho lomsebenzi lukhiqizwa imisebenzi emincane.[m
+[32m+[m[32mAkusiyo into eyodwa yokuthi ungubani i-AI engayisusa ngobusuku obubodwa.[m
+[32m+[m
+[32m+[m[32m/[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m[2:00 THE PROBLEM — ~120s] [S2][m
+[32m+[m
+[32m+[m[32mON-SCREEN: Fear ≠ forecast[m
+[32m+[m
+[32m+[m[32mInkinga akusiyo ukuthi i-AI ikhona.[m
+[32m+[m[32mInkinga ukuthi siphatha i-AI njengombiko wesimo sezulu ngemisebenzi yethu —[m
+[32m+[m[32mbese siqina esikhundleni sokwenza.[m
+[32m+[m
+[32m+[m[32mUkwesaba ngaphandle kohlelo kuba ukugwema.[m
+[32m+[m[32mUkugwema kuba igebe lamakhono.[m
+[32m+[m[32mIgebe lamakhono liba ingozi yangempela.[m
+[32m+[m
+[32m+[m[32mNgakho ake sihlukanise izinto ezintathu ezivame ukuxutshwa:[m
+[32m+[m
+[32m+[m[32mEyokuqala — Izihloko zezindaba zidayisa ukwesaba.[m
+[32m+[m[32mEyesibili — Umsebenzi wakho yiqoqo lemisebenzi.[m
+[32m+[m[32mEyesithathu — Eminye yaleyo misebenzi ingasizwa. Eminye ayikwazi.[m
+[32m+[m
+[32m+[m[32mI-AI inobuchwepheshe ekubhaleni okusalungiswa, ekufingqeni, ekuhleleni, ekucwaningeni, nasekubhaleni kabusha.[m
+[32m+[m[32mI-AI imbi kakhulu ekuthwaleni imiphumela, ekufundeni indawo, ekugcineni ithemba, ekwenzeni izinqumo ngaphansi kwengcindezi, nasekuthwaleni isibopho uma into yephuka.[m
+[32m+[m
+[32m+[m[32mUma inani lakho lingukuthi "ngingabhala lokho othile angitshele ukuthi ngikulobe" —[m
+[32m+[m[32myebo, lelo zinga lingaphansi kwengcindezi.[m
+[32m+[m
+[32m+[m[32mUma inani lakho lihlanganisa ukwahlulela, ubudlelwano, umongo, kanye nokuziphendulela —[m
+[32m+[m[32mawusapheli.[m
+[32m+[m[32mUyamenywa ukuthi uthuthukise ingxenye yomsebenzi eyiseyingakwazi ukuthwalwa yimishini.[m
+[32m+[m
+[32m+[m[32mON-SCREEN: Tasks under pressure ≠ you under pressure[m
+[32m+[m
+[32m+[m[32m/[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m[4:00 THE SKILL — ~120s] [S3][m
+[32m+[m
+[32m+[m[32mFramework name: THE TASK LAYER[m
+[32m+[m
+[32m+[m[32mNali ikhono.[m
+[32m+[m
+[32m+[m[32mIsinyathelo 1 — Dweba imephu.[m
+[32m+[m[32mBhala phansi imisebenzi emihlanu oyenzile emsebenzini kuleli sonto.[m
+[32m+[m[32mHhayi isikhundla sakho. Imisebenzi.[m
+[32m+[m[32m"Ngisaphendule ama-imeyili amakhasimende."[m
+[32m+[m[32m"Ngakha ispreadsheet."[m
+[32m+[m[32m"Ngahola umhlangano."[m
+[32m+[m[32m"Ngalungisa isikhalazo."[m
+[32m+[m[32m"Ngalungiselela umbiko."[m
+[32m+[m
+[32m+[m[32mIsinyathelo 2 — Faka ilebula.[m
+[32m+[m[32mEceleni komsebenzi ngamunye, bhala igama elilodwa:[m
+[32m+[m[32mASSIST — i-AI ingasheshisa lokhu[m
+[32m+[m[32mOWN — lokhu kudinga ukwahlulela kwami[m
+[32m+[m[32mnoma HYBRID — hlaka nge-AI, bese ngiyazinquma mina.[m
+[32m+[m
+[32m+[m[32mAbesifazane abaningi bathola okuthile okuzolisa lapha:[m
+[32m+[m[32mingxenye enkulu yokwesaba kwabo inamathele emisebenzini ye-ASSIST —[m
+[32m+[m[32mkanti inani labo langempela lihlezi ku-OWN naku-HYBRID.[m
+[32m+[m
+[32m+[m[32mIsinyathelo 3 — Sebenzisa eyodwa.[m
+[32m+[m[32mKhetha umsebenzi owodwa we-ASSIST noma we-HYBRID.[m
+[32m+[m[32mVula ucingo lwakho noma ilaptop.[m
+[32m+[m[32mCela i-AI ukuba ihlake inguqulo yokuqala —[m
+[32m+[m[32mbese wena uhlela ngeqiniso, ngezwi, nangomongo.[m
+[32m+[m
+[32m+[m[32mLokho yi-Task Layer.[m
+[32m+[m[32mUyeka ukuphikisana nekusasa okungacacile —[m
+[32m+[m[32mbese uqala ukuzijwayeza umsebenzi onawo ngempela.[m
+[32m+[m
+[32m+[m[32mDEMO NOTES:[m
+[32m+[m[32mShow phone screen: list of 5 tasks → labels → one prompt for an email draft → human edit.[m
+[32m+[m
+[32m+[m[32mON-SCREEN: Map · Label · Run one[m
+[32m+[m
+[32m+[m[32m/[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m[6:00 PSYCHOLOGY — ~60s] [S4][m
+[32m+[m
+[32m+[m[32mIpsychology esheshayo — hhayi njengokuxilonga, kodwa njengethuluzi.[m
+[32m+[m
+[32m+[m[32mUbuchopho bakho buphatha usongo olungacacile njengosongo oluhlala njalo.[m
+[32m+[m[32m"I-AI izothatha imisebenzi" akucaci.[m
+[32m+[m[32mUkwesaba okungacacile kukugcina uskidla futhi unamathele.[m
+[32m+[m
+[32m+[m[32mIsenzo esicacile sinciphisa usongo.[m
+[32m+[m[32mUma uqeda umsebenzi owodwa osizwe yi-AI,[m
+[32m+[m[32muhlelo lwakho lwezinzwa luthola ubufakazi:[m
+[32m+[m[32m"Ngiyakwazi ukusebenza nalokhu."[m
+[32m+[m
+[32m+[m[32mLobo bufakazi bunamandla kunelinye ividiyo yesikhuthazo.[m
+[32m+[m[32mUkwesaba kuwudatha.[m
+[32m+[m[32mIdatha icela isinyathelo esilandelayo — hhayi ukujikeleza.[m
+[32m+[m
+[32m+[m[32m/[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m[7:00 ONE ACTION TODAY — ~40s] [S5][m
+[32m+[m
+[32m+[m[32mON-SCREEN ACTION CARD:[m
+[32m+[m[32mToday: Map 5 tasks. Run 1 with AI.[m
+[32m+[m
+[32m+[m[32mIsenzo sakho namuhla — ngaphansi kwemizuzu engamashumi amathathu:[m
+[32m+[m
+[32m+[m[32m1. Bhala imisebenzi emihlanu yomsebenzi yaleli sonto.[m
+[32m+[m[32m2. Faka ilebula ngayinye: Assist, Own, noma Hybrid.[m
+[32m+[m[32m3. Thatha umsebenzi owodwa we-Assist noma we-Hybrid uqede okusalungiswa kokuqala nge-AI — bese ukuhlela ngezwi lakho.[m
+[32m+[m
+[32m+[m[32mUma usuqedile, ngeke ube "uxazulule i-AI."[m
+[

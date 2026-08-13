@@ -1,0 +1,44 @@
+FUTUREHERAFRICA · EP001 · AI IMAGE PROMPTS
+Max 3 stills in edit. Prefer own B-roll + screen record first.
+Palette: Ink #121A21 · Stone #F3EFE8 · Brass #B8893A · Lagoon #2F6F6A · Ivory #FFFCF8
+
+GLOBAL NEGATIVE (append to every prompt):
+neon, cyberpunk, purple pink gradient, chrome, influencer aesthetic, girlboss pink, glitter, crown, butterfly, Venus symbol, kente costume tourism, crowded collage, watermark text, readable fake UI text, cartoon mascot, drop shadow glow, busy sticker pack, shock face, open mouth panic, poverty stereotype, sexualized imagery, celebrity likeness
+
+────────────────────────────────────
+AI01 · PROBLEM BEAT STILL (optional insert ~2:30)
+File: launch/EP001/assets/AI01_calm_laptop.jpg · 1920×1080
+────────────────────────────────────
+Editorial still, calm premium educational media aesthetic, South African contemporary home office, young Black woman mid-20s to mid-30s at laptop in soft morning window light, focused not anxious, shallow depth of field, colour grade ink #121A21 stone #F3EFE8 brass #B8893A muted lagoon accent in mug or blouse, no text, no watermark, no neon, one clear subject, FutureHerAfrica Horizon academy mood, 16:9
+
+────────────────────────────────────
+AI02 · TASK LAYER FRAMEWORK DIAGRAM
+File: launch/EP001/assets/AI02_task_layer_diagram.png · 1920×1080 transparent-friendly
+────────────────────────────────────
+Flat editorial diagram three connected nodes in a calm horizontal pathway, empty label spaces for MAP LABEL RUN, Ink #121A21 strokes on Stone #F3EFE8 field, Lagoon #2F6F6A accent nodes, round line caps, tiny brass #B8893A horizon arc micro top centre, teaching framework style, no characters, no 3D, no icons of robots, FutureHerAfrica icon language, SVG-ready clarity, 16:9
+
+────────────────────────────────────
+AI03 · THUMBNAIL FACE (left panel alternative)
+File: launch/EP001/assets/AI03_thumb_face.jpg · 1280×720 safe crop
+────────────────────────────────────
+CANONICAL HOST ONLY — match launch/EP001/FH_EP001_Thumbnail.png and brand/FUTUREHERAFRICA_AI_HOST_BIBLE.md. Same FutureHerAfrica host: natural African woman late-20s to mid-30s, soft oval face, dark brown almond eyes, warm medium-dark brown skin with real texture, natural black textured hair in neat high puff/bun, small gold hoop earrings optional, cream/off-white blouse, calm confident closed-lip smile, natural window light, lens eye contact, soft Stone/Ink grade, plain muted background, head-and-shoulders left third framing for YouTube thumbnail, no beauty filter plastic, no shock mouth, educational mentor presence, do not invent a new face, 1280x720 composition
+
+────────────────────────────────────
+AI04 · DESK OBJECT STILL (thumb / social backup)
+File: launch/EP001/assets/AI04_desk_metaphor.jpg · 1280×720
+────────────────────────────────────
+Single clean desk teaching metaphor: open notebook with five short handwritten task lines (illegible soft blur), brass pen, phone face-down, South African home office daylight, Stone field #F3EFE8, Brass accent detail, shallow DOF, one subject cluster only, no collage, no neon, editorial product still for education brand
+
+────────────────────────────────────
+AI05 · WHATSAPP MOMENT STILL (story beat, if no phone B-roll)
+File: launch/EP001/assets/AI05_whatsapp_moment.jpg · 1920×1080
+────────────────────────────────────
+Over-shoulder phone in hand at sunlit desk, messaging app interface fully blurred and unreadable, calm South African interior, no logos readable, no contact names, soft documentary light, Stone and Ink palette, quiet tension without drama, educational B-roll still, 16:9
+
+────────────────────────────────────
+GENERATION NOTES
+- Midjourney / Flux / Ideogram OK
+- Generate 4 variants each · pick calmest
+- Remove any accidental text in post
+- Grade toward Horizon before CapCut import
+- License: keep prompts + seed in episode log

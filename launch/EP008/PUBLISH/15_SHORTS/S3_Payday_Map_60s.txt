@@ -1,0 +1,40 @@
+SHORT S3 · The Payday Map in 60 seconds
+Source: EP008 · 4:07–5:12 · ~30s · 9:16
+Publish: Day 0 +6h
+Role: Skill
+
+TITLE
+The Payday Map in 60 seconds
+
+────────────────────────────────────
+0–3s · HOOK
+ON-SCREEN: Map payday.
+VO: Map payday.
+
+3–10s · REFRAME
+ON-SCREEN: Three lists
+VO: Fixed. Flexible. Forward.
+
+10–22s · VALUE
+ON-SCREEN: Every rand a job
+VO: Unassigned money gets spent by the loudest notification.
+
+22–30s · ACTION
+ON-SCREEN: Build the three lists
+VO: Open Notes and start Fixed first.
+
+SIGN-OFF
+ON-SCREEN / VO: One step today. A different future tomorrow.
+CTA CARD (2s): Full lesson on FutureHer
+────────────────────────────────────
+
+DESCRIPTION
+The Payday Map in 60 seconds. One step today. A different future tomorrow.
+Full lesson on FutureHer.
+#FutureHer #MoneyClarity
+
+CAPCUT
+Crop 9:16 · eyes upper third · burned captions · large type
+Subtle zoom on hook + action line
+Brand arc BR 12–18% · series pill: FutureHer · Money
+End CTA compound · palette only · premium transitions

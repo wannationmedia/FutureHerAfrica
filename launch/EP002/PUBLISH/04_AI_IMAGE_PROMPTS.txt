@@ -1,0 +1,37 @@
+FUTUREHER · EP002 · AI IMAGE PROMPTS
+Max 3 stills in edit. Prefer own B-roll + screen record first.
+Palette: Ink #121A21 · Stone #F3EFE8 · Brass #B8893A · Lagoon #2F6F6A · Ivory #FFFCF8
+
+GLOBAL NEGATIVE (append to every prompt):
+neon, cyberpunk, purple pink gradient, chrome, influencer aesthetic, girlboss pink, glitter, crown, butterfly, Venus symbol, kente costume tourism, crowded collage, watermark text, readable fake UI text, cartoon mascot, drop shadow glow, busy sticker pack, shock face, open mouth panic, poverty stereotype, sexualized imagery, celebrity likeness
+
+────────────────────────────────────
+AI01 · PROBLEM BEAT STILL
+File: assets/AI01_ep002_scene.jpg · 1920×1080
+────────────────────────────────────
+Editorial still, calm premium educational media aesthetic, South African contemporary desk, young Black woman mid-20s to mid-30s looking at phone with many blurred app icons, soft morning window light, focused not anxious, shallow depth of field, colour grade ink #121A21 stone #F3EFE8 brass #B8893A muted lagoon accent, no text, no watermark, no neon, one clear subject, Horizon academy mood, 16:9
+
+────────────────────────────────────
+AI02 · FRAMEWORK DIAGRAM
+File: assets/AI02_ep002_diagram.png · 1920×1080
+────────────────────────────────────
+Flat editorial diagram three connected nodes in a calm horizontal pathway, empty label spaces for NEED SAFETY STICK, Ink #121A21 strokes on Stone #F3EFE8 field, Lagoon #2F6F6A accent nodes, round line caps, tiny brass #B8893A horizon arc micro top centre, teaching framework style, no characters, no 3D, no robot icons, FutureHer icon language, SVG-ready clarity, 16:9
+
+────────────────────────────────────
+AI03 · THUMBNAIL FACE
+File: assets/AI03_ep002_thumb.jpg · 1280×720
+────────────────────────────────────
+South African woman mid-20s to mid-30s, calm confident expression, slight knowing smile, natural window light, lens eye contact, soft Stone/Ink grade, plain muted background, head-and-shoulders left third framing for YouTube thumbnail, no beauty filter plastic, no shock mouth, educational mentor presence, 1280x720 composition
+
+────────────────────────────────────
+AI04 · OBJECT / METAPHOR STILL
+File: assets/AI04_ep002_object.jpg · 1280×720
+────────────────────────────────────
+Single clean desk teaching metaphor: phone face-up with blurred home screen, small notebook with three short handwritten rule lines (illegible soft blur), brass pen, South African home office daylight, Stone field #F3EFE8, Brass accent detail, shallow DOF, one subject cluster only, no collage, no neon, editorial still for education brand
+
+GENERATION NOTES
+- Midjourney / Flux / Ideogram OK
+- Generate 4 variants each · pick calmest
+- Remove any accidental text in post
+- Grade toward Horizon before CapCut import
+- License: keep prompts + seed in episode log

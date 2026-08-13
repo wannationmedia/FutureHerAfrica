@@ -1,0 +1,32 @@
+FUTUREHER · EP005 · PUBLISH PACK
+Title: What AI can and cannot do at your job
+Slug: ep005-ai-work-map-boundaries
+Series: FutureHer · AI · T005 · THE WORK MAP
+
+01  01_FINAL_SCRIPT.txt
+02  02_VOICEOVER_SCRIPT.txt
+03  03_STORYBOARD.txt
+04  04_AI_IMAGE_PROMPTS.txt
+05  05_BROLL_LIST.txt
+06  06_CAPCUT_PROJECT/
+      EDIT_BIBLE.txt
+      PROJECT.json
+      TEXT_OVERLAYS.txt
+07  07_SUBTITLES_EN.srt
+08  08_THUMBNAIL.png   ← export from ../thumbnail.html at 1280×720
+09  09_DESCRIPTION.txt
+10  10_CHAPTERS.txt
+11  11_SEO.txt
+12  12_HASHTAGS.txt
+13  13_COMMUNITY_POST.txt
+14  14_PINNED_COMMENT.txt
+15  15_SHORTS/
+      SHORTS_MASTER.txt
+      S1_Assist_Not_Replace.txt
+      S2_Never_Invent_Facts.txt
+      S3_Work_Map_60s.txt
+      S4_Privacy_Line.txt
+      S5_Judgment_Stays.txt
+
+EXPORT TARGET
+FH_EP005_AI_WorkMap_v1.mp4

@@ -1,0 +1,375 @@
+1
+00:00:07,000 --> 00:00:11,950
+If your downloads folder looks like an AI app store —
+
+2
+00:00:12,000 --> 00:00:16,950
+and you still feel behind —
+
+3
+00:00:17,000 --> 00:00:21,950
+you're not failing at the future.
+
+4
+00:00:22,000 --> 00:00:26,950
+You're collecting tools instead of choosing one.
+
+5
+00:00:27,000 --> 00:00:31,950
+Today: one idea, one skill, one action.
+
+6
+00:00:32,000 --> 00:00:36,950
+Not motivation. A trust decision you can live with.
+
+7
+00:00:37,000 --> 00:00:41,950
+Picture this.
+
+8
+00:00:42,000 --> 00:00:46,950
+It's a Tuesday afternoon in Johannesburg — or a quiet evening
+
+9
+00:00:47,000 --> 00:00:51,950
+in Polokwane —
+
+10
+00:00:52,000 --> 00:00:56,950
+and your WhatsApp group drops eight AI tools in forty minutes.
+
+11
+00:00:57,000 --> 00:01:01,950
+Someone says "this one writes emails.
+
+12
+00:01:02,000 --> 00:01:06,950
+"
+
+13
+00:01:07,000 --> 00:01:11,950
+Someone else says "this one makes videos.
+
+14
+00:01:12,000 --> 00:01:16,950
+"
+
+15
+00:01:17,000 --> 00:01:21,950
+Someone sends a screenshot with fifty tabs open.
+
+16
+00:01:22,000 --> 00:01:26,950
+You install three.
+
+17
+00:01:27,000 --> 00:01:31,950
+You open none.
+
+18
+00:01:32,000 --> 00:01:36,950
+That night you feel more behind than before you started.
+
+19
+00:01:37,000 --> 00:01:41,950
+I've watched excellent women do this —
+
+20
+00:01:42,000 --> 00:01:46,950
+teachers, admin officers, freelancers, bank staff —
+
+21
+00:01:47,000 --> 00:01:51,950
+treating every new app like homework they failed.
+
+22
+00:01:52,000 --> 00:01:56,950
+Here's the quiet truth:
+
+23
+00:01:57,000 --> 00:02:01,950
+more logos on your phone is not progress.
+
+24
+00:02:02,000 --> 00:02:06,950
+Progress is one tool you actually trust on a real workday.
+
+25
+00:02:07,000 --> 00:02:14,450
+The problem isn't that there are many AI tools.
+
+26
+00:02:14,500 --> 00:02:21,950
+The problem is we confuse downloading with learning.
+
+27
+00:02:22,000 --> 00:02:29,450
+Every new app restarts the anxiety:
+
+28
+00:02:29,500 --> 00:02:36,950
+"Which one is safe? Which one is best?
+
+29
+00:02:37,000 --> 00:02:44,450
+What if I choose wrong?"
+
+30
+00:02:44,500 --> 00:02:51,950
+So let's separate three things that get mixed up:
+
+31
+00:02:52,000 --> 00:02:59,450
+One — Novelty sells urgency.
+
+32
+00:02:59,500 --> 00:03:06,950
+Two — Your work needs one primary assistant first.
+
+33
+00:03:07,000 --> 00:03:14,450
+Three — Trust is built with rules — not with screenshots.
+
+34
+00:03:14,500 --> 00:03:21,950
+Free can be fine. Paid can be fine.
+
+35
+00:03:22,000 --> 00:03:29,450
+What matters is whether the tool matches a real Need,
+
+36
+00:03:29,500 --> 00:03:36,950
+passes a Safety check,
+
+37
+00:03:37,000 --> 00:03:44,450
+and is simple enough that you'll Stick with it.
+
+38
+00:03:44,500 --> 00:03:51,950
+If you keep switching every week,
+
+39
+00:03:52,000 --> 00:03:59,450
+you never build fluency —
+
+40
+00:03:59,500 --> 00:04:06,950
+you build fatigue.
+
+41
+00:04:07,000 --> 00:04:11,565
+Here's the skill.
+
+42
+00:04:11,615 --> 00:04:16,181
+Framework name: THE TRUST STACK
+
+43
+00:04:16,231 --> 00:04:20,796
+Step 1 — Need.
+
+44
+00:04:20,846 --> 00:04:25,412
+Write one sentence: "I need AI to help me with ___.
+
+45
+00:04:25,462 --> 00:04:30,027
+"
+
+46
+00:04:30,077 --> 00:04:34,642
+Not ten jobs. One.
+
+47
+00:04:34,692 --> 00:04:39,258
+Examples: "first drafts of client emails.
+
+48
+00:04:39,308 --> 00:04:43,873
+"
+
+49
+00:04:43,923 --> 00:04:48,488
+"summarising meeting notes."
+
+50
+00:04:48,538 --> 00:04:53,104
+"rewriting a report outline."
+
+51
+00:04:53,154 --> 00:04:57,719
+Step 2 — Safety.
+
+52
+00:04:57,769 --> 00:05:02,335
+For that tool, write three non-negotiables:
+
+53
+00:05:02,385 --> 00:05:06,950
+Never paste passwords or OTPs.
+
+54
+00:05:07,000 --> 00:05:11,565
+Never paste private client files without permission.
+
+55
+00:05:11,615 --> 00:05:16,181
+Always edit facts before you send.
+
+56
+00:05:16,231 --> 00:05:20,796
+If a tool asks for access you don't understand — pause.
+
+57
+00:05:20,846 --> 00:05:25,412
+If you can't explain where your data goes in one plain
+
+58
+00:05:25,462 --> 00:05:30,027
+sentence — pause.
+
+59
+00:05:30,077 --> 00:05:34,642
+Step 3 — Stick.
+
+60
+00:05:34,692 --> 00:05:39,258
+Choose one primary assistant for thirty days.
+
+61
+00:05:39,308 --> 00:05:43,873
+Mute the rest.
+
+62
+00:05:43,923 --> 00:05:48,488
+Use it on real tasks until your hands know the path.
+
+63
+00:05:48,538 --> 00:05:53,104
+That is the Trust Stack.
+
+64
+00:05:53,154 --> 00:05:57,719
+Need. Safety. Stick.
+
+65
+00:05:57,769 --> 00:06:02,335
+You stop collecting the circus —
+
+66
+00:06:02,385 --> 00:06:06,950
+and you start practising with one calm tool.
+
+67
+00:06:07,000 --> 00:06:12,405
+Quick psychology — not as a diagnosis, as a tool.
+
+68
+00:06:12,455 --> 00:06:17,859
+Your brain treats endless options as threat.
+
+69
+00:06:17,909 --> 00:06:23,314
+More choices feel like more chances to be wrong.
+
+70
+00:06:23,364 --> 00:06:28,768
+So you delay, download, and never decide.
+
+71
+00:06:28,818 --> 00:06:34,223
+A closed choice lowers the threat.
+
+72
+00:06:34,273 --> 00:06:39,677
+When you pick one tool and three rules,
+
+73
+00:06:39,727 --> 00:06:45,132
+your nervous system gets evidence:
+
+74
+00:06:45,182 --> 00:06:50,586
+"I can work with this."
+
+75
+00:06:50,636 --> 00:06:56,041
+Choice fatigue feels like failure.
+
+76
+00:06:56,091 --> 00:07:01,495
+It isn't.
+
+77
+00:07:01,545 --> 00:07:06,950
+It's a signal to shrink the menu.
+
+78
+00:07:07,000 --> 00:07:11,394
+Your action today — under thirty minutes:
+
+79
+00:07:11,444 --> 00:07:15,839
+1. Write the one job you need AI for this month.
+
+80
+00:07:15,889 --> 00:07:20,283
+2. Open the AI tool you already have — ChatGPT, Gemini, or
+
+81
+00:07:20,333 --> 00:07:24,728
+Copilot — and write three safety rules in Notes.
+
+82
+00:07:24,778 --> 00:07:29,172
+3. Delete or mute the unused AI apps for thirty days.
+
+83
+00:07:29,222 --> 00:07:33,617
+When you're done, you will not have "mastered AI.
+
+84
+00:07:33,667 --> 00:07:38,061
+"
+
+85
+00:07:38,111 --> 00:07:42,506
+You will have made a FutureHer trust decision:
+
+86
+00:07:42,556 --> 00:07:46,950
+one idea, one skill, one action.
+
+87
+00:07:47,000 --> 00:07:50,950
+If this helped, subscribe to FutureHer —
+
+88
+00:07:51,000 --> 00:07:54,950
+I refresh tool guidance when it actually matters,
+
+89
+00:07:55,000 --> 00:07:58,950
+not every time an app launches.
+
+90
+00:07:59,000 --> 00:08:02,950
+And join The Forward Collective if you want company while you
+
+91
+00:08:03,000 --> 00:08:06,950
+practise.
+
+92
+00:08:07,000 --> 00:08:12,950
+Next time: you only have a phone —
+
+93
+00:08:13,000 --> 00:08:18,950
+can you still use AI properly?
+
+94
+00:08:19,000 --> 00:08:24,950
+Yes. And I'll show you the Phone Flow.

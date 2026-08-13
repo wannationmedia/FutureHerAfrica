@@ -1,0 +1,40 @@
+SHORT S1 · Pressure is not a bill
+Source: EP010 · 0:07–0:35 · ~30s · 9:16
+Publish: Day 0 +2h
+Role: Hook
+
+TITLE
+Pressure is not a bill
+
+────────────────────────────────────
+0–3s · HOOK
+ON-SCREEN: Pressure isn't a bill.
+VO: Pressure isn't a bill.
+
+3–10s · REFRAME
+ON-SCREEN: Guilt spends fast
+VO: WhatsApp urgency is not the same as a due invoice.
+
+10–22s · VALUE
+ON-SCREEN: Pause first
+VO: Most outings can wait twenty-four hours.
+
+22–30s · ACTION
+ON-SCREEN: Start a pause
+VO: Reply: I need to check my plan — I'll come back tomorrow.
+
+SIGN-OFF
+ON-SCREEN / VO: One step today. A different future tomorrow.
+CTA CARD (2s): Full lesson on FutureHer
+────────────────────────────────────
+
+DESCRIPTION
+Pressure is not a bill. One step today. A different future tomorrow.
+Full lesson on FutureHer.
+#FutureHer #MoneyClarity
+
+CAPCUT
+Crop 9:16 · eyes upper third · burned captions · large type
+Subtle zoom on hook + action line
+Brand arc BR 12–18% · series pill: FutureHer · Money
+End CTA compound · palette only · premium transitions

@@ -5,6 +5,12 @@
   "description": "FutureHerAfrica production repository",
   "scripts": {
     "voice:ep001": "node scripts/voice/generate_voice.mjs --episode EP001",
-    "voice:episode": "node scripts/voice/generate_voice.mjs --episode"
+    "voice:episode": "node scripts/voice/generate_voice.mjs --episode",
+    "db:migrate": "node db/migrate.mjs",
+    "db:seed:ep001": "node db/seed-ep001.mjs",
+    "db:validate:ep001": "node db/validate-ep001.mjs"
+  },
+  "dependencies": {
+    "pg": "^8.23.0"
   }
 }

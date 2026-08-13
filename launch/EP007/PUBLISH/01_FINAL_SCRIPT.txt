@@ -1,0 +1,174 @@
+FUTUREHER · EP007 · FINAL SCRIPT
+Title: Fact-check AI before it embarrasses you
+Series: FutureHer · AI | Topic: T007 | Framework: VERIFY
+Template: A Educational | Target: 8:00 | Grade: FH_Grade_Horizon
+Slug: ep007-verify-before-you-send
+
+IDEA: Fluency is not proof — verify before you share
+SKILL: VERIFY — Source · Number · Name
+ACTION: Verify sources, numbers, and names before you send.
+CTA: Subscribe to Forward Notes + join The Forward Collective
+PRODUCT: Verify Before You Send checklist pack
+DOWNLOAD: 3-Step Verify card
+
+═══════════════════════════════════════
+COLD OPEN / INTRO (0:00–0:07)
+═══════════════════════════════════════
+VISUAL: FH_TMPL_Intro_7s + series pill FutureHer · AI
+VO: (none — bed only)
+
+═══════════════════════════════════════
+HOOK (0:07–0:37) [S1]
+═══════════════════════════════════════
+VISUAL: MCU A-roll or phone B-roll → face on punch
+ON-SCREEN: Don't trust fluency.
+
+If AI ever answered you with perfect confidence
+and you almost pasted it into a slide, email, or assignment —
+this lesson is your seatbelt.
+
+Don't trust fluency.
+
+Today: one idea, one skill, one action.
+Confidence without gullibility.
+
+═══════════════════════════════════════
+EVERYDAY SA STORY (0:37–2:07)
+═══════════════════════════════════════
+VISUAL: Soft SA daylight · phone · desk · notebook
+CAPTIONS: almost sent · invented statistic · boss email · caught in time
+
+Picture this.
+You're finishing a presentation for class or a Monday update for your manager.
+AI gives you a clean line:
+"Studies show 73% of teams improved productivity in two weeks."
+
+It sounds research-ish.
+It sounds sendable.
+You almost drop it into the deck.
+
+Then something nags —
+and you search.
+No study. Wrong number. Or a name that doesn't exist.
+
+I've seen students and professionals catch this one minute before send —
+and I've seen the version where they didn't.
+
+Here's the truth:
+embarrassment rarely comes from using AI.
+It comes from outsourcing verification.
+
+═══════════════════════════════════════
+THE PROBLEM (2:07–4:07) [S2]
+═══════════════════════════════════════
+VISUAL: Calm B-roll · kinetic type · lower-thirds
+ON-SCREEN: Fluency ≠ truth
+
+The problem isn't that AI makes mistakes.
+The problem is that mistakes arrive wearing fluent clothing.
+
+Your brain treats smooth language as credible language.
+That's normal.
+It's also dangerous.
+
+So separate three checks before anything leaves your hands:
+
+Source — Where did this claim live outside the chat?
+Number — Can I confirm the figure in a reliable place?
+Name — Are people, companies, laws, and book titles real and correctly spelled?
+
+If any check fails, cut or correct.
+Fluency is not proof.
+
+═══════════════════════════════════════
+THE SKILL (4:07–6:07) [S3]
+═══════════════════════════════════════
+VISUAL: Title card VERIFY · Pathway 01/02/03 · screen demo
+ON-SCREEN: Source · Number · Name
+DEMO: AI paragraph with fake statistic → verify source/number/name → corrected send-ready note
+
+Here's the skill.
+Framework name: VERIFY
+
+Step 1 — Source.
+Highlight every claim that isn't from your own files.
+Ask: can I open a source that isn't this chat?
+If the model won't show a real link you can open — treat it as unverified.
+
+Step 2 — Number.
+Circle every percentage, date, price, and statistic.
+Confirm against a primary page, your spreadsheet, or a trusted report.
+No confirmation — no number.
+
+Step 3 — Name.
+Check people, organisations, laws, place names, and titles.
+One wrong name can sink a good email.
+
+Demo: take an AI paragraph, strike the fancy statistic, replace with a fact from your own notes, keep the useful structure.
+
+That is VERIFY.
+Source. Number. Name.
+You stop fearing AI —
+and you stop being fooled by it.
+
+═══════════════════════════════════════
+PSYCHOLOGY (6:07–7:07) [S4]
+═══════════════════════════════════════
+VISUAL: Soft dissolve · minimal · A-roll
+ON-SCREEN: Confidence can be borrowed.
+
+Quick psychology — not as a diagnosis, as a tool.
+
+Confidence can be borrowed.
+When text sounds assured, we borrow that assurance into our body.
+
+Verification returns ownership to you.
+You become the adult in the room again.
+
+Borrowed confidence is risky.
+Earned confidence is checked.
+
+═══════════════════════════════════════
+ONE ACTION TODAY (7:07–7:47) [S5]
+═══════════════════════════════════════
+VISUAL: Full-screen ACTION CARD (hold 3s)
+ON-SCREEN: Source. Number. Name — then send.
+
+Your action today — under thirty minutes:
+
+1. Take one AI answer you planned to use.
+2. Run Source · Number · Name.
+3. Correct or cut anything unverified, then save the clean version.
+
+When you're done, you will not be cynical.
+You will be FutureHer-ready: calm, sharp, and hard to embarrass.
+
+═══════════════════════════════════════
+COMMUNITY (7:47–8:07)
+═══════════════════════════════════════
+VISUAL: Outro slots Idea / Skill / Action / CTA
+
+Subscribe to Forward Notes for calm weekly readiness,
+and join The Forward Collective if you want a place to practise verification together.
+
+═══════════════════════════════════════
+PREVIEW + OUTRO (8:07–8:25)
+═══════════════════════════════════════
+VISUAL: Preview line → logo settle → end screen tiles
+
+Next time we shift into Money —
+what to do when your salary disappears before month-end.
+Dignity first. A map second.
+
+OUTRO LOCKED COPY
+Idea: Fluency is not proof — verify before you share
+Skill: VERIFY — Source · Number · Name
+Action: Verify sources, numbers, and names before you send.
+CTA: Subscribe to Forward Notes + join The Forward Collective
+END: FutureHer — Ready for what's next.
+
+PRODUCT RECOMMENDATION
+Students and professionals who cite AI often need more than a reminder — the Verify Before You Send checklist pack includes printable cards, team teaching lines, and a pre-presentation gate you can reuse.
+
+PINNED QUESTION
+What number or name did you catch AI inventing this week?

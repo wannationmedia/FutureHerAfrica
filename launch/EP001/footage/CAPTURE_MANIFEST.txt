@@ -1,0 +1,20 @@
+﻿UTUREHER · EP001 · FOOTAGE CAPTURE MANIFEST
+Record into: launch/EP001/footage/broll/ and launch/EP001/audio/
+Master list: PUBLISH/05_BROLL_LIST.txt
+
+REQUIRED BEFORE CAPCUT EXPORT
+[ ] audio/EP001_VO_v1.wav — full calm VO from SCRIPT_VO.txt / 02_VOICEOVER_SCRIPT.txt
+[ ] SR01 — screen record 60–90s: 5 tasks → ASSIST/OWN/HYBRID → AI draft → human edit
+[ ] BR01 — phone scroll AI headlines (blur real content)
+[ ] BR03 — WhatsApp/group chat fully blurred
+[ ] BR04 — desk wide soft SA daylight
+[ ] A-roll — hook + psychology face coverage (minimum)
+
+OPTIONAL (upgrade pack)
+[ ] BR02 / BR05 / BR06 / BR07 per 05_BROLL_LIST.txt
+[ ] AI01 / AI02 stills from 04_AI_IMAGE_PROMPTS.txt (max 3 in edit)
+
+INSERT STILLS ALREADY READY
+[x] PUBLISH/08_THUMBNAIL.png
+[x] PUBLISH/AC01_ACTION_CARD.png (1280×720)
+[x] action_card.html · TASK_LAYER_worksheet.html · thumbnail.html

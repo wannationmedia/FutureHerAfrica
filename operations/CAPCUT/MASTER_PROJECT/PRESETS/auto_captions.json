@@ -1,0 +1,25 @@
+{
+  "preset": "FH_AutoCaptions_EN_SA",
+  "capcut_path": "Text → Auto captions",
+  "settings": {
+    "language": "English",
+    "dialect_note": "Review South African names, places, and slang after generate",
+    "source_track": "A1_VO / A-roll dialogue",
+    "timing": "Match spoken words; split long lines to 3–6 words",
+    "style_after_generate": "FH_TMPL_Captions_Style",
+    "punctuation": "Light — prefer spoken rhythm over full grammar",
+    "numbers": "Spell short numbers if spoken as words; keep digits for money/steps",
+    "banned_auto_styles": [
+      "Template karaoke packs",
+      "Emoji auto-insert",
+      "Rainbow / neon packs",
+      "Word-by-word bounce"
+    ]
+  },
+  "qa_pass": [
+    "Framework names capitalised correctly",
+    "Place names: Limpopo, Polokwane, Johannesburg, etc.",
+    "No dual-language burned captions unless bilingual lesson flagged",
+    "Captions stay above YouTube dual-caption / Shorts UI chrome"
+  ]
+}

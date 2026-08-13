@@ -1,0 +1,35 @@
+FUTUREHER · EP006 · CAPCUT PROJECT
+Project name: FH_EP006_RTCCE_Prompts
+Duplicate from: FH_TMPL_A_Educational
+Canvas: 1920×1080 · 30fps · ~8:25
+Grade: FH_Grade_Horizon · Accent: #2F6F6A
+Export: FH_EP006_RTCCE_Prompts_v1.mp4 (1080p H.264)
+
+SETUP
+1. Duplicate template — never edit master
+2. Rename FH_EP006_RTCCE_Prompts
+3. Import launch/EP006/footage/ + thumbnail + action card PNG
+4. Place VO on A1 · denoise · normalize
+5. Auto captions → FH caption style → fix SA place names
+6. Follow PROJECT.json slot order
+7. Markers: S1@0:07 · S2@2:07 · S3@4:07 · S4@6:07 · S5@7:07
+8. Export master → crop 9:16 for Shorts
+
+TRACK MAP
+V1 A-roll · V2 B-roll/AI · V3 screen/graphics · V4 intro/outro
+A1 VO · A2 bed 12–18% · A3 soft ticks on steps
+
+LOCKED TEXT (outro)
+Idea: Good prompts are clear instructions — not magic words
+Skill: RTCCE — Role · Task · Context · Constraints · Example
+Action: Rewrite one failed prompt with RTCCE and save the winner.
+CTA: Download the RTCCE card + join the AI challenge
+
+QC BEFORE EXPORT
+[ ] Intro ≤ 8s to value
+[ ] Framework title holds ≥ 2.5s
+[ ] Screen demo readable on phone
+[ ] Action card holds 3s
+[ ] Idea/Skill/Action filled
+[ ] S1–S5 markers present
+[ ] No shock faces / neon / false promises

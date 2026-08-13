@@ -1,0 +1,32 @@
+FUTUREHER · EP003 · PUBLISH PACK
+Title: You only have a phone? You can still use AI
+Slug: ep003-phone-first-ai-flow
+Series: FutureHer · AI · T003 · THE PHONE FLOW
+
+01  01_FINAL_SCRIPT.txt
+02  02_VOICEOVER_SCRIPT.txt
+03  03_STORYBOARD.txt
+04  04_AI_IMAGE_PROMPTS.txt
+05  05_BROLL_LIST.txt
+06  06_CAPCUT_PROJECT/
+      EDIT_BIBLE.txt
+      PROJECT.json
+      TEXT_OVERLAYS.txt
+07  07_SUBTITLES_EN.srt
+08  08_THUMBNAIL.png   ← export from ../thumbnail.html at 1280×720
+09  09_DESCRIPTION.txt
+10  10_CHAPTERS.txt
+11  11_SEO.txt
+12  12_HASHTAGS.txt
+13  13_COMMUNITY_POST.txt
+14  14_PINNED_COMMENT.txt
+15  15_SHORTS/
+      SHORTS_MASTER.txt
+      S1_Phone_Is_Enough.txt
+      S2_Low_Data_Mode.txt
+      S3_Phone_Flow_60s.txt
+      S4_Voice_To_Text_Trick.txt
+      S5_Offline_Then_Prompt.txt
+
+EXPORT TARGET
+FH_EP003_PhoneFlow_v1.mp4

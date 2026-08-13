@@ -1,0 +1,44 @@
+﻿UTUREHER · EP001 · B-ROLL LIST
+Priority: Own phone footage → screen record → CapCut stock (YT-safe) → AI still (max 3)
+Folder: launch/EP001/footage/broll/
+
+ID     | SEC | DURATION | SHOT                                              | SOURCE        | USED IN
+-------|-----|----------|---------------------------------------------------|---------------|----------------
+BR01   | 01  | 6–8s     | Phone vertical scroll — news/AI headlines blurred | Own phone     | Hook
+BR02   | 01  | 8–12s    | MCU host / A-roll punch line                      | A-roll        | Hook
+BR03   | 02  | 5–7s     | WhatsApp/group chat UI fully blurred              | Own phone     | Story
+BR04   | 02  | 6–8s     | Desk wide — soft SA daylight, notebook + laptop   | Own phone     | Story
+BR05   | 02  | 5–6s     | Night desk lamp — gentle job listing scroll blur  | Own phone     | Story
+BR06   | 03  | 6–8s     | Calm hands on laptop — focus, no shock face       | Own / stock   | Problem
+BR07   | 05  | 10–15s   | Hands typing — warm daylight                      | Own / stock   | Skill
+SR01   | 05  | 60–90s   | SCREEN: 5 tasks list → labels → AI draft → edit   | Screen record | Skill (primary)
+AC01   | 09  | still    | PUBLISH/AC01_ACTION_CARD.png (1280×720)           | HTML export   | Action
+AI01   | 03  | still    | launch/EP001/assets/AI01_calm_laptop.jpg         | AI prompt 01  | Problem
+AI02   | 04  | still    | launch/EP001/assets/AI02_task_layer_diagram.png  | AI prompt 02  | Skill title
+
+SCREEN RECORD BEAT SHEET (SR01)
+1. Blank notes app — title “This week’s tasks”
+2. Type 5 tasks (or paste prepared)
+3. Add ASSIST / OWN / HYBRID beside each
+4. Open AI tool — prompt: “Draft a polite client email confirming Tuesday 10:00 meeting, warm professional tone, South African English”
+5. Copy draft → paste into notes → edit 2–3 lines in a different colour / highlight
+6. End on edited paragraph
+
+STOCK SEARCH TERMS (CapCut / YT-safe only)
+- woman laptop natural light african
+- hands writing notebook desk
+- phone hands indoor daylight
+- office desk window morning
+AVOID: robot takeover, binary rain, neon hacker, crying at computer, glam influencer office
+
+AUDIO B-ROLL / ROOM TONE
+- 10s quiet room tone for gaps
+- No real WhatsApp notification SFX with trademark character
+- Soft tick OK on Map/Label/Run only
+
+MINIMUM SHOOT (if timeboxed to 20 min)
+1. BR01 phone scroll
+2. BR03 WhatsApp blur
+3. BR04 desk daylight
+4. SR01 full screen demo
+5. A-roll VO / face for hook + psychology

@@ -1,0 +1,32 @@
+FUTUREHER · EP006 · PUBLISH PACK
+Title: Prompting basics that still work in 5 years
+Slug: ep006-rtcce-forever-prompts
+Series: FutureHer · AI · T006 · RTCCE
+
+01  01_FINAL_SCRIPT.txt
+02  02_VOICEOVER_SCRIPT.txt
+03  03_STORYBOARD.txt
+04  04_AI_IMAGE_PROMPTS.txt
+05  05_BROLL_LIST.txt
+06  06_CAPCUT_PROJECT/
+      EDIT_BIBLE.txt
+      PROJECT.json
+      TEXT_OVERLAYS.txt
+07  07_SUBTITLES_EN.srt
+08  08_THUMBNAIL.png   ← export from ../thumbnail.html at 1280×720
+09  09_DESCRIPTION.txt
+10  10_CHAPTERS.txt
+11  11_SEO.txt
+12  12_HASHTAGS.txt
+13  13_COMMUNITY_POST.txt
+14  14_PINNED_COMMENT.txt
+15  15_SHORTS/
+      SHORTS_MASTER.txt
+      S1_Bad_Vs_Good_Prompt.txt
+      S2_Constraints_Save_You.txt
+      S3_RTCCE_60s.txt
+      S4_Examples_Teach_AI.txt
+      S5_Save_Best_Prompts.txt
+
+EXPORT TARGET
+FH_EP006_RTCCE_Prompts_v1.mp4

@@ -1,0 +1,61 @@
+FUTUREHER · EP006 · SEO PACK
+
+PRIMARY TITLE
+Prompting basics that still work in 5 years
+
+ALT TITLES (A/B)
+1. Why your ChatGPT answers are fluff — and how to fix them
+2. The forever prompt framework (RTCCE)
+3. Stop writing bad prompts — use this structure
+
+THUMBNAIL TEXT (on image — not title)
+Role · Task · Context
+Series pill: FutureHer · AI
+Support: Constraints · Example
+File: PUBLISH/08_THUMBNAIL.png
+
+SLUG
+ep006-rtcce-forever-prompts
+
+PRIMARY KEYWORD
+how to write better AI prompts
+
+SECONDARY KEYWORDS
+ChatGPT prompt framework
+RTCCE prompting
+prompt engineering for beginners
+better ChatGPT answers
+AI prompts for work
+FutureHer
+
+TAGS (YouTube — paste)
+how to write better AI prompts, ChatGPT prompt framework, RTCCE, prompt engineering beginners, better ChatGPT answers, FutureHer, AI for women, AI prompts for work South Africa
+
+PLAYLIST
+FutureHer · AI
+
+CATEGORY
+Education
+
+LANGUAGE
+English (South Africa)
+
+CAPTIONS
+Upload PUBLISH/07_SUBTITLES_EN.srt
+Later: NSO / ZU / TS
+
+SEARCH INTENT
+How-to → Durable skill
+
+CLICK TEST
+Beginner sees: fluff answers → forever framework → rewrite today
+
+END SCREEN (last 20s)
+Subscribe · next episode teaser / playlist · Forward Collective link
+
+CARDS
+0:45 Subscribe reminder
+7:40 Community link
+
+HANDLE
+@FutureHerAfrica

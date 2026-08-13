@@ -1,0 +1,40 @@
+SHORT S5 · Capture offline — prompt later
+Source: EP003 · 7:07–7:42 · ~30s · 9:16
+Publish: Day 1
+Role: Action
+
+TITLE
+Capture offline — prompt later
+
+────────────────────────────────────
+0–3s · HOOK
+ON-SCREEN: No signal? Still start.
+VO: No signal? You can still start.
+
+3–10s · REFRAME
+ON-SCREEN: Save the spark
+VO: Capture offline. Prompt when signal returns. Save before you close.
+
+10–22s · VALUE
+ON-SCREEN: Finish on your phone
+VO: One task. Phone only. Under thirty minutes.
+
+22–30s · ACTION
+ON-SCREEN: Save to Notes now
+VO: If you already prompted — save the result to Notes before you switch apps.
+
+SIGN-OFF
+ON-SCREEN / VO: One step today. A different future tomorrow.
+CTA CARD (2s): Full lesson on FutureHer
+────────────────────────────────────
+
+DESCRIPTION
+Capture offline — prompt later. One step today. A different future tomorrow.
+Full lesson on FutureHer.
+#FutureHer #AIForWomen
+
+CAPCUT
+Crop 9:16 · eyes upper third · burned captions · large type
+Subtle zoom on hook + action line
+Brand arc BR 12–18% · series pill: FutureHer · AI
+End CTA compound · palette only · premium transitions

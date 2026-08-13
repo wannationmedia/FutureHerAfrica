@@ -1,0 +1,21 @@
+FUTUREHER · EP005 · CAPCUT EDIT SHEET
+Template: A Educational | Grade: FH_Grade_Horizon | Aspect: 16:9 master
+
+COLOURS
+Ink #121A21 | Stone #F3EFE8 | Brass #B8893A | Lagoon #2F6F6A | Ivory #FFFCF8
+
+INTRO (6–8s)
+Horizon arc + FutureHer wordmark + series pill "FutureHer · AI"
+
+TIMELINE
+00:00–00:30  HOOK [S1] — Assist ≠ replace.
+00:30–02:00  STORY — manager said use AI · no rules · freeze · what's safe
+02:00–04:00  PROBLEM [S2] — Permission anxiety · Automate · Assist · Avoid · Judgment stays yours
+04:00–06:00  SKILL [S3] — THE WORK MAP · Automate · Assist · Avoid
+             Screen: Eight duties list → AAA labels → one Assist email/summary demo
+06:00–07:00  PSYCHOLOGY [S4] — Ambiguity feels like danger.
+07:00–07:40  ACTION [S5] — Map 8 duties. Run 1 Assist. (hold 3s)
+07:40–07:55  CTA — Subscribe + this week's Work Map challenge
+07:55–08:05  PREVIEW — Next — prompting basics that last
+
+Follow PUBLISH/06_CAPCUT_PROJECT/EDIT_BIBLE.txt and PROJECT.json.

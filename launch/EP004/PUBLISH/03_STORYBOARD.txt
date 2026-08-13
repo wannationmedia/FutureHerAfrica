@@ -1,0 +1,52 @@
+FUTUREHER · EP004 · SCENE-BY-SCENE STORYBOARD
+Aspect: 16:9 master · 1920×1080 · 30fps · FH_Grade_Horizon
+
+SCENE 00 · INTRO · 0:00–0:07
+SHOT: Brand intro compound
+FRAME: Stone → Ink wash · brass horizon arc · FutureHer wordmark · pill “FutureHer · AI”
+NOTES: Duplicate FH_TMPL_Intro_7s — do not rebuild.
+
+SCENE 01 · HOOK · 0:07–0:37 [S1]
+ON-SCREEN: AI draft ≠ your voice.
+B-ROLL: BR01 · BR02
+CAPTION STYLE: Satoshi Bold · Ivory on Ink bar · max 2 lines
+
+SCENE 02 · SA STORY · 0:37–2:07
+ON-SCREEN KEYWORDS: email sent · doesn't sound like you · cringe · fixable
+MOOD: Relatable, not anxious montage
+B-ROLL: BR03 · BR04 · BR05
+
+SCENE 03 · PROBLEM · 2:07–4:07 [S2]
+GRAPHICS: Fluency ≠ authenticity · Draft · Strip · Stamp · Your story stays
+FORBIDDEN: Shock faces · red alert UI · glitch · neon
+B-ROLL: BR06 · AI01 optional
+
+SCENE 04 · SKILL TITLE · 4:07–4:20
+TEXT: THE HUMAN EDIT LOOP
+SUB: Draft · Strip · Stamp
+HOLD: 2.5–3.5s
+ASSET: AI02 framework diagram
+
+SCENE 05–07 · SKILL STEPS · 4:20–6:07
+DEMO: AI email draft → strike buzzwords → stamp SA voice detail → final send-ready
+ON-SCREEN: THE HUMAN EDIT LOOP · 01 Draft · 02 Strip · 03 Stamp · Draft · Strip · Stamp
+B-ROLL: BR07 · SR01
+
+SCENE 08 · PSYCHOLOGY · 6:07–7:07 [S4]
+ON-SCREEN: Embarrassment is feedback.
+PACE: Slower · fewer cuts · academy calm
+
+SCENE 09 · ACTION · 7:07–7:47 [S5]
+TEXT: Draft. Strip. Stamp — then send.
+HOLD: Card 3s
+ASSET: action_card.html → PNG
+
+SCENE 10 · COMMUNITY · 7:47–8:07
+Idea: AI draft ≠ your voice until you edit
+Skill: The Human Edit Loop — Draft · Strip · Stamp
+Action: Strip the buzzwords. Stamp your story. Send in your voice.
+CTA: Follow Career Armor next — and join The Forward Collective
+
+SCENE 11 · PREVIEW + END · 8:07–8:25
+TEXT: Next — what AI can and cannot do at work
+END: FutureHer — Ready for what's next.

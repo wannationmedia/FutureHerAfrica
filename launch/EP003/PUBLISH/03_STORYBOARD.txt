@@ -1,0 +1,52 @@
+FUTUREHER · EP003 · SCENE-BY-SCENE STORYBOARD
+Aspect: 16:9 master · 1920×1080 · 30fps · FH_Grade_Horizon
+
+SCENE 00 · INTRO · 0:00–0:07
+SHOT: Brand intro compound
+FRAME: Stone → Ink wash · brass horizon arc · FutureHer wordmark · pill “FutureHer · AI”
+NOTES: Duplicate FH_TMPL_Intro_7s — do not rebuild.
+
+SCENE 01 · HOOK · 0:07–0:37 [S1]
+ON-SCREEN: Your phone is enough.
+B-ROLL: BR01 · BR02
+CAPTION STYLE: Satoshi Bold · Ivory on Ink bar · max 2 lines
+
+SCENE 02 · SA STORY · 0:37–2:07
+ON-SCREEN KEYWORDS: commute · load-shedding · little data · still finished
+MOOD: Relatable, not anxious montage
+B-ROLL: BR03 · BR04 · BR05
+
+SCENE 03 · PROBLEM · 2:07–4:07 [S2]
+GRAPHICS: No laptop ≠ no AI · Capture · Prompt · Save · System beats device envy
+FORBIDDEN: Shock faces · red alert UI · glitch · neon
+B-ROLL: BR06 · AI01 optional
+
+SCENE 04 · SKILL TITLE · 4:07–4:20
+TEXT: THE PHONE FLOW
+SUB: Capture · Prompt · Save
+HOLD: 2.5–3.5s
+ASSET: AI02 framework diagram
+
+SCENE 05–07 · SKILL STEPS · 4:20–6:07
+DEMO: Voice note → mobile AI prompt → save edited result in Notes
+ON-SCREEN: THE PHONE FLOW · 01 Capture · 02 Prompt · 03 Save · Capture · Prompt · Save
+B-ROLL: BR07 · SR01
+
+SCENE 08 · PSYCHOLOGY · 6:07–7:07 [S4]
+ON-SCREEN: Waiting for perfect tools keeps you stuck.
+PACE: Slower · fewer cuts · academy calm
+
+SCENE 09 · ACTION · 7:07–7:47 [S5]
+TEXT: Capture. Prompt. Save — on your phone.
+HOLD: Card 3s
+ASSET: action_card.html → PNG
+
+SCENE 10 · COMMUNITY · 7:47–8:07
+Idea: A smartphone is a full AI classroom if you have a system
+Skill: The Phone Flow — Capture · Prompt · Save
+Action: Finish one AI task entirely on your phone in under 30 minutes.
+CTA: Join the Limpopo Circle phone-first challenge
+
+SCENE 11 · PREVIEW + END · 8:07–8:25
+TEXT: Next — use AI without sounding fake
+END: FutureHer — Ready for what's next.

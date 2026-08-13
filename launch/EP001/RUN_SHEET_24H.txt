@@ -1,0 +1,65 @@
+FUTUREHERAFRICA · 24-HOUR LAUNCH RUN SHEET
+Goal: First YouTube video live within 24 hours
+Episode: EP001 — AI won't replace you — but ignoring this will
+
+HOUR 0–1 · SETUP
+[ ] Confirm YouTube channel @FutureHerAfrica (or chosen handle) created
+[ ] Channel icon: FH monogram Ivory on Ink (800×800) — use brand/14_youtube when ready; interim: solid Ink square + FH brass text
+[ ] Banner draft later — do NOT block publish on banner
+[ ] Install CapCut desktop + Template A notes open
+[ ] Quiet room + phone OR mic ready for VO
+
+HOUR 1–2 · RECORD VO
+[ ] Open launch/EP001/SCRIPT_VO.txt
+[ ] Record full VO in one pass (or sectioned); calm pace
+[ ] Export WAV/MP3 → launch/EP001/audio/EP001_VO_v1.wav
+
+HOUR 2–4 · VISUALS
+[ ] Open thumbnail.html in Chrome → zoom 100% → screenshot OR print to PNG 1280×720
+[ ] Save as launch/EP001/FH_EP001_Thumbnail.png
+[ ] Capture screen demo: 5-task list → labels → one AI draft → edit (60–90s raw)
+[ ] Pull 4–6 B-roll clips: desk, phone, notebook, soft SA light (phone camera OK)
+
+HOUR 4–7 · EDIT
+[ ] CapCut: follow CAPCUT_EDIT_SHEET.txt
+[ ] Drop VO → auto captions → clean to brand style
+[ ] Insert framework card + action card
+[ ] Intro/outro from master if exists; else static end card text from script
+[ ] Export FH_EP001_AI_TaskLayer_v1.mp4
+
+HOUR 7–8 · QC (10 min gate)
+[ ] Audio clear, no room echo spikes
+[ ] Captions accurate on key lines
+[ ] Thumbnail readable at stamp size
+[ ] Title + description from UPLOAD_PACK.txt
+[ ] No false promises / no shock faces
+[ ] Action under 30 minutes clear on screen
+
+HOUR 8–9 · UPLOAD
+[ ] YouTube Studio → Upload
+[ ] Paste UPLOAD_PACK.txt fields
+[ ] Custom thumbnail
+[ ] Chapters from pack
+[ ] Unlisted → watch once → fix if needed → Public
+[ ] Pin comment from pack
+[ ] Add to playlist: FutureHerAfrica · AI
+
+HOUR 9–10 · SHORTS BATCH
+[ ] Cut S1 + S3 first (highest hook)
+[ ] Schedule remaining per SHORTS_CUTS.txt
+
+HOUR 10–12 · DISTRIBUTION (minimum)
+[ ] WhatsApp status / Forward Collective: link + question from pinned comment
+[ ] Instagram Reel = S1 with link in bio / stories
+[ ] LinkedIn: 5-line post + video link (professional tone)
+
+BLOCKERS THAT DO NOT STOP PUBLISH
+- Perfect logo SVG
+- Multilingual subtitles beyond EN
+- Newsletter tool
+- Website / domain
+- Banner polish
+- Intro animation perfection
+
+PUBLISH DEFINITION OF DONE
+Video is Public. Thumbnail live. Pin comment live. At least one Short posted.

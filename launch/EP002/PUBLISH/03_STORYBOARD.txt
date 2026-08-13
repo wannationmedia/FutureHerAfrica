@@ -1,0 +1,52 @@
+FUTUREHER · EP002 · SCENE-BY-SCENE STORYBOARD
+Aspect: 16:9 master · 1920×1080 · 30fps · FH_Grade_Horizon
+
+SCENE 00 · INTRO · 0:00–0:07
+SHOT: Brand intro compound
+FRAME: Stone → Ink wash · brass horizon arc · FutureHer wordmark · pill “FutureHer · AI”
+NOTES: Duplicate FH_TMPL_Intro_7s — do not rebuild.
+
+SCENE 01 · HOOK · 0:07–0:37 [S1]
+ON-SCREEN: One tool is enough.
+B-ROLL: BR01 · BR02
+CAPTION STYLE: Satoshi Bold · Ivory on Ink bar · max 2 lines
+
+SCENE 02 · SA STORY · 0:37–2:07
+ON-SCREEN KEYWORDS: WhatsApp · eight apps · none used · more behind
+MOOD: Relatable, not anxious montage
+B-ROLL: BR03 · BR04 · BR05
+
+SCENE 03 · PROBLEM · 2:07–4:07 [S2]
+GRAPHICS: Downloads ≠ progress · Need · Safety · Stick · Trust is a checklist
+FORBIDDEN: Shock faces · red alert UI · glitch · neon
+B-ROLL: BR06 · AI01 optional
+
+SCENE 04 · SKILL TITLE · 4:07–4:20
+TEXT: THE TRUST STACK
+SUB: Need · Safety · Stick
+HOLD: 2.5–3.5s
+ASSET: AI02 framework diagram
+
+SCENE 05–07 · SKILL STEPS · 4:20–6:07
+DEMO: Trust Stack notes → safety rules → pick ChatGPT or Gemini as primary
+ON-SCREEN: THE TRUST STACK · 01 Need · 02 Safety · 03 Stick · Need · Safety · Stick
+B-ROLL: BR07 · SR01
+
+SCENE 08 · PSYCHOLOGY · 6:07–7:07 [S4]
+ON-SCREEN: Choice fatigue feels like failure.
+PACE: Slower · fewer cuts · academy calm
+
+SCENE 09 · ACTION · 7:07–7:47 [S5]
+TEXT: Pick one. Write three rules. Stick 30 days.
+HOLD: Card 3s
+ASSET: action_card.html → PNG
+
+SCENE 10 · COMMUNITY · 7:47–8:07
+Idea: Trust is a checklist — not a download frenzy
+Skill: The Trust Stack — Need · Safety · Stick
+Action: Pick one tool. Write three safety rules. Stick for 30 days.
+CTA: Subscribe for tool-refresh episodes
+
+SCENE 11 · PREVIEW + END · 8:07–8:25
+TEXT: Next — phone-only AI that still works
+END: FutureHer — Ready for what's next.

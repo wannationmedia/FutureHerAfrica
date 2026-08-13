@@ -1,0 +1,21 @@
+FUTUREHER · EP004 · CAPCUT EDIT SHEET
+Template: A Educational | Grade: FH_Grade_Horizon | Aspect: 16:9 master
+
+COLOURS
+Ink #121A21 | Stone #F3EFE8 | Brass #B8893A | Lagoon #2F6F6A | Ivory #FFFCF8
+
+INTRO (6–8s)
+Horizon arc + FutureHer wordmark + series pill "FutureHer · AI"
+
+TIMELINE
+00:00–00:30  HOOK [S1] — AI draft ≠ your voice.
+00:30–02:00  STORY — email sent · doesn't sound like you · cringe · fixable
+02:00–04:00  PROBLEM [S2] — Fluency ≠ authenticity · Draft · Strip · Stamp · Your story stays
+04:00–06:00  SKILL [S3] — THE HUMAN EDIT LOOP · Draft · Strip · Stamp
+             Screen: AI email draft → strike buzzwords → stamp SA voice detail → final send-ready
+06:00–07:00  PSYCHOLOGY [S4] — Embarrassment is feedback.
+07:00–07:40  ACTION [S5] — Draft. Strip. Stamp — then send. (hold 3s)
+07:40–07:55  CTA — Follow Career Armor next — and join The Forward Collective
+07:55–08:05  PREVIEW — Next — what AI can and cannot do at work
+
+Follow PUBLISH/06_CAPCUT_PROJECT/EDIT_BIBLE.txt and PROJECT.json.

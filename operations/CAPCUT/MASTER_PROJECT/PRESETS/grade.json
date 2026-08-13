@@ -1,0 +1,25 @@
+{
+  "preset": "FH_Grade_Horizon",
+  "authority": "brand/03_colour/FH_Grade_Horizon_notes.md",
+  "capcut_path": "Adjust → save as favourite adjustment layer",
+  "intensity_pct_max": 30,
+  "recipe": {
+    "exposure": "Natural — faces first",
+    "contrast": "Medium",
+    "temperature": "+1 to +2 warm",
+    "tint": "Slight green-away from magenta influencer look",
+    "highlights": "Soft roll-off",
+    "shadows": "Slight lift — Ink blacks must not crush",
+    "saturation": "Neutral to −5",
+    "vibrance": "0 to +5",
+    "skin": "Protect — no orange plastic"
+  },
+  "series_micro_bias": {
+    "A_Educational": "Cleaner; Lagoon-friendly midtones",
+    "B_Money": "Cleaner highlights; Brass-friendly",
+    "C_Career": "Most editorial / neutral",
+    "D_Relationships": "Warmest; protect skin",
+    "E_Stories": "Atmospheric; longer holds"
+  },
+  "banned": ["Heavy influencer LUT packs", "Neon cyber", "Beauty-filter orange skin", "Crushed blacks"]
+}
