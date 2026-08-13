@@ -16,3 +16,7 @@ Thumbs.db
 *.swp
 .idea/
 .vscode/
+
+# Local production artifacts
+launch/EP001.zip
+launch/EP001_RENDERED_DRAFT.mp4
