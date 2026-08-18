@@ -6,8 +6,24 @@ import pg from "pg";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..", "..");
 
+function assertNotWannationDatabase(url) {
+  if (/wannation/i.test(url)) {
+    throw new Error(
+      "Refusing to use a WANNATION database. Set FHA_PRODUCTION_DATABASE_URL to a dedicated FutureHer database (e.g. futureher), not wannation_os."
+    );
+  }
+}
+
 export function loadDatabaseUrl() {
-  if (process.env.DATABASE_URL) return process.env.DATABASE_URL;
+  if (process.env.FHA_PRODUCTION_DATABASE_URL) {
+    assertNotWannationDatabase(process.env.FHA_PRODUCTION_DATABASE_URL);
+    return process.env.FHA_PRODUCTION_DATABASE_URL;
+  }
+
+  if (process.env.DATABASE_URL) {
+    assertNotWannationDatabase(process.env.DATABASE_URL);
+    return process.env.DATABASE_URL;
+  }
 
   const envPath = path.join(ROOT, ".env");
   if (!fs.existsSync(envPath)) {
@@ -34,6 +50,7 @@ export function loadDatabaseUrl() {
         "DATABASE_URL in .env still contains a placeholder. Set the real local PostgreSQL password."
       );
     }
+    assertNotWannationDatabase(value);
     return value;
   }
 

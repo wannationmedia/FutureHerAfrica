@@ -6,7 +6,12 @@
 # Dependencies
 node_modules/
 
-# Prisma
+# Next.js
+.next/
+out/
+*.tsbuildinfo
+
+# Prisma local SQLite leftovers (PostgreSQL is the application database)
 prisma/*.db
 prisma/*.db-journal
 

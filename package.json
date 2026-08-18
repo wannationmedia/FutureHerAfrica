@@ -2,15 +2,44 @@
   "name": "futureherafrica",
   "version": "1.0.0",
   "private": true,
-  "description": "FutureHerAfrica production repository",
+  "description": "FutureHerAfrica production repository and public web application",
   "scripts": {
+    "dev": "next dev",
+    "build": "prisma generate && next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:studio": "prisma studio",
+    "db:seed:app": "prisma db seed",
     "voice:ep001": "node scripts/voice/generate_voice.mjs --episode EP001",
     "voice:episode": "node scripts/voice/generate_voice.mjs --episode",
     "db:migrate": "node db/migrate.mjs",
     "db:seed:ep001": "node db/seed-ep001.mjs",
-    "db:validate:ep001": "node db/validate-ep001.mjs"
+    "db:validate:ep001": "node db/validate-ep001.mjs",
+    "postinstall": "prisma generate"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "dependencies": {
-    "pg": "^8.23.0"
+    "@prisma/client": "^6.19.0",
+    "next": "^16.3.1",
+    "pg": "^8.23.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "eslint": "^9.33.0",
+    "eslint-config-next": "^16.3.1",
+    "prisma": "^6.19.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.2"
   }
 }

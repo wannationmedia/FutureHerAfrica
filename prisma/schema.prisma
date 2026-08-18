@@ -1,0 +1,164 @@
+// FutureHer B1 public application schema.
+// PostgreSQL only. Do not import WANNATION models.
+// Production-desk tables (tasks, approvals, asset binaries) stay out of B1.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum EpisodeStatus {
+  IDEA
+  BRIEF
+  RESEARCHED
+  CLAIMS_CLEARED
+  SCRIPTED
+  RECORDED
+  VISUALS_READY
+  EDITED
+  PACKAGED
+  SCHEDULED
+  PUBLISHED
+  REVIEWED
+}
+
+enum PublishStatus {
+  NOT_STARTED
+  DRAFT
+  SCHEDULED
+  PUBLISHED
+  UNLISTED
+  PRIVATE
+  FAILED
+  REMOVED
+}
+
+model Show {
+  id              String   @id @default(uuid()) @db.Uuid
+  slug            String   @unique
+  name            String
+  description     String?
+  primaryLanguage String   @default("en") @map("primary_language")
+  youtubeHandle   String?  @map("youtube_handle")
+  createdAt       DateTime @default(now()) @map("created_at") @db.Timestamptz(6)
+  updatedAt       DateTime @updatedAt @map("updated_at") @db.Timestamptz(6)
+
+  seasons   Season[]
+  episodes  Episode[]
+  playlists Playlist[]
+
+  @@map("shows")
+}
+
+model Season {
+  id            String   @id @default(uuid()) @db.Uuid
+  showId        String   @map("show_id") @db.Uuid
+  seasonNumber  Int      @map("season_number")
+  title         String
+  slug          String
+  description   String?
+  createdAt     DateTime @default(now()) @map("created_at") @db.Timestamptz(6)
+  updatedAt     DateTime @updatedAt @map("updated_at") @db.Timestamptz(6)
+
+  show     Show      @relation(fields: [showId], references: [id], onDelete: Restrict)
+  episodes Episode[]
+
+  @@unique([showId, seasonNumber])
+  @@unique([showId, slug])
+  @@index([showId])
+  @@map("seasons")
+}
+
+model Episode {
+  id              String         @id @default(uuid()) @db.Uuid
+  showId          String         @map("show_id") @db.Uuid
+  seasonId        String         @map("season_id") @db.Uuid
+  episodeNumber   Int            @map("episode_number")
+  code            String
+  title           String
+  slug            String
+  synopsis        String?
+  description     String?
+  primaryLanguage String         @default("en") @map("primary_language")
+  seriesLockup    String         @map("series_lockup")
+  thumbnailPath   String?        @map("thumbnail_path")
+  status          EpisodeStatus  @default(IDEA)
+  publishStatus   PublishStatus  @default(NOT_STARTED) @map("publish_status")
+  youtubeVideoId  String?        @map("youtube_video_id")
+  publishedAt     DateTime?      @map("published_at") @db.Timestamptz(6)
+  createdAt       DateTime       @default(now()) @map("created_at") @db.Timestamptz(6)
+  updatedAt       DateTime       @updatedAt @map("updated_at") @db.Timestamptz(6)
+
+  show               Show                @relation(fields: [showId], references: [id], onDelete: Restrict)
+  season             Season              @relation(fields: [seasonId], references: [id], onDelete: Restrict)
+  publishingRecords  PublishingRecord[]
+  playlistItems      PlaylistItem[]
+
+  @@unique([showId, code])
+  @@unique([showId, slug])
+  @@unique([seasonId, episodeNumber])
+  @@index([showId])
+  @@index([seasonId])
+  @@index([status])
+  @@index([publishStatus])
+  @@map("episodes")
+}
+
+model Playlist {
+  id                String   @id @default(uuid()) @db.Uuid
+  showId            String   @map("show_id") @db.Uuid
+  slug              String
+  title             String
+  description       String?
+  seriesLockup      String   @map("series_lockup")
+  youtubePlaylistId String?  @map("youtube_playlist_id")
+  sortOrder         Int      @default(0) @map("sort_order")
+  createdAt         DateTime @default(now()) @map("created_at") @db.Timestamptz(6)
+  updatedAt         DateTime @updatedAt @map("updated_at") @db.Timestamptz(6)
+
+  show  Show           @relation(fields: [showId], references: [id], onDelete: Restrict)
+  items PlaylistItem[]
+
+  @@unique([showId, slug])
+  @@index([showId])
+  @@map("playlists")
+}
+
+model PlaylistItem {
+  id         String @id @default(uuid()) @db.Uuid
+  playlistId String @map("playlist_id") @db.Uuid
+  episodeId  String @map("episode_id") @db.Uuid
+  sortOrder  Int    @map("sort_order")
+
+  playlist Playlist @relation(fields: [playlistId], references: [id], onDelete: Cascade)
+  episode  Episode  @relation(fields: [episodeId], references: [id], onDelete: Restrict)
+
+  @@unique([playlistId, episodeId])
+  @@index([playlistId])
+  @@index([episodeId])
+  @@map("playlist_items")
+}
+
+model PublishingRecord {
+  id               String        @id @default(uuid()) @db.Uuid
+  episodeId        String        @map("episode_id") @db.Uuid
+  platform         String
+  platformAssetUrl String?       @map("platform_asset_url")
+  platformPostId   String?       @map("platform_post_id")
+  status           PublishStatus @default(NOT_STARTED)
+  scheduledAt      DateTime?     @map("scheduled_at") @db.Timestamptz(6)
+  publishedAt      DateTime?     @map("published_at") @db.Timestamptz(6)
+  notes            String?
+  createdAt        DateTime      @default(now()) @map("created_at") @db.Timestamptz(6)
+  updatedAt        DateTime      @updatedAt @map("updated_at") @db.Timestamptz(6)
+
+  episode Episode @relation(fields: [episodeId], references: [id], onDelete: Restrict)
+
+  @@index([episodeId])
+  @@index([platform])
+  @@map("publishing_records")
+}
