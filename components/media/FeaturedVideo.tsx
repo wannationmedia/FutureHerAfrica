@@ -1,7 +1,8 @@
-import Image from "next/image";
-import { isValidYouTubeVideoId, YOUTUBE_CHANNEL } from "@/lib/catalog";
 import { Button } from "@/components/ui/Button";
+import { MediaPoster } from "@/components/media/MediaPoster";
+import { PlayGlyph } from "@/components/media/PlayGlyph";
 import { YouTubeEmbed } from "@/components/media/YouTubeEmbed";
+import { isValidYouTubeVideoId, YOUTUBE_CHANNEL } from "@/lib/catalog";
 import { seriesMeta, type PublicEpisode } from "@/lib/content";
 
 type FeaturedVideoProps = {
@@ -23,17 +24,22 @@ export function FeaturedVideo({
   if (videoId) {
     return (
       <section
+        className="media-stage media-stage--cinema"
         aria-label={showCopy ? undefined : `${episode.title} video`}
         aria-labelledby={showCopy ? "featured-heading" : undefined}
       >
         <YouTubeEmbed videoId={videoId} title={episode.title} />
         {showCopy ? (
-          <div style={{ marginTop: "1.25rem" }}>
+          <div className="media-stage__copy">
             <p className="eyebrow">{series.lockup}</p>
             <h3 id="featured-heading" className="h2">
               {episode.title}
             </h3>
             <p className="lede">{episode.synopsis}</p>
+            <p className="meta media-stage__meta">
+              <span>{episode.code}</span>
+              <span>{episode.seasonTitle}</span>
+            </p>
           </div>
         ) : null}
       </section>
@@ -41,22 +47,19 @@ export function FeaturedVideo({
   }
 
   return (
-    <section
-      aria-label={showCopy ? undefined : `${episode.title} video status`}
-      aria-labelledby={showCopy ? "featured-heading" : undefined}
-    >
+      <section
+        className="media-stage media-stage--cinema"
+        aria-label={showCopy ? undefined : `${episode.title} video status`}
+        aria-labelledby={showCopy ? "featured-heading" : undefined}
+      >
       <div className="video-frame video-frame--fallback">
         <div className="video-fallback">
-          {episode.thumbnailPath ? (
-            <Image
-              src={episode.thumbnailPath}
-              alt=""
-              fill
-              sizes="(max-width: 800px) 100vw, 72rem"
-              style={{ objectFit: "cover", zIndex: 0 }}
-            />
-          ) : null}
-          <div style={{ position: "relative", zIndex: 2 }}>
+          <MediaPoster
+            episode={episode}
+            sizes="(max-width: 800px) 100vw, 72rem"
+            alt=""
+          />
+          <div className="video-fallback__content">
             <p className="eyebrow">{series.lockup}</p>
             {showCopy ? (
               <h3 id="featured-heading" className="h2">
@@ -73,6 +76,7 @@ export function FeaturedVideo({
             </p>
             <div className="actions">
               <Button href={YOUTUBE_CHANNEL.url} variant="primary" external>
+                <PlayGlyph className="play-glyph play-glyph--inline" />
                 Watch on YouTube
               </Button>
               {showDetailsLink ? (

@@ -1,11 +1,12 @@
 import { Button } from "@/components/ui/Button";
+import { Logo } from "@/components/ui/Logo";
 import { YOUTUBE_CHANNEL } from "@/lib/catalog";
 import { createPageMetadata } from "@/lib/metadata";
 
 export const metadata = createPageMetadata({
   title: "About",
   description:
-    "FutureHer is a multilingual educational media company helping African women become future-ready. Tagline: Ready for what’s next.",
+    "FutureHer Africa is a multilingual educational media company helping African women become future-ready. Tagline: Ready for what’s next.",
   path: "/about",
 });
 
@@ -15,7 +16,11 @@ export default function AboutPage() {
       <section className="hero">
         <div className="container">
           <p className="eyebrow">About</p>
-          <h1>FutureHer</h1>
+          <h1 className="about-brand">
+            <Logo on="ink" variant="lockup" linked={false} className="logo--about" />
+            <span className="sr-only">FutureHer Africa</span>
+          </h1>
+          <hr className="woven-rule" />
           <p className="lede">
             A multilingual educational media company helping African women become future-ready.
             Not a lifestyle influencer brand. Not hustle-culture motivation media.
@@ -23,7 +28,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="section">
+      <section className="section section--paper">
         <div className="container prose">
           <p className="eyebrow">Greeting</p>
           <h2>Welcome forward.</h2>
@@ -34,7 +39,7 @@ export default function AboutPage() {
             FutureHer does not create noise. FutureHer creates readiness — and a place to practice it
             together.
           </p>
-          <hr className="horizon-rule" />
+          <hr className="woven-rule" />
           <h2>Mission</h2>
           <p>
             Build the most trusted multilingual educational media brand for women in South Africa,

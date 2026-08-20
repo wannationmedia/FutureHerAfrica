@@ -171,6 +171,37 @@ export const getPublicCatalog = cache(async function getPublicCatalog(): Promise
   return (await fromDatabase()) ?? fromStatic();
 });
 
+export function isListedEpisode(episode: PublicEpisode): boolean {
+  return episode.publishStatus === "PUBLISHED";
+}
+
+export type ListedCatalog = Omit<PublicCatalog, "featured"> & {
+  featured: PublicEpisode | null;
+};
+
+export function listedCatalog(catalog: PublicCatalog): ListedCatalog {
+  const episodes = catalog.episodes.filter(isListedEpisode);
+  const playlists: PublicPlaylist[] = catalog.playlists
+    .map((playlist) => {
+      const listed = playlist.episodes.filter(isListedEpisode);
+      return {
+        ...playlist,
+        episodes: listed,
+        episodeCodes: listed.map((episode) => episode.code),
+      };
+    })
+    .filter((playlist) => playlist.episodes.length > 0);
+
+  return {
+    source: catalog.source,
+    show: catalog.show,
+    season: catalog.season,
+    episodes,
+    playlists,
+    featured: episodes[0] ?? null,
+  };
+}
+
 export async function getEpisodeBySlug(slug: string): Promise<PublicEpisode | null> {
   if (!isValidSlug(slug)) return null;
   const catalog = await getPublicCatalog();
@@ -186,6 +217,28 @@ export async function getShowBySlug(slug: string) {
 
 export function seriesMeta(series: CatalogEpisode["series"]) {
   return SERIES[series];
+}
+
+export function lessonBeats(description: string) {
+  const lines = description
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean);
+
+  const afterLabel = (prefixes: string[]) => {
+    const line = lines.find((entry) =>
+      prefixes.some((prefix) => entry.toLowerCase().startsWith(prefix.toLowerCase()))
+    );
+    if (!line) return null;
+    const separator = line.indexOf(":");
+    return separator === -1 ? line : line.slice(separator + 1).trim();
+  };
+
+  return {
+    idea: afterLabel(["One idea"]),
+    skill: afterLabel(["One skill"]),
+    action: afterLabel(["One action today", "One action"]),
+  };
 }
 
 export { staticEpisodeBySlug };

@@ -3,7 +3,7 @@ import { Newsreader } from "next/font/google";
 import localFont from "next/font/local";
 import { SiteFooter } from "@/components/layout/SiteFooter";
 import { SiteHeader } from "@/components/layout/SiteHeader";
-import { SITE_NAME, SITE_URL } from "@/lib/metadata";
+import { SITE_LOGO, SITE_NAME, SITE_URL } from "@/lib/metadata";
 import "./globals.css";
 
 const satoshi = localFont({
@@ -20,19 +20,21 @@ const satoshi = localFont({
 const newsreader = Newsreader({
   subsets: ["latin"],
   weight: ["400", "500", "600"],
+  style: ["normal", "italic"],
   variable: "--font-newsreader",
   display: "swap",
 });
 
-const rootTitle = "FutureHer — Ready for what’s next.";
+const rootTitle = `${SITE_NAME} — Ready for what’s next.`;
 const rootDescription =
-  "FutureHer is a multilingual educational media company helping African women become future-ready through practical lessons in AI, careers, money, and digital skills.";
+  "FutureHer Africa is a multilingual educational media company helping African women become future-ready through practical lessons in AI, careers, money, and digital skills.";
+const brandImage = { url: SITE_LOGO, width: 1024, height: 1024, alt: SITE_NAME };
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
     default: rootTitle,
-    template: "%s · FutureHer",
+    template: `%s · ${SITE_NAME}`,
   },
   description: rootDescription,
   alternates: { canonical: "/" },
@@ -50,11 +52,13 @@ export const metadata: Metadata = {
     siteName: SITE_NAME,
     locale: "en_ZA",
     type: "website",
+    images: [brandImage],
   },
   twitter: {
     card: "summary",
     title: rootTitle,
     description: rootDescription,
+    images: [brandImage],
   },
 };
 
@@ -65,7 +69,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en-ZA" className={`${satoshi.variable} ${newsreader.variable}`}>
-      <body>
+      <body className="fh-earth">
         <a className="skip-link" href="#main">
           Skip to content
         </a>

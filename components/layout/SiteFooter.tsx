@@ -6,19 +6,23 @@ export function SiteFooter() {
   return (
     <footer className="site-footer">
       <div className="site-footer__inner">
-        <div>
-          <Logo on="ink" />
-          <p>Ready for what’s next.</p>
-          <p>Welcome forward.</p>
+        <div className="site-footer__brand">
+          <Logo on="ink" variant="lockup" className="logo--footer" />
+          <p className="site-footer__tagline">Ready for what’s next.</p>
+          <hr className="woven-rule" />
+          <p className="site-footer__mark">A FutureHer Africa publication</p>
         </div>
         <nav aria-label="Explore">
-          <h2 className="h3">Explore</h2>
+          <p className="eyebrow">Explore</p>
           <ul className="nav nav--stack">
+            <li>
+              <Link href="/">Discover</Link>
+            </li>
             <li>
               <Link href="/watch">Watch</Link>
             </li>
             <li>
-              <Link href="/shows">Shows & episodes</Link>
+              <Link href="/shows">Read</Link>
             </li>
             <li>
               <Link href="/about">About</Link>
@@ -26,7 +30,7 @@ export function SiteFooter() {
           </ul>
         </nav>
         <nav aria-label="Classroom">
-          <h2 className="h3">Classroom</h2>
+          <p className="eyebrow">Classroom</p>
           <ul className="nav nav--stack">
             <li>
               <a href={YOUTUBE_CHANNEL.url} rel="noopener noreferrer">

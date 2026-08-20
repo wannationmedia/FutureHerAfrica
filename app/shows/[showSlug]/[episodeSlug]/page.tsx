@@ -2,13 +2,19 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { FeaturedVideo } from "@/components/media/FeaturedVideo";
 import { Button } from "@/components/ui/Button";
+import { Logo } from "@/components/ui/Logo";
 import {
   isValidYouTubeVideoId,
-  publishLabel,
   youtubeThumbnailUrl,
   YOUTUBE_CHANNEL,
 } from "@/lib/catalog";
-import { getEpisodeBySlug, getPublicCatalog, seriesMeta } from "@/lib/content";
+import {
+  getEpisodeBySlug,
+  getPublicCatalog,
+  isListedEpisode,
+  listedCatalog,
+  seriesMeta,
+} from "@/lib/content";
 import { createPageMetadata } from "@/lib/metadata";
 
 type PageProps = {
@@ -18,7 +24,7 @@ type PageProps = {
 export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  const catalog = await getPublicCatalog();
+  const catalog = listedCatalog(await getPublicCatalog());
   return catalog.episodes.map((episode) => ({
     showSlug: episode.showSlug,
     episodeSlug: episode.slug,
@@ -28,7 +34,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { showSlug, episodeSlug } = await params;
   const episode = await getEpisodeBySlug(episodeSlug);
-  if (!episode || episode.showSlug !== showSlug) {
+  if (!episode || episode.showSlug !== showSlug || !isListedEpisode(episode)) {
     return { title: "Episode", robots: { index: false, follow: true } };
   }
   const image = episode.thumbnailPath
@@ -40,31 +46,32 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description: episode.synopsis,
     path: `/watch/${episode.slug}`,
     image,
-    noIndex: episode.publishStatus !== "PUBLISHED",
   });
 }
 
 export default async function EpisodePage({ params }: PageProps) {
   const { showSlug, episodeSlug } = await params;
   const episode = await getEpisodeBySlug(episodeSlug);
-  if (!episode || episode.showSlug !== showSlug) notFound();
+  if (!episode || episode.showSlug !== showSlug || !isListedEpisode(episode)) notFound();
   const series = seriesMeta(episode.series);
 
   return (
     <>
       <section className="hero">
         <div className="container">
+          <Logo on="ink" variant="mark" linked={false} className="logo--page" />
           <p className="eyebrow">
             {episode.seasonTitle} · {episode.code}
           </p>
           <h1>{episode.title}</h1>
+          <hr className="woven-rule" />
           <p className="lede">{episode.synopsis}</p>
         </div>
       </section>
-      <section className="section">
-        <div className="container split">
+      <section className="section section--night">
+        <div className="container container--wide split">
           <FeaturedVideo episode={episode} showCopy={false} showDetailsLink={false} />
-          <article className="card">
+          <article className="card card--editorial">
             <div className="card__body">
               <h2 className="h3">Episode record</h2>
               <ul className="meta meta--stack">
@@ -72,11 +79,6 @@ export default async function EpisodePage({ params }: PageProps) {
                 <li>Season · {episode.seasonTitle}</li>
                 <li>Series · {series.lockup}</li>
                 <li>Title · {episode.title}</li>
-                <li>Publication · {publishLabel(episode.publishStatus)}</li>
-                <li>
-                  YouTube ID · {episode.youtubeVideoId ?? "Not recorded yet"}
-                </li>
-                {episode.thumbnailPath ? <li>Thumbnail on file</li> : <li>Thumbnail pending pack export</li>}
               </ul>
               {episode.description.split("\n").map((line) => (
                 <p key={line}>{line}</p>

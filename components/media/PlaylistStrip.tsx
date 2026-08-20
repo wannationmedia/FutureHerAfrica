@@ -5,7 +5,7 @@ import {
 } from "@/lib/catalog";
 import { EpisodeCard } from "@/components/media/EpisodeCard";
 import { Button } from "@/components/ui/Button";
-import { seriesMeta, type PublicPlaylist } from "@/lib/content";
+import { isListedEpisode, seriesMeta, type PublicPlaylist } from "@/lib/content";
 
 type PlaylistStripProps = {
   playlist: PublicPlaylist;
@@ -13,13 +13,16 @@ type PlaylistStripProps = {
 
 export function PlaylistStrip({ playlist }: PlaylistStripProps) {
   const series = seriesMeta(playlist.series);
+  const episodes = playlist.episodes.filter(isListedEpisode);
   const youtubeHref = isValidYouTubePlaylistId(playlist.youtubePlaylistId)
     ? playlistWatchUrl(playlist.youtubePlaylistId)
     : YOUTUBE_CHANNEL.playlistsUrl;
 
+  if (episodes.length === 0) return null;
+
   return (
-    <section className="section" aria-labelledby={`playlist-${playlist.slug}`}>
-      <div className="container">
+    <section className="section section--night" aria-labelledby={`playlist-${playlist.slug}`}>
+      <div className="container container--wide">
         <div className="section-head">
           <div>
             <p className="eyebrow">{series.pill}</p>
@@ -30,9 +33,13 @@ export function PlaylistStrip({ playlist }: PlaylistStripProps) {
             Open on YouTube
           </Button>
         </div>
-        <div className="grid grid--3">
-          {playlist.episodes.map((episode) => (
-            <EpisodeCard key={episode.code} episode={episode} />
+        <div className="story-strip">
+          {episodes.map((episode, index) => (
+            <EpisodeCard
+              key={episode.code}
+              episode={episode}
+              variant={index === 0 ? "featured" : index === 1 ? "portrait" : "video"}
+            />
           ))}
         </div>
       </div>
