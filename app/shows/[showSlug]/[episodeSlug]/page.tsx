@@ -21,7 +21,8 @@ type PageProps = {
   params: Promise<{ showSlug: string; episodeSlug: string }>;
 };
 
-export const dynamicParams = false;
+export const dynamicParams = true;
+export const revalidate = 60;
 
 export async function generateStaticParams() {
   const catalog = listedCatalog(await getPublicCatalog());

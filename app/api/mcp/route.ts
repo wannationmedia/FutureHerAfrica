@@ -1,6 +1,11 @@
 import { publicAgentContext } from "@/lib/ai/context";
 import { invokeRegisteredTool, listPublicToolManifest } from "@/lib/ai/orchestrator";
 import { WEBMCP_SERVER_INFO, webmcpDiscoveryDocument } from "@/lib/ai/webmcp";
+import {
+  consumePublicPostBudget,
+  rateLimitedHeaders,
+  readPublicJsonBody,
+} from "@/lib/http/public-request-guard";
 
 export const dynamic = "force-dynamic";
 
@@ -16,12 +21,18 @@ export async function POST(request: Request) {
     return jsonRpcError(null, -32600, "Expected application/json.", 415);
   }
 
-  let body: unknown;
-  try {
-    body = await request.json();
-  } catch {
+  if (!consumePublicPostBudget(request, "mcp-post")) {
+    return jsonRpcError(null, -32029, "Too many requests. Try again shortly.", 429, rateLimitedHeaders());
+  }
+
+  const parsed = await readPublicJsonBody(request);
+  if (!parsed.ok) {
+    if (parsed.reason === "payload") {
+      return jsonRpcError(null, -32600, "Request body is too large.", 413);
+    }
     return jsonRpcError(null, -32700, "Parse error.", 400);
   }
+  const body = parsed.value;
 
   if (Array.isArray(body)) {
     return jsonRpcError(null, -32600, "Batched requests are not supported.", 400);
@@ -137,9 +148,15 @@ function asRpc(body: unknown): { id: string | number | null; method: string; par
   };
 }
 
-function jsonRpcError(id: string | number | null, code: number, message: string, httpStatus: number) {
+function jsonRpcError(
+  id: string | number | null,
+  code: number,
+  message: string,
+  httpStatus: number,
+  headers?: HeadersInit
+) {
   return Response.json(
     { jsonrpc: "2.0", id, error: { code, message } },
-    { status: httpStatus }
+    { status: httpStatus, headers }
   );
 }

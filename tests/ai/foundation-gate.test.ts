@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { afterEach, before, describe, test } from "node:test";
+import { afterEach, before, beforeEach, describe, test } from "node:test";
 import { readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -15,6 +15,7 @@ import type { PublicCatalog, PublicEpisode } from "@/lib/content";
 import { SHOW, SEASON } from "@/lib/catalog";
 import { CATALOGUE_UNTRUSTED_NOTICE, wrapUntrustedCatalog } from "@/lib/ai/untrusted";
 import { webmcpDiscoveryDocument } from "@/lib/ai/webmcp";
+import { resetPublicRateLimits } from "@/lib/http/public-request-guard";
 import type { ToolDefinition } from "@/lib/ai/types";
 
 const PUBLIC_TOOLS = ["searchEpisodes", "getEpisode", "listShows", "getShow", "relatedContent"] as const;
@@ -84,12 +85,22 @@ function useFixtureCatalog() {
   publishedCatalogSource.load = async () => fixtureCatalog;
 }
 
+const originalKeyPresent = "OPENAI_API_KEY" in process.env;
+const originalKey = process.env.OPENAI_API_KEY;
+
 before(() => {
   console.info = () => undefined;
 });
 
+beforeEach(() => {
+  resetPublicRateLimits();
+  delete process.env.OPENAI_API_KEY;
+});
+
 afterEach(() => {
   publishedCatalogSource.load = originalLoad;
+  if (originalKeyPresent) process.env.OPENAI_API_KEY = originalKey;
+  else delete process.env.OPENAI_API_KEY;
 });
 
 describe("registered PUBLIC tools", () => {

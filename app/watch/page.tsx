@@ -6,6 +6,8 @@ import { YOUTUBE_CHANNEL } from "@/lib/catalog";
 import { getPublicCatalog, listedCatalog } from "@/lib/content";
 import { createPageMetadata } from "@/lib/metadata";
 
+export const revalidate = 60;
+
 export const metadata = createPageMetadata({
   title: "Watch",
   description:

@@ -2,6 +2,8 @@ import type { MetadataRoute } from "next";
 import { getPublicCatalog } from "@/lib/content";
 import { SITE_URL } from "@/lib/metadata";
 
+export const revalidate = 60;
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const catalog = await getPublicCatalog();
   const publishedEpisodes = catalog.episodes.filter(

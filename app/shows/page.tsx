@@ -4,6 +4,8 @@ import { Logo } from "@/components/ui/Logo";
 import { getPublicCatalog, listedCatalog } from "@/lib/content";
 import { createPageMetadata } from "@/lib/metadata";
 
+export const revalidate = 60;
+
 export const metadata = createPageMetadata({
   title: "Shows",
   description:

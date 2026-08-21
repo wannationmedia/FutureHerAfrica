@@ -6,6 +6,7 @@ import { POST as aiPost } from "@/app/api/ai/route";
 import { POST as mcpPost } from "@/app/api/mcp/route";
 import { CATALOGUE_UNTRUSTED_NOTICE } from "@/lib/ai/untrusted";
 import { SHOW } from "@/lib/catalog";
+import { resetPublicRateLimits } from "@/lib/http/public-request-guard";
 
 import {
   DRAFT_CODE,
@@ -42,6 +43,7 @@ before(() => {
 });
 
 beforeEach(() => {
+  resetPublicRateLimits();
   installMixedPublishCatalog();
 });
 
