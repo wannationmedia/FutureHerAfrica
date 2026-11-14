@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { describe, test } from "node:test";
 
-import { EPISODES, PLAYLISTS, SEASON, SHOW } from "@/lib/catalog";
+import { EPISODES, PLAYLISTS, SEASON, SHOW, isLocalVideoPath } from "@/lib/catalog";
 import { isListedEpisode, listedCatalog, type PublicCatalog, type PublicEpisode } from "@/lib/content";
 import { mixedPublishCatalog } from "../ai/fixtures/mixed-publish-catalog";
 
@@ -42,15 +42,32 @@ describe("public page catalogue listing", () => {
     assert.doesNotMatch(JSON.stringify(listed), /ep003-phone-first-ai-flow/);
   });
 
-  test("the static editorial seed currently has no listed episodes", () => {
+  test("the static editorial seed lists EP001 only", () => {
     const listed = listedCatalog(staticCatalog());
-    assert.equal(listed.episodes.length, 0);
-    assert.equal(listed.featured, null);
-    assert.equal(listed.playlists.length, 0);
+    assert.equal(listed.episodes.length, 1);
+    assert.equal(listed.episodes[0]?.code, "EP001");
+    assert.equal(listed.featured?.code, "EP001");
+    assert.equal(listed.featured?.localVideoPath, "/api/media/episodes/ep001.mp4");
+    assert.equal(isLocalVideoPath(listed.featured?.localVideoPath), true);
+    assert.equal(listed.playlists.length, 1);
+    assert.deepEqual(listed.playlists[0]?.episodeCodes, ["EP001"]);
     for (const episode of staticCatalog().episodes) {
-      assert.equal(episode.publishStatus, "DRAFT");
-      assert.equal(isListedEpisode(episode), false);
+      if (episode.code === "EP001") {
+        assert.equal(episode.publishStatus, "PUBLISHED");
+        assert.equal(isListedEpisode(episode), true);
+      } else {
+        assert.equal(episode.publishStatus, "DRAFT");
+        assert.equal(isListedEpisode(episode), false);
+      }
     }
+  });
+
+  test("isLocalVideoPath only accepts classroom media paths", () => {
+    assert.equal(isLocalVideoPath("/media/episodes/ep001.mp4"), true);
+    assert.equal(isLocalVideoPath("/api/media/episodes/ep001.mp4"), true);
+    assert.equal(isLocalVideoPath("https://example.com/ep001.mp4"), false);
+    assert.equal(isLocalVideoPath("/media/episodes/../secret.mp4"), false);
+    assert.equal(isLocalVideoPath("/launch/EP001/PUBLISH/EP001_FutureHerAfrica_FINAL.mp4"), false);
   });
 });
 
