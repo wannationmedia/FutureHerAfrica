@@ -10,7 +10,7 @@ export function resolveEpisodeMaster(code: string): string | null {
   if (!parts) return null;
 
   const launchRoot = path.resolve(process.cwd(), "launch");
-  const filePath = path.resolve(process.cwd(), ...parts);
+  const filePath = path.resolve(/* turbopackIgnore: true */ process.cwd(), ...parts);
   const relative = path.relative(launchRoot, filePath);
   if (!relative || relative.startsWith("..") || path.isAbsolute(relative)) {
     return null;

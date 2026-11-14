@@ -55,6 +55,7 @@ export type CatalogEpisode = {
   series: SeriesKey;
   thumbnailPath: string | null;
   youtubeVideoId: string | null;
+  localVideoPath?: string | null;
   status: EpisodeStatus;
   publishStatus: PublishStatus;
   primaryLanguage: "en";
@@ -114,8 +115,9 @@ export const EPISODES: CatalogEpisode[] = [
     series: "AI",
     thumbnailPath: "/media/episodes/ep001.png",
     youtubeVideoId: null,
-    status: "PACKAGED",
-    publishStatus: "DRAFT",
+    localVideoPath: "/api/media/episodes/ep001.mp4",
+    status: "EDITED",
+    publishStatus: "PUBLISHED",
     primaryLanguage: "en",
   },
   {
@@ -357,4 +359,12 @@ export function publishLabel(status: PublishStatus) {
     default:
       return "In production";
   }
+}
+
+// Classroom media is served locally only: /media/episodes/... (static) or
+// /api/media/episodes/... (range-streamed master). Never absolute URLs.
+const LOCAL_VIDEO_PATH_PATTERN = /^\/(?:api\/)?media\/episodes\/[a-z0-9-]+\.mp4$/;
+
+export function isLocalVideoPath(path: string | null | undefined): path is string {
+  return typeof path === "string" && LOCAL_VIDEO_PATH_PATTERN.test(path);
 }
