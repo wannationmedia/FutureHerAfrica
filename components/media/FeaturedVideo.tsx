@@ -1,8 +1,9 @@
 import { Button } from "@/components/ui/Button";
+import { LocalVideo } from "@/components/media/LocalVideo";
 import { MediaPoster } from "@/components/media/MediaPoster";
 import { PlayGlyph } from "@/components/media/PlayGlyph";
 import { YouTubeEmbed } from "@/components/media/YouTubeEmbed";
-import { isValidYouTubeVideoId, YOUTUBE_CHANNEL } from "@/lib/catalog";
+import { isLocalVideoPath, isValidYouTubeVideoId, YOUTUBE_CHANNEL } from "@/lib/catalog";
 import { seriesMeta, type PublicEpisode } from "@/lib/content";
 
 type FeaturedVideoProps = {
@@ -20,15 +21,26 @@ export function FeaturedVideo({
   const videoId = isValidYouTubeVideoId(episode.youtubeVideoId)
     ? episode.youtubeVideoId
     : null;
+  const localSrc = isLocalVideoPath(episode.localVideoPath)
+    ? episode.localVideoPath
+    : null;
 
-  if (videoId) {
+  if (videoId || localSrc) {
     return (
       <section
         className="media-stage media-stage--cinema"
         aria-label={showCopy ? undefined : `${episode.title} video`}
         aria-labelledby={showCopy ? "featured-heading" : undefined}
       >
-        <YouTubeEmbed videoId={videoId} title={episode.title} />
+        {videoId ? (
+          <YouTubeEmbed videoId={videoId} title={episode.title} />
+        ) : localSrc ? (
+          <LocalVideo
+            src={localSrc}
+            title={episode.title}
+            poster={episode.thumbnailPath}
+          />
+        ) : null}
         {showCopy ? (
           <div className="media-stage__copy">
             <p className="eyebrow">{series.lockup}</p>

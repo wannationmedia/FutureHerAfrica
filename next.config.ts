@@ -19,6 +19,14 @@ const nextConfig: NextConfig = {
       "./db/**",
     ],
   },
+  async rewrites() {
+    return [
+      {
+        source: "/media/episodes/ep001.mp4",
+        destination: "/api/media/episodes/ep001",
+      },
+    ];
+  },
   async headers() {
     return [
       {

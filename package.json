@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "test": "tsx --test --test-concurrency=1 tests/ai/foundation-gate.test.ts tests/ai/published-boundary.e2e.test.ts tests/ai/runtime.test.ts tests/ai/openai-adapter.test.ts tests/ai/public-request-guard.test.ts tests/content/listed-catalog.test.ts",
+    "test": "tsx --test --test-concurrency=1 tests/ai/foundation-gate.test.ts tests/ai/published-boundary.e2e.test.ts tests/ai/runtime.test.ts tests/ai/openai-adapter.test.ts tests/ai/public-request-guard.test.ts tests/content/listed-catalog.test.ts tests/media/episode-masters.test.ts",
     "prisma:generate": "prisma generate",
     "prisma:migrate": "prisma migrate dev",
     "prisma:studio": "prisma studio",

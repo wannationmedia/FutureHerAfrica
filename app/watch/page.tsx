@@ -11,7 +11,7 @@ export const revalidate = 60;
 export const metadata = createPageMetadata({
   title: "Watch",
   description:
-    "Watch FutureHerAfrica lessons on YouTube. Playlists for AI fluency and money systems, organised as a calm public classroom.",
+    "Watch FutureHerAfrica lessons in the classroom. Playlists for AI fluency and money systems, organised without the noise.",
   path: "/watch",
 });
 
@@ -27,8 +27,8 @@ export default async function WatchPage() {
           <h1>The FutureHer Africa classroom</h1>
           <hr className="woven-rule" />
           <p className="lede">
-            Video lives on YouTube. This hub organises the show, season, playlists, and episode
-            metadata so you can find the next practical lesson without the noise.
+            Watch published lessons here. This hub organises the show, season, playlists, and
+            episode metadata so you can find the next practical lesson without the noise.
           </p>
           <div className="actions">
             <Button href={YOUTUBE_CHANNEL.url} external>

@@ -25,3 +25,6 @@ Thumbs.db
 # Local production artifacts
 launch/EP001.zip
 launch/EP001_RENDERED_DRAFT.mp4
+
+# Staged classroom masters — too large for git; copy from launch/ locally
+public/media/episodes/*.mp4
